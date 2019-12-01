@@ -40,15 +40,17 @@
 - l - laughing :D
 - g - grin :]
 - w - owo :3
+
 - n - neutral :|
 - o - open :o
 - t - tiny :·
 - y - yelling :O
-- r - handlebar?
+- r - handlebar? similar to x but more like a wide h
 - x - not telling :x
 - k - kissing :*
-- v - wavy '~'
+
 - s - sad :(
 - c - crying D:
 - u - unsure :/
 - m - omo 3:
+- v - wavy sad/sick? '~'
