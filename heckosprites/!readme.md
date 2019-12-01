@@ -9,26 +9,28 @@
 
 (use these instead of the letters, you can still add the x for sans)
 
-- happy (nh)
-- sad (ns)
-- laughing (1l)
+- happy (dh)
+- sad (ds)
+- laughing (nl)
 - smug (sg)
 - bruh (sn)
-- thinking (un)
+- thinking (8n)
 - dizzy (wr)
-- asleep (4h)
+- asleep (uh)
 - happycry (hw)
-- ooh (nt)
+- ooh (dt)
 
 # EYES
 
-- n - neutral '.'
+- d - default '.'
 - h - happy/teary-eyed ^.^
 - s - sad/smug v.v
-- l, r, u, d - left, right, up, down
-- i, o - in, out
+- n - n.n
+- u - u.u
+- 12346789 - directions (2 is down, 4 is left, like on a computer keypad)
+- 5 - cross-eyed
+- 0 - reverse cross-eyed
 - w - weird/dizzy
-- 1, 2, 3, 4 - ∆.∆, ^.^, U.U, u.u
 - t - tiny ·.·
 - b - blank
 
