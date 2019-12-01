@@ -11,7 +11,7 @@ shortcuts = (("happy",      "dh"),
              ("bruh",       "sn"),
              ("thinking",   "8n"),
              ("dizzy",      "wr"),
-             ("asleep",     "uh"),
+             ("asleep",     "zn"),
              ("happycry",   "hw"),
              ("ooh",        "dt"))
 

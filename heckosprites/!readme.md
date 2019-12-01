@@ -16,7 +16,7 @@
 - bruh (sn)
 - thinking (8n)
 - dizzy (wr)
-- asleep (uh)
+- asleep (zn)
 - happycry (hw)
 - ooh (dt)
 
@@ -25,12 +25,14 @@
 - d - default '.'
 - h - happy/teary-eyed ^.^
 - s - sad/smug v.v
+- z - closed (asleep)
 - n - n.n
 - u - u.u
 - 12346789 - directions (2 is down, 4 is left, like on a computer keypad)
 - 5 - cross-eyed
 - 0 - reverse cross-eyed
 - w - weird/dizzy
+- c - curious/suspicious 🤨
 - t - tiny ·.·
 - b - blank
 
