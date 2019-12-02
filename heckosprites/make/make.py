@@ -61,7 +61,7 @@ for e in eyes:
     print(e[-1])
     for m in mouths:
         for x in (0, 1):
-            base = Image.alpha_composite(e[x], m[0])
+            base = Image.alpha_composite(m[0], e[x])
             for o in overlaysmerged:
                 out = Image.alpha_composite(base, o[0])
                 for ext in extensions:
