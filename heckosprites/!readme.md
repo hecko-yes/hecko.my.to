@@ -16,23 +16,30 @@
 - bruh (sn)
 - thinking (8n)
 - dizzy (wr)
-- asleep (zn)
-- happycry (hw)
+- asleep (zt)
+- crying (cs)
+- happycry (ch)
+- innocent (9k)
+- really (in)
+- winking (kg)
 - ooh (dt)
+- blank (bb)
 
 # EYES
 
 - d - default '.'
 - h - happy/teary-eyed ^.^
 - s - sad/smug v.v
-- z - closed (asleep)
+- z - closed (asleep) -.-
+- c - crying -.-,
+- k - winking
 - n - n.n
 - u - u.u
 - 12346789 - directions (2 is down, 4 is left, like on a computer keypad)
 - 5 - cross-eyed
 - 0 - reverse cross-eyed
-- w - weird/dizzy
-- c - curious/suspicious 🤨
+- w - weird/dizzy o.O
+- i - one eyebrow raised 🤨
 - t - tiny ·.·
 - b - blank
 
@@ -45,11 +52,12 @@
 
 - n - neutral :|
 - o - open :o
-- t - tiny :·
 - y - yelling :O
 - r - handlebar? similar to x but more like a wide h
 - x - not telling :x
 - k - kissing :*
+- t - tiny :·
+- b - blank :
 
 - s - sad :(
 - c - crying D:

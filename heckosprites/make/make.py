@@ -11,9 +11,15 @@ shortcuts = (("happy",      "dh"),
              ("bruh",       "sn"),
              ("thinking",   "8n"),
              ("dizzy",      "wr"),
-             ("asleep",     "zn"),
-             ("happycry",   "hw"),
-             ("ooh",        "dt"))
+             ("asleep",     "zt"),
+             ("crying",     "cs"),
+             ("happycry",   "ch"),
+             ("innocent",   "9k"),
+             ("really",     "in"),
+             ("winking",    "kg"),
+             ("ooh",        "dt"),
+             ("blank",      "bb")
+                                 )
 
 eyes, mouths = [], []
 
@@ -23,7 +29,7 @@ for file in os.listdir("./eyes"):
                                        im.split()[1], im.split()[3])),  # (black and white)
                   Image.merge("RGBA", (im.split()[0], im.split()[2],    # 0ff -> 0ff, 00f -> 0ff
                                        im.split()[2], im.split()[3])),  # (sans eye)
-                  os.path.splitext(file)[0]                          ))
+                  os.path.splitext(file)[0]                         ))
     
 for file in os.listdir("./mouths"):
     mouths.append(( Image.open("./mouths/" + file),
