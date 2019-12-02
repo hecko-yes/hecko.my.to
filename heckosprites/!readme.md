@@ -2,12 +2,12 @@
 1. type https://sobsz.github.io/heckosprites/
 2. add the character corresponding to your desired eyes
 3. do the same but with the mouth
-4. put x at the end if you want the sans eye
-5. add png if you want, it's not necessary but you can do it
+4. put b, s, and/or x at the end for blush, sweat, and sans eye respectively
+6. add png if you want, it's not necessary but you can do it
 
 # SHORTCUTS
 
-(use these instead of the letters, you can still add the x for sans)
+(use these instead of the letters, you can still add the sans eye if you want but not b or s because they're already included)
 
 - happy (dh)
 - sad (ds)
@@ -23,6 +23,11 @@
 - really (in)
 - winking (kg)
 - ooh (dt)
+- nervous (2ns)
+- flushed (ttb)
+- blushing (2hb)
+- happyblush (2ns)
+- nervouslaugh (nls)
 - blank (bb)
 
 # EYES
