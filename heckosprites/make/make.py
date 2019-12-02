@@ -19,15 +19,11 @@ eyes, mouths = [], []
 
 for file in os.listdir("./eyes"):
     im = Image.open("./eyes/" + file)
-    if im.width > 67:
-        eyes.append(( im.crop((0 , 0, 1*67, 70)),
-                      im.crop((67, 0, 2*67, 70)),
-                      os.path.splitext(file)[0] ))
-    else:
-        eyes.append(( Image.merge("RGBA", (im.split()[1], im.split()[1],
-                                           im.split()[1], im.split()[3])),
-                      im,
-                      os.path.splitext(file)[0]                          ))
+    eyes.append(( Image.merge("RGBA", (im.split()[1], im.split()[1],    # 0ff -> fff, 00f -> 000
+                                       im.split()[1], im.split()[3])),  # (black and white)
+                  Image.merge("RGBA", (im.split()[0], im.split()[2],    # 0ff -> 0ff, 00f -> 0ff
+                                       im.split()[2], im.split()[3])),  # (sans eye)
+                  os.path.splitext(file)[0]                          ))
     
 for file in os.listdir("./mouths"):
     mouths.append(( Image.open("./mouths/" + file),
