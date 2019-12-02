@@ -3,7 +3,9 @@
 2. add the character corresponding to your desired eyes
 3. do the same but with the mouth
 4. put b, s, and/or x at the end for blush, sweat, and sans eye respectively
-6. add png if you want, it's not necessary but you can do it
+5. add png if you want, it's not necessary but you can do it
+
+for example, https://sobsz.github.io/heckosprites/4csx.png results in an "oh snap i forgot something brb guys" type of look with sweat and a sans eye
 
 # SHORTCUTS
 
