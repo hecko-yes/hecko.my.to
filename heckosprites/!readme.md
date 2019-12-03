@@ -40,6 +40,7 @@ for example, https://sobsz.github.io/heckosprites/4csx.png results in an "oh sna
 - z - closed (asleep) -.-
 - c - crying -.-,
 - k - winking
+- o - wide open O.O
 - n - n.n
 - u - u.u
 - 12346789 - directions (2 is down, 4 is left, like on a computer keypad)
@@ -56,6 +57,7 @@ for example, https://sobsz.github.io/heckosprites/4csx.png results in an "oh sna
 - l - laughing :D
 - g - grin :]
 - w - owo :3
+- p - tongue out :P
 
 - n - neutral :|
 - o - open :o
