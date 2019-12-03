@@ -30,6 +30,8 @@ size = (67, 70)
 
 eyes, mouths, overlays = [], [], []
 
+base = Image.open("base.png")
+
 for file in os.listdir("./eyes"):
     im = Image.open("./eyes/" + file)
     eyes.append(( Image.merge("RGBA", (im.split()[1], im.split()[1],    # 0ff -> fff, 00f -> 000
@@ -59,11 +61,12 @@ overlaysmerged = imgsuperset(overlays)
 
 for e in eyes:
     print(e[-1])
-    for m in mouths:
-        for x in (0, 1):
-            base = Image.alpha_composite(m[0], e[x])
+    for x in (0, 1):
+        eyed = Image.alpha_composite(base, e[x])
+        for m in mouths:
+            mouthed = Image.alpha_composite(eyed, m[0])
             for o in overlaysmerged:
-                out = Image.alpha_composite(base, o[0])
+                out = Image.alpha_composite(mouthed, o[0])
                 for ext in extensions:
                     out.save("../" + e[-1] + m[-1] + o[1] + "x"*x + ext, "PNG", option="optimize")
 
