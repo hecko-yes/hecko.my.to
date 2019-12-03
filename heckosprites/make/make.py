@@ -77,4 +77,10 @@ for s in shortcuts:
             shutil.copy("../" + s[1] + "x"*x + ext,
                         "../" + s[0] + "x"*x + ext)
 
+print("oneoffs")
+for file in os.listdir("./oneoffs"):
+    for ext in extensions:
+        shutil.copy("./oneoffs/" + file,
+                    "../" + os.path.splitext(file)[0] + ext)
+
 print("DONE")
