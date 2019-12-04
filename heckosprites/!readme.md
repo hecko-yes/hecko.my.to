@@ -4,14 +4,14 @@
 1. type https://sobsz.github.io/heckosprites/
 2. add the character corresponding to your desired eyes
 3. do the same but with the mouth
-4. put b, s, and/or x at the end for blush, sweat, and sans eye respectively
+4. put b, s, and/or x at the end for blush, sweat, and sans eye respectively (in alphabetical order!)
 5. add png if you want, it's not necessary but you can do it
 
 for example, https://sobsz.github.io/heckosprites/4csx.png results in an "oh snap i forgot something brb guys" type of look with sweat and a sans eye
 
 # SHORTCUTS
 
-(use these instead of the letters, you can still add the sans eye if you want but not b or s because they're already included)
+use these instead of the letters, you can still add the sans eye if you want but not b or s because they're already included
 
 - happy (dh)
 - sad (ds)
@@ -33,6 +33,13 @@ for example, https://sobsz.github.io/heckosprites/4csx.png results in an "oh sna
 - happyblush (nlb)
 - nervouslaugh (nls)
 - blank (bb)
+
+# ONE-OFFS
+
+these cannot be created using the regular method because they're too extraordinary, they support some but not all modifiers depending on the one-off
+
+- derp (x)
+- back (s, x)
 
 # EYES
 

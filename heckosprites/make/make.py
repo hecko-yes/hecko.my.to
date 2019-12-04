@@ -2,6 +2,8 @@ import os
 import shutil
 from PIL import Image, ImageMath
 
+# not sure why you'd ever wanna use this code but feel free to do whatever with it i guess
+
 extensions = ("", ".png")
 
 shortcuts = (("happy",          "dh"),
@@ -78,9 +80,9 @@ for s in shortcuts:
                         "../" + s[0] + "x"*x + ext)
 
 print("oneoffs")
-for file in os.listdir("./oneoffs"):
+for file in os.listdir("./oneoffs"): # open and resave for extra compression
+    out = Image.open("./oneoffs/" + file)
     for ext in extensions:
-        shutil.copy("./oneoffs/" + file,
-                    "../" + os.path.splitext(file)[0] + ext)
+        out.save("../" + os.path.splitext(file)[0] + ext, "PNG", option="optimize")
 
 print("DONE")
