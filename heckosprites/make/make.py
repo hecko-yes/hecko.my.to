@@ -21,7 +21,7 @@ shortcuts = (("happy",          "dh"),
              ("nervous",       "2ns"),
              ("flushed",       "ttb"),
              ("blushing",      "2hb"),
-             ("happyblush",    "2ns"),
+             ("happyblush",    "nlb"),
              ("nervouslaugh",  "nls"),
              ("blank",          "bb"),
                                      )

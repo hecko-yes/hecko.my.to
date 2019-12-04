@@ -1,3 +1,5 @@
+(if you wanna see the code click [here](https://github.com/Sobsz/sobsz.github.io/tree/master/heckosprites/make), you can't see it normally because of the file limit but it's there i swear)
+
 # HOW TO USE
 1. type https://sobsz.github.io/heckosprites/
 2. add the character corresponding to your desired eyes
@@ -28,7 +30,7 @@ for example, https://sobsz.github.io/heckosprites/4csx.png results in an "oh sna
 - nervous (2ns)
 - flushed (ttb)
 - blushing (2hb)
-- happyblush (2ns)
+- happyblush (nlb)
 - nervouslaugh (nls)
 - blank (bb)
 
