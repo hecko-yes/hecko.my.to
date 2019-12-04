@@ -32,6 +32,11 @@ use these instead of the letters, you can still add the sans eye if you want but
 - blushing (2hb)
 - happyblush (nlb)
 - nervouslaugh (nls)
+- tongueout (np)
+- confused (ic)
+- angry (as)
+- eyeroll (7n)
+- hypnotized (yt)
 - blank (bb)
 
 # ONE-OFFS
@@ -46,6 +51,7 @@ these cannot be created using the regular method because they're too extraordina
 - d - default '.'
 - h - happy/teary-eyed ^.^
 - s - sad/smug v.v
+- a - angry
 - z - closed (asleep) -.-
 - c - crying -.-,
 - k - winking
@@ -56,6 +62,7 @@ these cannot be created using the regular method because they're too extraordina
 - 5 - cross-eyed
 - 0 - reverse cross-eyed
 - w - weird/dizzy o.O
+- y - hypnotized (spirals)
 - i - one eyebrow raised 🤨
 - t - tiny ·.·
 - b - blank
@@ -79,6 +86,6 @@ these cannot be created using the regular method because they're too extraordina
 
 - s - sad :(
 - c - crying D:
-- u - unsure :/
+- e - unsure :/
 - m - omo 3:
 - v - wavy sad/sick? '~'
