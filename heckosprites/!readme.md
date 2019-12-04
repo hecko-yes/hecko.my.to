@@ -32,7 +32,7 @@ use these instead of the letters, you can still add the sans eye if you want but
 - blushing (2hb)
 - happyblush (nlb)
 - nervouslaugh (nls)
-- tongueout (np)
+- tongueout (dp)
 - confused (ic)
 - angry (as)
 - eyeroll (7n)
