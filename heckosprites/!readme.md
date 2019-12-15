@@ -28,7 +28,7 @@ use these instead of the letters, you can still add the sans eye if you want but
 - winking (kg)
 - ooh (dt)
 - nervous (2ns)
-- flushed (ttb)
+- flushed (tnb)
 - blushing (2hb)
 - happyblush (nlb)
 - nervouslaugh (nls)
