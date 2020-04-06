@@ -28,7 +28,7 @@ use these instead of the letters, you can still add the sans eye if you want but
 - winking (kg)
 - ooh (dt)
 - nervous (2ns)
-- flushed (tnb)
+- flushed (oqb)
 - blushing (2hb)
 - happyblush (nlb)
 - nervouslaugh (nls)
@@ -76,8 +76,9 @@ these cannot be created using the regular method because they're too extraordina
 - p - tongue out :P
 
 - n - neutral :|
-- o - open :o
-- y - yelling :O
+- o - open :O
+- q - quite open :o
+- y - yelling :()
 - r - handlebar? similar to x but more like a wide h
 - x - not telling :x
 - k - kissing :*
