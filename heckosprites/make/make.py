@@ -30,6 +30,8 @@ shortcuts = (("happy",          "dh"),
              ("angry",          "as"),
              ("eyeroll",        "7n"),
              ("hypnotized",     "yt"),
+             ("aaa",           "xtb"),
+             ("fullmouth",      "xx"),
              ("blank",          "bb"),
                                      )
 

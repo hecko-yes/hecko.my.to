@@ -37,6 +37,8 @@ use these instead of the letters, you can still add the sans eye if you want but
 - angry (as)
 - eyeroll (7n)
 - hypnotized (yt)
+- aaa (xtb)
+- fullmouth (xx)
 - blank (bb)
 
 # ONE-OFFS
@@ -55,6 +57,7 @@ these cannot be created using the regular method because they're too extraordina
 - z - closed (asleep) -.-
 - c - crying -.-,
 - k - winking
+- x - >.<
 - o - wide open O.O
 - n - n.n
 - u - u.u
