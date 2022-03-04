@@ -87,6 +87,7 @@ these cannot be created using the regular method because they're too extraordina
 - k - kissing :*
 - t - tiny :·
 - b - blank :
+- u - i ran out of memorable letters this one's neutral but smaller
 
 - s - sad :(
 - c - crying D:
