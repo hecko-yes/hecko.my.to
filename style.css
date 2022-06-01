@@ -1,0 +1,81 @@
+@font-face {
+	font-family: "Catamaran";
+	src: url("assets/fonts/Catamaran-Regular.ttf");
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: "Catamaran";
+	src: url("assets/fonts/Catamaran-Bold.ttf");
+	font-style: normal;
+	font-weight: 700;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+	background-color: #000;
+	font-family: "Catamaran", sans-serif;
+	font-size: 18px;
+	line-height: 1.2;
+}
+
+#outer {
+	min-height: 100%;
+	/* padding: 0px 5px; */
+}
+
+#inner {
+	background-color: #0b0f13;
+	margin: auto;
+	max-width: 750px;
+	padding: 0 15px;
+	min-height: 100%;
+}
+
+#content {
+	padding: 15px 0;
+}
+
+#content br {display: none;}
+#content p br {display: inline;}
+/* https://stackoverflow.com/a/52796572
+    i hate this just as much as you do  */
+
+.breadcrumbs {
+	background-color: #1e2226;
+	margin: -15px;
+	padding: 7px 10px 5px 10px;
+}
+
+h1 {
+	font-size: 45px;
+	font-weight: bold;
+	background-color: #7E2553;
+	margin: 0 -15px 15px -15px; /* the 0 used to be -15px but then i did things that necessitated this somehow*/
+	padding: 120px 20px 5px 20px;
+	text-align: right;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:link {
+	color: #29ADFF;
+}
+
+a:visited {
+	color: #83769C;
+}
+
+a:hover {
+	color: #754665;
+}
+
+a:active {
+	color: #754665;
+}

@@ -1,0 +1,12 @@
+name: hecko
+
+plugins:
+  - jekyll-default-layout
+
+kramdown:
+  input: kramdown
+  gfm_quirks: [paragraph_end, no_auto_typographic]
+  syntax_highlighter: coderay
+  syntax_highlighter_opts:
+    line_numbers: table
+    bold_every: 5
