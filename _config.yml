@@ -1,5 +1,8 @@
 name: hecko
 
+include:
+  - _assets
+
 plugins:
   - jekyll-default-layout
 
