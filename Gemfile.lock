@@ -40,9 +40,6 @@ GEM
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
-    kramdown-syntax-coderay (1.0.1)
-      coderay (~> 1.1)
-      kramdown (~> 2.0)
     liquid (4.0.3)
     listen (3.7.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -70,7 +67,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-default-layout
-  kramdown-syntax-coderay (~> 1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH

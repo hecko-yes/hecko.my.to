@@ -10,4 +10,3 @@ gem "webrick", "~> 1.7"
 
 gem "jekyll-default-layout"
 
-gem "kramdown-syntax-coderay", "~> 1.0"
