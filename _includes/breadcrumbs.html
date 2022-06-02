@@ -3,7 +3,7 @@
 <a href="/">home</a>
 {% for crumb in crumbs offset: 1 %}
 	{% if forloop.last %}
-		› <strong>{{ page.title }}</strong>
+		› <strong>{% include title.html %}</strong>
 	{% else %}
 		› <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' }}</a>
 	{% endif %}

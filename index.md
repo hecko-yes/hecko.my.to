@@ -26,8 +26,7 @@ hi
 
 hi
 
-```
-↑ uh oh blank line- sorry i mean hi
+```python
 hi(hi) = f"hi{hi}"
 hi
 ```

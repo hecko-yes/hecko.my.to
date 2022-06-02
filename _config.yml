@@ -3,10 +3,14 @@ name: hecko
 include:
   - _assets
 
-plugins:
-  - jekyll-default-layout
-
 kramdown:
   input: GFM
   hard_wrap: true
   gfm_quirks: [paragraph_end, no_auto_typographic]
+
+plugins:
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+
+optional_front_matter:
+  remove_originals: true

@@ -1,3 +1,9 @@
+---
+---
+
+$padding: 15px;
+$npadding: -15px;
+
 @font-face {
 	font-family: "Catamaran";
 	src: url("_assets/fonts/Catamaran-Regular.ttf");
@@ -12,7 +18,11 @@
 	font-weight: 700;
 }
 
-html, body {
+html {
+	height: 100%;
+}
+
+body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
@@ -24,31 +34,39 @@ html, body {
 }
 
 #outer {
-	min-height: 100%;
+	height: 100%;
 	/* padding: 0px 5px; */
 }
 
 #inner {
+	min-height: 100%;
 	background-color: #131619;
 	margin: auto;
 	max-width: 750px;
-	padding: 0 15px;
-	min-height: 100%;
+	padding: 0 $padding;
+  display: flex;
+  flex-direction: column;
 }
 
 #content {
-	padding: 15px 0;
+	padding: 0;
+  flex: 1 0 auto;
 }
-
-#content br {display: none;}
-#content p br {display: inline;}
-/* https://stackoverflow.com/a/52796572
-    i hate this just as much as you do  */
 
 .breadcrumbs {
 	background-color: #1e2226;
-	margin: -15px;
+	margin: 0 $npadding;
 	padding: 7px 10px 5px 10px;
+}
+
+header {
+	flex-shrink: 0;
+	padding: 0;
+	margin: 0;
+}
+
+footer {
+	flex-shrink: 0;
 }
 
 h1 {
@@ -56,7 +74,7 @@ h1 {
 	font-size: 45px;
 	font-weight: bold;
 	background-color: #7e2553;
-	margin: 0 -15px 15px -15px; /* the 0 used to be -15px but then i did things that necessitated this somehow*/
+	margin: 0 $npadding;
 	padding: 120px 20px 5px 20px;
 	text-align: right;
 }

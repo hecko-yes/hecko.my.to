@@ -2,19 +2,24 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>{{ page.title }} - {{ site.name }}</title>
+		<title>{% include title.html %} - {{ site.name }}</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="{{- 'style.css' | relative_url -}}" rel="stylesheet" type="text/css" media="all">
 	</head>
 	<body>
 		<div id="outer">
-      <article id="inner">
-        <h1{% if page.header %} style="background-color: #{{ page.header }};"{% endif %}>{{ page.title }}</h1>
+      <div id="inner">
+				<header>
+					<h1{% if page.header %} style="background-color: #{{ page.header }};"{% endif %}>{% include title.html %}</h1>
         {% include breadcrumbs.html %}
-        <div id="content">
+				</header>
+        <article id="content">
           {{ content }}
-        </div>
-        {% include breadcrumbs.html %}
-      </article>
+        </article>
+				<footer>
+					{% include breadcrumbs.html %}
+				</footer>
+			</div>
     </div>
 	</body>
 </html>

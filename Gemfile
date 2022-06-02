@@ -8,5 +8,7 @@ gem "jekyll", "~> 4.2"
 
 gem "webrick", "~> 1.7"
 
-gem "jekyll-default-layout"
-
+group :jekyll_plugins do
+	gem "jekyll-default-layout"
+  gem 'jekyll-optional-front-matter'
+end
