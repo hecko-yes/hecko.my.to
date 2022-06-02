@@ -1,6 +1,6 @@
 ---
-title: hiiii
-header: cc7700
+title: "hiiii"
+color: "orange"
 ---
 
 this will eventually be a website of **hecko** (#8977 on discord)

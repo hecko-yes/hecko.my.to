@@ -1,6 +1,6 @@
 ---
-title: secretsh
-header: be1250
+title: "secretsh"
+color: "magenta"
 ---
 
 well i'll be danged you can continue patterns

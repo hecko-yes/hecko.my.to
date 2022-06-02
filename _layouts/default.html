@@ -10,7 +10,7 @@
 		<div id="outer">
       <div id="inner">
 				<header>
-					<h1{% if page.header %} style="background-color: #{{ page.header }};"{% endif %}>{% include title.html %}</h1>
+					<h1{% if page.color %} style="background-color: #{{ site.data.colors[page.color] | default: page.color }};"{% endif %}>{% include title.html %}</h1>
         {% include breadcrumbs.html %}
 				</header>
         <article id="content">
