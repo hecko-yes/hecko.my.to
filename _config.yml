@@ -7,5 +7,6 @@ plugins:
   - jekyll-default-layout
 
 kramdown:
-  input: kramdown
+  input: GFM
+  hard_wrap: true
   gfm_quirks: [paragraph_end, no_auto_typographic]

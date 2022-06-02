@@ -29,7 +29,7 @@ html, body {
 }
 
 #inner {
-	background-color: #0b0f13;
+	background-color: #131619;
 	margin: auto;
 	max-width: 750px;
 	padding: 0 15px;
@@ -55,7 +55,7 @@ h1 {
 	color: #fff;
 	font-size: 45px;
 	font-weight: bold;
-	background-color: #7E2553;
+	background-color: #7e2553;
 	margin: 0 -15px 15px -15px; /* the 0 used to be -15px but then i did things that necessitated this somehow*/
 	padding: 120px 20px 5px 20px;
 	text-align: right;
@@ -66,11 +66,11 @@ a {
 }
 
 a:link {
-	color: #29ADFF;
+	color: #29ADff;
 }
 
 a:visited {
-	color: #83769C;
+	color: #83769c;
 }
 
 a:hover {
