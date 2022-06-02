@@ -7,19 +7,17 @@
 		<link href="{{- 'style.css' | relative_url -}}" rel="stylesheet" type="text/css" media="all">
 	</head>
 	<body>
-		<div id="outer">
-      <div id="inner">
-				<header>
-					<h1{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>{% include title.html %}</h1>
-        {% include breadcrumbs.html %}
-				</header>
-        <article id="content">
-          {{ content }}
-        </article>
-				<footer>
-					{% include breadcrumbs.html %}
-				</footer>
-			</div>
-    </div>
+		<div id="wrapper">
+			<header>
+				<h1{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>{% include title.html %}</h1>
+			{% include breadcrumbs.html %}
+			</header>
+			<article id="content">
+				{{ content }}
+			</article>
+			<footer>
+				{% include breadcrumbs.html %}
+			</footer>
+		</div>
 	</body>
 </html>
