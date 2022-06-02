@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>{% include title.html %} - {{ site.name }}</title>
+		<title>{% include title.html %} - {{ site.title }}</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link href="{{- 'style.css' | relative_url -}}" rel="stylesheet" type="text/css" media="all">
 	</head>
@@ -10,7 +10,7 @@
 		<div id="outer">
       <div id="inner">
 				<header>
-					<h1{% if page.color %} style="background-color: #{{ site.data.colors | find: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>{% include title.html %}</h1>
+					<h1{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>{% include title.html %}</h1>
         {% include breadcrumbs.html %}
 				</header>
         <article id="content">
