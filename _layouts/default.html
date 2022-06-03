@@ -8,15 +8,20 @@
 	</head>
 	<body>
 		<div id="wrapper">
-			<header>
-				<h1{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>{% include title.html %}</h1>
-			{% include breadcrumbs.html %}
+			<header{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>
+				{% assign crumbs = page.url | remove: '/index.html' | split: '/' %}
+				{% for crumb in crumbs %}
+					{% unless forloop.last %}
+						<a href="{% assign crumb_limit = forloop.index %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: "/" | replace:"without-plugin/","without-plugins/" }}{% endfor %}">{{ crumb | replace:"-", " " | remove: ".html" | default:"home" }}</a>&nbsp;›&nbsp;
+					{% endunless %}
+				{% endfor %}
+				<h1>{% include title.html %}</h1>
 			</header>
 			<article id="content">
 				{{ content }}
 			</article>
 			<footer>
-				{% include breadcrumbs.html %}
+				footer stuff here eventually
 			</footer>
 		</div>
 	</body>

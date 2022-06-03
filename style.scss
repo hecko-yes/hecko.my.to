@@ -27,8 +27,11 @@ body {
 	margin: 0;
 	padding: 0;
 	overflow-y: scroll;
-	color: #ddd;
+	
 	background-color: #000;
+	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="144" width="144" xmlns:v="https://vecta.io/nano"><path d="M0 0h144v144H0z"/><g fill="%23090a0b"><path d="M25.846 14.769L3.692 29.538l14.769 22.154 22.154-14.769-14.769-22.154m55.385 11.077L59.077 40.615l14.769 22.154L96 48 81.231 25.846M48 48L25.846 62.769l14.769 22.154 22.154-14.769L48 48M3.692-18.462l-22.154 14.77 14.77 22.154 22.154-14.77-14.77-22.154M59.077-7.385L36.923 7.385l14.769 22.154L73.846 14.77 59.077-7.385m33.231-22.153L70.154-14.769 84.923 7.385l22.154-14.769-14.769-22.154M-7.385 84.923l14.769 22.154 22.154-14.769-14.769-22.154-22.154 14.769m-22.153-33.231l14.769 22.154L7.385 59.077-7.385 36.923-29.538 51.692m92.307 66.462l22.154-14.769-14.769-22.154L48 96l14.769 22.154"/><use xlink:href="%23B"/><use xlink:href="%23B" x="-55.385" y="-11.077"/><use xlink:href="%23B" x="-88.615" y="11.077"/><use xlink:href="%23B" x="-33.231" y="22.153"/><path d="M129.231 25.846L114.462 3.692l-22.154 14.77 14.769 22.154 22.154-14.769m-11.077 55.384l-14.769-22.154-22.154 14.769L96 96l22.154-14.769"/><use xlink:href="%23C"/><use xlink:href="%23C" x="11.077" y="-55.385"/><use xlink:href="%23C" x="33.23" y="-22.154"/><use xlink:href="%23C" x="22.154" y="33.23"/><use xlink:href="%23C" x="22.154" y="-110.77"/></g><defs ><path id="B" d="M84.923 151.385l22.154-14.769-14.769-22.154-22.154 14.769 14.769 22.154"/><path id="C" d="M140.308 114.462l-14.769-22.154-22.154 14.769 14.769 22.154 22.154-14.769"/></defs></svg>');
+	
+	color: #ddd;
 	font-family: "Catamaran", sans-serif;
 	font-size: 18px;
 	line-height: 1.2;
@@ -49,30 +52,36 @@ body {
   flex: 1 0 auto;
 }
 
-.breadcrumbs {
-	background-color: #1e2226;
-	margin: 0 $npadding;
-	padding: 7px 10px 5px 10px;
-}
-
 header {
+	min-height: 200px;
+	margin: 0 $npadding;
+	padding: $padding;
+	text-align: right;
 	flex-shrink: 0;
-	padding: 0;
-	margin: 0;
+	
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	
+	color: #ddd;
+	color: rgba(255, 255, 255, 0.8);
+	background-color: #263238;
 }
 
 footer {
+	margin: 0 $npadding;
+	padding: 10px $padding;
 	flex-shrink: 0;
+	
+	background-color: #1e2226;
 }
 
 h1 {
+	padding: 0;
+	margin: 0 0 -9px 0;
 	color: #fff;
 	font-size: 45px;
 	font-weight: bold;
-	background-color: #263238;
-	margin: 0 $npadding;
-	padding: 120px 20px 5px 20px;
-	text-align: right;
 }
 
 a {
@@ -80,17 +89,22 @@ a {
 }
 
 a:link {
-	color: #29ADff;
+	color: #29adff;
 }
 
 a:visited {
 	color: #83769c;
 }
 
-a:hover {
+a:hover, a:active {
 	color: #754665;
 }
 
-a:active {
-	color: #754665;
+header > a:link, header > a:visited {
+	color: #ddd;
+	color: rgba(255, 255, 255, 0.8);
+}
+
+header > a:hover, header > a:active {
+	color: #fff;
 }
