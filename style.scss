@@ -6,16 +6,18 @@ $npadding: -15px;
 
 @font-face {
 	font-family: "Catamaran";
-	src: url("/_assets/fonts/Catamaran-Regular.ttf");
+	src: url("_assets/fonts/Catamaran-Regular.ttf");
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 }
 
 @font-face {
 	font-family: "Catamaran";
-	src: url("/_assets/fonts/Catamaran-Bold.ttf");
+	src: url("_assets/fonts/Catamaran-Bold.ttf");
 	font-style: normal;
 	font-weight: 700;
+	font-display: swap;
 }
 
 html {
@@ -59,7 +61,6 @@ header {
 	box-sizing: border-box;
 	position: relative;
 	margin: 0 $npadding;
-	padding: 12px 20px;
 	text-align: right;
 	flex-shrink: 0;
 	
@@ -75,7 +76,7 @@ header {
 	position: absolute;
 	bottom: 0;
 	right: 0;
-	margin: 8px 15px;
+	margin: 10px 20px;
 	padding: 0;
 	line-height: 1;
 }
