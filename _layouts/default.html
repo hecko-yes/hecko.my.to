@@ -4,13 +4,13 @@
 		<meta charset="UTF-8">
 		<title>{% include title.html %} - {{ site.title }}</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="{{- 'style.css' | relative_url -}}" rel="stylesheet" type="text/css" media="all">
+		<link href="{{- "style.css" | relative_url -}}" rel="stylesheet" type="text/css" media="all">
 	</head>
 	<body>
 		<div id="wrapper">
 			<header{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>
 				<div class="header-wrapper">
-					{% assign crumbs = page.url | remove: '/index.html' | split: '/' %}{% for crumb in crumbs %}{% unless forloop.last %}<a href="{% assign crumb_limit = forloop.index %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: "/" | replace:"without-plugin/","without-plugins/" }}{% endfor %}">{{ crumb | replace:"-", " " | remove: ".html" | default:"home" }}</a>&nbsp;› {% endunless %}{% endfor %}
+					{% assign crumbs = page.url | remove: '/index.html' | split: '/' %}{% for crumb in crumbs %}{% unless forloop.last %}<a href="{% assign crumb_limit = forloop.index %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: "/" }}{% endfor %}">{{ crumb | replace:"-", " " | remove: ".html" | default:"home" }}</a>&nbsp;› {% endunless %}{% endfor %}
 					<span class="title">{% include title.html %}</span>
 				</div>
 			</header>
