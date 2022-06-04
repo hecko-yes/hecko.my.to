@@ -5,6 +5,17 @@ color: "orange"
 
 this will eventually be a website of **hecko** (#8977 on discord)
 
+list of pages that i plan to make:
+- fancier home page
+- extensive about me
+  - favorite things (maybe favorite oc traits)
+- personal style guide
+- [list of my fursonæ](/fursonae/)
+- list of creative commons memes
+- rants folder
+  - existentialism
+	- gender?
+
 for now here's testing
 
 ---
