@@ -31,13 +31,17 @@ body {
 	overflow-y: scroll;
 	
 	background-color: #000;
-	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="144"><defs><symbol id="A"><path d="M81.231 73.846L96 96l22.154-14.769-14.769-22.154-22.154 14.769" fill="%23090a0b" fill-opacity="1" stroke="none"/></symbol></defs><path d="M0 0h144v144H0z"/><use xlink:href="%23A" x="-22.154" y="-33.231"/><use xlink:href="%23A" x="-55.385" y="-11.077"/><use xlink:href="%23A" x="-33.231" y="22.154"/><use xlink:href="%23A"/><use xlink:href="%23A" x="-44.308" y="-66.462"/><use xlink:href="%23A" x="-77.538" y="-44.308"/><use xlink:href="%23A" x="-11.077" y="55.385"/><use xlink:href="%23A" x="22.154" y="33.231"/><use xlink:href="%23A" x="-88.615" y="11.077"/><use xlink:href="%23A" x="-66.462" y="44.308"/><use xlink:href="%23A" x="-110.769" y="-22.154"/><use xlink:href="%23A" x="-44.308" y="77.538"/><use xlink:href="%23A" x="11.077" y="-55.385"/><use xlink:href="%23A" x="33.231" y="-22.154"/><use xlink:href="%23A" x="-11.077" y="-88.615"/><use xlink:href="%23A" x="55.385" y="11.077"/><use xlink:href="%23A" x="-99.692" y="-77.538"/><use xlink:href="%23A" x="-99.692" y="66.462"/><use xlink:href="%23A" x="44.308" y="66.462"/><use xlink:href="%23A" x="44.308" y="-77.538"/><use xlink:href="%23A" x="-104.647" y="22.599"/></svg>');
+	background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="144"><defs><symbol id="A"><path d="M81.231 73.846L96 96l22.154-14.769-14.769-22.154-22.154 14.769" fill="%23090a0b" fill-opacity="1" stroke="none"/></symbol></defs><use xlink:href="%23A" x="-22.154" y="-33.231"/><use xlink:href="%23A" x="-55.385" y="-11.077"/><use xlink:href="%23A" x="-33.231" y="22.154"/><use xlink:href="%23A"/><use xlink:href="%23A" x="-44.308" y="-66.462"/><use xlink:href="%23A" x="-77.538" y="-44.308"/><use xlink:href="%23A" x="-11.077" y="55.385"/><use xlink:href="%23A" x="22.154" y="33.231"/><use xlink:href="%23A" x="-88.615" y="11.077"/><use xlink:href="%23A" x="-66.462" y="44.308"/><use xlink:href="%23A" x="-110.769" y="-22.154"/><use xlink:href="%23A" x="-44.308" y="77.538"/><use xlink:href="%23A" x="11.077" y="-55.385"/><use xlink:href="%23A" x="33.231" y="-22.154"/><use xlink:href="%23A" x="-11.077" y="-88.615"/><use xlink:href="%23A" x="55.385" y="11.077"/><use xlink:href="%23A" x="-99.692" y="-77.538"/><use xlink:href="%23A" x="-99.692" y="66.462"/><use xlink:href="%23A" x="44.308" y="66.462"/><use xlink:href="%23A" x="44.308" y="-77.538"/><use xlink:href="%23A" x="-104.647" y="22.599"/></svg>');
 	background-position: center;
 	
 	color: #ddd;
 	font-family: "Catamaran", sans-serif;
 	font-size: 18px;
-	line-height: 1.2;
+	line-height: 1.3;
+}
+
+* {
+	letter-spacing: 0.05em;
 }
 
 #wrapper {
@@ -92,6 +96,7 @@ footer {
 	color: #fff;
 	font-size: 54px;
 	font-weight: bold;
+	letter-spacing: 0;
 }
 
 a {
