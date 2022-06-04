@@ -5,17 +5,14 @@
 	{%- assign title = crumbs | last | replace:"-"," " -%}
 {%- endif -%}
 {%- assign crumbs = crumbs | pop -%}
-{%- assign base = "" -%}
-{%- for i in crumbs -%}
-	{%- assign base = base | append: "../" -%}
-{%- endfor -%}
+{%- capture root -%}{%- for i in crumbs -%}../{%- endfor -%}{%- endcapture -%}
 <!doctype html>
 <html>
 	<head>
 		<meta charset="UTF-8">
 		<title>{{ title }} - {{ site.title }}</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="{{ base }}style.css" rel="stylesheet" type="text/css" media="all">
+		<link href="{{ root }}style.css" rel="stylesheet" type="text/css" media="all">
 	</head>
 	<body>
 		<div id="wrapper">
