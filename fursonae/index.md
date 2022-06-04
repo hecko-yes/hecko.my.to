@@ -46,7 +46,8 @@ see [here](https://gist.github.com/Sobsz/38dc8aa415f53697ab04d4e9d2ffa0dd) for m
 
 not used a whole lot unfortunately
 
-![him dabbing]()
+![doodle of him dabbing and summoning comic sans subtitles saying "can i stop now"](wesley/wesdab-final.png){: width="100%" }
+![headshot of him thinking](wesley/wes_think.png){: width="50%" }
 
 # ignios
 he/they
