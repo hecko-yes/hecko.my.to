@@ -66,10 +66,10 @@ and uhhh how about i just write from the ref sheet below
 - clothing: no thanks
 - likes:
   - tacos
-		hugs
-		roleplaying
-		nice cream guy
-		you!
+	- hugs
+	- roleplaying
+	- nice cream guy
+	- you!
 
 ![a mildly creepy vector drawing of the goat, with the text above next to it](ignios/ignios ref sheet.png){: width="100%" }
 ![less creepy pixel art by discord user Lazy#6665](ignios/ignios pixel art by lazy hash 6665.png){: width="25%" }
