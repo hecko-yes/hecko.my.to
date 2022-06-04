@@ -1,17 +1,28 @@
+{%- assign crumbs = page.url | remove: '/index.html' | split: '/' -%}
+{%- if page.title -%}
+	{%- assign title = page.title -%}
+{%- else -%}
+	{%- assign title = crumbs | last | replace:"-"," " -%}
+{%- endif -%}
+{%- assign crumbs = crumbs | pop -%}
+{%- assign base = "" -%}
+{%- for i in crumbs -%}
+	{%- assign base = base | append: "../" -%}
+{%- endfor -%}
 <!doctype html>
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>{% include title.html %} - {{ site.title }}</title>
+		<title>{{ title }} - {{ site.title }}</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link href="{{ "style.css" | relative_url }}" rel="stylesheet" type="text/css" media="all">
+		<link href="{{ base }}style.css" rel="stylesheet" type="text/css" media="all">
 	</head>
 	<body>
 		<div id="wrapper">
 			<header{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>
 				<div class="header-wrapper">
-					{% assign crumbs = page.url | remove: '/index.html' | split: '/' | pop %}{% for crumb in crumbs %}<a href="{% assign crumb_limit = forloop.index %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: "/" }}{% endfor %}">{{ crumb | replace:"-", " " | remove: ".html" | default:"home" }}</a>&nbsp;› {% endfor %}
-					<span class="title">{% include title.html %}</span>
+					{% for crumb in crumbs %}<a href="{% assign crumb_limit = forloop.index %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: "/" }}{% endfor %}">{{ crumb | replace:"-", " " | remove: ".html" | default:"home" }}</a>&nbsp;› {% endfor %}
+					<span class="title">{{ title }}</span>
 				</div>
 			</header>
 			<article id="content">

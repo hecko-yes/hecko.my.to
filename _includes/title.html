@@ -1,1 +1,0 @@
-{% if page.title %}{{ page.title }}{% else %}{{ page.url | replace:'-',' ' | remove:'/index.html' | split: '/' | last | default "home" }}{% endif %}
