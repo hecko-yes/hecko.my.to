@@ -1,12 +1,12 @@
 ---
 title: "fursonæ"
-color: green
+color: "green"
 ---
-
-the characters that i've made, for various degrees of "made"
 
 1. 
 {:toc}
+
+the characters that i've made, for various degrees of "made"
 
 # hecko
 he/they

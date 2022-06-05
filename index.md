@@ -20,9 +20,10 @@ for now here's testing
 
 ---
 
-omg hiii,,,
+omg hiii,,, 
 
-hi *hi* **hi** ***hi*** [hi](/a/b) <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi</sub></sub></sub></sub></sub></sub></sub></sub>
+hi *hi* **hi** ***hi*** [hi](/a/b) <sup>hi</sup> hi <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi <sub>hi</sub></sub></sub></sub></sub></sub></sub></sub>
+
 hi
 
 # hi
