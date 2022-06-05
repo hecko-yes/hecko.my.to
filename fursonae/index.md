@@ -19,21 +19,21 @@ started out like so:
 1. a long time ago i used to use images of tails as profile pictures
 2. i wanted to have a funny sans version of tails for my discord avatar and i stumbled upon a cursed mess that i'm not sure if i still have
 3. i added Ralsei features to it (2018-11-28)
-  ![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png){: width="50%" }
+  ![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png)
 4. angel drew it for some reason (2019-09-15)
   ![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){: width="50%" }
 5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
-	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png){: width="50%" }
+	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
 6. now it's my fursona i guess
 
 other arts follow
 
-![](hecko/hecko by nickeman132.png){: width="100%" }
-![](hecko/hecko by nickeman132 2.jpg){: width="100%" }
+![](hecko/hecko by nickeman132.png)
+![](hecko/hecko by nickeman132 2.jpg)
 
 also has a pony version
 
-![hecko as a pony made with pony.town](hecko/hecko pony sprite big.png){: width="25%" }
+![hecko as a pony made with pony.town](hecko/hecko pony sprite big.png)
 
 # wesley
 he/they
@@ -46,7 +46,7 @@ see [here](https://gist.github.com/Sobsz/38dc8aa415f53697ab04d4e9d2ffa0dd) for m
 
 not used a whole lot unfortunately
 
-![doodle of him dabbing and summoning comic sans subtitles saying "can i stop now"](wesley/wesdab-final.png){: width="100%" }
+![doodle of him dabbing and summoning comic sans subtitles saying "can i stop now"](wesley/wesdab-final.png)
 ![headshot of him thinking](wesley/wes_think.png){: width="50%" }
 
 # ignios
@@ -71,8 +71,8 @@ and uhhh how about i just write from the ref sheet below
 	- nice cream guy
 	- you!
 
-![a mildly creepy vector drawing of the goat, with the text above next to it](ignios/ignios ref sheet.png){: width="100%" }
-![less creepy pixel art by discord user Lazy#6665](ignios/ignios pixel art by lazy hash 6665.png){: width="25%" }
+![a mildly creepy vector drawing of the goat, with the text above next to it](ignios/ignios ref sheet.png)
+![less creepy pixel art by discord user Lazy#6665](ignios/ignios pixel art by lazy hash 6665.png)
 
 # pony
 it/he
@@ -86,9 +86,9 @@ a possible lore is that it was made to serve and that the collar keeps it obedie
 
 i have a 3d mockup but it was before i added hair so try to imagine a combination of the upcoming 2 pictures
 
-![](pony/synth pony 3d maker assisted mockup.png){: width="100%" }
-![](pony/synth pony sprite big.png){: width="25%" }
+![](pony/synth pony 3d maker assisted mockup.png)
+![](pony/synth pony sprite big.png)
 
 here's another hairless pic of it in [classicube](https://classicube.net/)
 
-![](pony/ClassiCube_xxO6i7Z6me.png){: width="50%" }
+![](pony/ClassiCube_xxO6i7Z6me.png)
