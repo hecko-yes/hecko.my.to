@@ -65,7 +65,7 @@ and uhhh how about i just write from the ref sheet below
   - but since he's a bab they mostly amount to being very warm and making himself glow
 - clothing: no thanks
 - likes:
-  - tacos
+	- tacos
 	- hugs
 	- roleplaying
 	- nice cream guy
