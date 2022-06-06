@@ -2,12 +2,12 @@
 {%- if page.title -%}
 	{%- assign title = page.title -%}
 {%- else -%}
-	{%- assign title = crumbs | last | replace:"-"," " -%}
+	{%- assign title = crumbs | last | replace: "-", " " -%}
 {%- endif -%}
 {%- assign crumbs = crumbs | pop -%}
 {%- capture root -%}{%- for i in crumbs -%}../{%- endfor -%}{%- endcapture -%}
 <!doctype html>
-<html>
+<html lang="en">
 	<head>
 		<meta charset="UTF-8">
 		<title>{{ title }} - {{ site.title }}</title>
@@ -18,7 +18,12 @@
 		<div id="wrapper">
 			<header{% if page.color %} style="background-color: #{{ site.data.colors | where: "name", page.color | map: "hex" | default: page.color }};"{% endif %}>
 				<div class="header-wrapper">
-					{% for crumb in crumbs %}<a href="{% assign crumb_limit = forloop.index %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: "/" }}{% endfor %}">{{ crumb | replace:"-", " " | remove: ".html" | default:"home" }}</a>&nbsp;› {% endfor %}
+					{%- for crumb in crumbs -%}
+						{%- assign crumb_url = crumbs | slice: 0, forloop.index | join: "/" | append: "/" -%}
+						{%- assign crumb_fallback = crumb | replace: "-", " " -%}
+						<a href="{{ url }}">
+							{{- site.pages | where: "url", crumb_url | map: "title" | first | default: crumb_fallback -}}
+						</a>&nbsp;› {% endfor -%}
 					<span class="title">{{ title }}</span>
 				</div>
 			</header>
