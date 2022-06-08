@@ -3,7 +3,6 @@
 
 $textmargin: 12px;
 $padding: 15px;
-$npadding: -15px;
 $gray1: #1e2226;
 $gray2: #2e3236;
 
@@ -25,6 +24,11 @@ $gray2: #2e3236;
 
 html {
 	height: 100%;
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit; /* https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
 }
 
 body {
@@ -56,7 +60,7 @@ body {
 }
 
 #content {
-	padding: $padding;
+	padding: $padding $padding ($padding - 3px) $padding;
   flex: 1 0 auto;
 }
 
@@ -132,7 +136,7 @@ header a:hover, header a:active {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	margin: $padding $npadding;
+	margin: $padding (-$padding);
 	padding: 0 $padding;
 	clear: both;
 	font-weight: bold;
@@ -172,7 +176,7 @@ h6 {
 }
 
 hr {
-	margin: 0 $npadding;
+	margin: 0 (-$padding);
 	border: 0;
 	border-bottom: 4px solid $gray2;
 }
@@ -197,11 +201,11 @@ sup, sub {
 }
 
 sup {
-	top: -6px;
+	top: -0.4em;
 }
 
 sub { 
-  top: 6px; 
+  top: 0.4em; 
 }
 
 ul, ol {
@@ -218,15 +222,15 @@ ul {
 }
 
 li {
-	margin: 6px 0 6px 15px;
+	margin: 3px 0 3px 15px;
 }
 
 ul ul li:first-child, ul ol li:first-child, ol ul li:first-child, ol ol li:first-child { /* ew */
-	margin-top: 6px;
+	margin-top: 3px;
 }
 
 ul ul li:last-child, ul ol li:last-child, ol ul li:last-child, ol ol li:last-child {
-	margin-bottom: 6px;
+	margin-bottom: 3px;
 }
 
 li::marker {
