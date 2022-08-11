@@ -3,7 +3,7 @@ title: "hiiii"
 color: "orange"
 ---
 
-this will eventually be a website of **hecko** (#8977 on discord)
+this will eventually be a website of **hecko** (#8977 on discord, <a rel="me" href="https://fluffcord.social/@hecko">@fluffcord.social</a> on fediverse)
 
 list of pages that i plan to make:
 - fancier home page
