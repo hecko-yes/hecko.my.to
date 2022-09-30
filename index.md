@@ -15,6 +15,7 @@ list of pages that i plan to make:
 - rants folder
 	- existentialism
 	- gender?
+	- [hecko cannot into art](/hecko-cannot-into-art/) (very venty)
 
 for now here's testing
 
