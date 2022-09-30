@@ -12,6 +12,8 @@ the characters that i've made, for various degrees of "made"
 he
 2018-11-28
 
+**[gallery!](hecko/)**
+
 my main character, [tails the fox](https://en.wikipedia.org/wiki/Tails_(character)) but pure white and one small tail, sometimes with a glowing blue eye a la [sans](https://undertale.fandom.com/wiki/Sans), sometimes with [Ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing
 in some iterations he can "clone" himself (have multiple bodies) and/or turn into a four-legged fox
 
@@ -25,8 +27,6 @@ started out like so:
 5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
 	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
 6. now it's my fursona i guess
-
-[gallery](hecko)
 
 also has a pony version
 
