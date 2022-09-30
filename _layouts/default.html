@@ -24,7 +24,7 @@
 						<a href="{{ crumb_url }}">
 							{{- site.pages | where: "url", crumb_url | map: "title" | first | default: crumb_fallback -}}
 						</a>&nbsp;› {% endfor -%}
-					<span class="title">{{ title }}</span>
+					<h1>{{ title }}</h1>
 				</div>
 			</header>
 			<article id="content">

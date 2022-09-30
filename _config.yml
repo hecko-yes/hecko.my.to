@@ -9,6 +9,7 @@ kramdown:
   input: GFM
   hard_wrap: true
   gfm_quirks: [paragraph_end, no_auto_typographic]
+  header_offset: 1
 
 plugins:
   - jekyll-default-layout
