@@ -48,6 +48,9 @@ but with university coming up (and then work) i'll probably *actually* not have 
 doesn't help that i can't place my drawing tablet anywhere comfortably (even on a table with a ton of space because my laptop has to be further away which throws me off)
 drawing on paper is an option but it's more conspicuous (mom found my april stash and started commenting on it and i hated it)
 
+i've once been suggested to get an art tutor but that's a lotta money for something i probably wouldn't end up learning from anyway
+and if somehow free tutors exist that's even worse since they don't even get the satisfaction of having taught someone because see above
+
 # why bother
 
 as of 2022-09-31 ai art is Here and it's probably only ever gonna get more here
