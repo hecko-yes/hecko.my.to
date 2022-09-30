@@ -25,6 +25,7 @@ $gray2: #2e3236;
 html {
 	height: 100%;
 	box-sizing: border-box;
+	overflow-wrap: break-word;
 }
 
 *, *:before, *:after {
@@ -147,6 +148,7 @@ h2 {
 	font-size: 45px;
 	background-color: $gray2;
 	text-align: center;
+	margin-top: 30px;
 }
 
 h3 {

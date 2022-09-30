@@ -10,6 +10,7 @@ kramdown:
   hard_wrap: true
   gfm_quirks: [paragraph_end, no_auto_typographic]
   header_offset: 1
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 plugins:
   - jekyll-default-layout
