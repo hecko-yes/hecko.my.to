@@ -9,7 +9,7 @@ color: "green"
 the characters that i've made, for various degrees of "made"
 
 # hecko
-he/they
+he
 2018-11-28
 
 my main character, [tails the fox](https://en.wikipedia.org/wiki/Tails_(character)) but pure white and one small tail, sometimes with a glowing blue eye a la [sans](https://undertale.fandom.com/wiki/Sans), sometimes with [Ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing
@@ -26,17 +26,14 @@ started out like so:
 	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
 6. now it's my fursona i guess
 
-other arts follow
-
-![](hecko/hecko by nickeman132.png)
-![](hecko/hecko by nickeman132 2.jpg)
+[gallery](hecko)
 
 also has a pony version
 
 ![hecko as a pony made with pony.town](hecko/hecko pony sprite big.png)
 
 # wesley
-he/they
+he
 2018-12-26
 
 anthro bear with gold fur, 2/3rds human height apparently? i don't remember writing that, i usually imagine him as regular height
@@ -50,7 +47,7 @@ not used a whole lot unfortunately
 ![headshot of him thinking](wesley/wes_think.png){: width="50%" }
 
 # ignios
-he/they
+he
 2019-08-11
 
 deltarune boss monster oc with gold fur and a sun motif on his chest
@@ -72,13 +69,15 @@ and uhhh how about i just write from the ref sheet below
 	- you!
 
 ![a mildly creepy vector drawing of the goat, with the text above next to it](ignios/ignios ref sheet.png)
-![less creepy pixel art by discord user Lazy#6665](ignios/ignios pixel art by lazy hash 6665.png)
+
+exactly one fanart by discord user Lazy#6665:
+![less creepy pixel art vaguely styled after undertale](ignios/ignios pixel art by lazy hash 6665.png)
 
 # pony
-it/he
+it
 2021-05-28
 
-codename "helping hoof" yes it's cringy but i couldn't think of a better one
+codename `helping hoof` yes it's cringy but i couldn't think of a better one
 
 white synthetic [pony](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_is_Magic) made of a marshmallow-like material with a grid outdent, a bit smaller than usual, wearing a collar
 has both wings and horn because why not
@@ -92,3 +91,13 @@ i have a 3d mockup but it was before i added hair so try to imagine a combinatio
 here's another hairless pic of it in [classicube](https://classicube.net/)
 
 ![](pony/ClassiCube_xxO6i7Z6me.png)
+
+## other ponies
+
+bashful byte (bad), he, 2022-07-10
+
+![](pony/bashful byte sprite big.png)
+
+emerald snap (good), he, 2022-08-13
+
+![](pony/emerald snap sprite big.png)
