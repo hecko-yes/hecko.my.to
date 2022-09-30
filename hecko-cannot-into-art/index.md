@@ -5,7 +5,7 @@ color: "red"
 1. 
 {:toc}
 
-<p style="text-align: center"><strong>[warning: self-deprecationy moods abound]</strong></p>
+<p style="text-align: center"><strong>[self-deprecation·y moods abound; also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess]</strong></p>
 
 i want to have the ability to do half-decent art (or even quarter-decent art)
 i am not putting examples of my current art here because a) it doesn't exist and b) people are just gonna say it's "good" when it's not (to me)
@@ -56,6 +56,10 @@ there's also the possibility of commissions but that causes the conflict of "i s
 
 additionally [oh look here's a study](https://journals.sagepub.com/doi/10.1177/0956797614535810) and it says that practice only affects up to a quarter of one's skill so even if i had magically gotten myself to practice an hour every day for years i could still have ended up worse than a teenager who just Happens To Have Talent (such as aforementioned artist friend)
 i've seen art progression charts that go from "godly" to "ungodly" in a few months, and i've seen ones that go from "bleh" to "still bleh" in a few years, and honestly what's the likelihood that my uncreative autistic ass ends up in the first category
+
+and honestly i'm not sure if i even actually *want* to art
+surely if i did want to i would've tried harder
+maybe i just wanna be mad
 
 # in conclusion
 
