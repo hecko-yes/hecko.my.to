@@ -9,7 +9,7 @@ color: "red"
 
 i want to have the ability to do half-decent art (or even quarter-decent art)
 i am not putting examples of my current art here because a) it doesn't exist and b) people are just gonna say it's "good" when it's not (to me)
-nothing realistic or impressive, just stuff like [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) (sans animation) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ)'s flat style or [morxvx](https://twitter.com/morxwx/)
+nothing realistic or impressive, just stuff like [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) (sans animation) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy)
 obstacles to that:
 1. my tear ducts activate whenever i think about drawing 
 2. see rest of page
@@ -21,6 +21,8 @@ there's much information online but it all disagrees with each other
 i saw a video (that i can't find now) with someone saying he spent years learning photorealistic art to build up a solid base before daring to do cartoons ("you must know the rules to break them") and that others should do the same
 that's demotivating for one but also my main artist friend (electriclizardfren) did none of that! and his art is very good!
 he says that he has no idea how he learned and that he just draws and magically becomes good at it over time, which a) sounds like how i do programming (which is talent in my case, which is bad news due to my lack of artistic talent) and b) i can't do that because i can't have fun drawing because i suck at it and can't just ignore that
+,,maybe that's the main problem actually, not wanting to do art because i suck at it
+in which case How do i Fix that Please Tell Me (but with specific actionable instructions instead of "simply Don't Be Like That™" because that doesn't help or "it's okay to suck at first" because i already know that intellectually but my brain refuses to accept it)
 
 and then there's ethan becker whom i was *explicitly recommended by a good artist* ([nickeman132](https://twitter.com/nickeman132)) with such takes as:
 - ["never leave your comfort zone"](https://www.youtube.com/watch?v=FqZhb5hRs5g)
