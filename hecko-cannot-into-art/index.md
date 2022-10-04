@@ -9,7 +9,7 @@ color: "red"
 
 i want to have the ability to do half-decent art (or even quarter-decent art)
 i am not putting examples of my current art here because a) it doesn't exist and b) people are just gonna say it's "good" when it's not (to me)
-nothing realistic or impressive, just stuff like [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) (sans animation) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy)
+nothing realistic or impressive, just stuff like [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) (sans animation) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy) or honestly even the [cdi cutscenes](https://www.youtube.com/watch?v=LfWGYW4uZVg) yes i'm that desperate
 obstacles to that:
 1. my tear ducts activate whenever i think about drawing 
 2. see rest of page
