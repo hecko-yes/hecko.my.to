@@ -20,9 +20,7 @@ there's much information online but it all disagrees with each other
 
 i saw a video (that i can't find now) with someone saying he spent years learning photorealistic art to build up a solid base before daring to do cartoons ("you must know the rules to break them") and that others should do the same
 that's demotivating for one but also my main artist friend (electriclizardfren) did none of that! and his art is very good!
-he says that he has no idea how he learned and that he just draws and magically becomes good at it over time, which a) sounds like how i do programming (which is talent in my case, which is bad news due to my lack of artistic talent) and b) i can't do that because i can't have fun drawing because i suck at it and can't just ignore that
-,,maybe that's the main problem actually, not wanting to do art because i suck at it
-in which case How do i Fix that Please Tell Me (but with specific actionable instructions instead of "simply Don't Be Like That™" because that doesn't help or "it's okay to suck at first" because i already know that intellectually but my brain refuses to accept it)
+he says that he has no idea how he learned and that he just draws and magically becomes good at it over time, which a) sounds like how i do programming (which is talent in my case, which is bad news due to my lack of artistic talent) and b) i can't do that because i can't have fun drawing because i suck at it and can't just ignore that (more on that in section 2)
 
 and then there's ethan becker whom i was *explicitly recommended by a good artist* ([nickeman132](https://twitter.com/nickeman132)) with such takes as:
 - ["never leave your comfort zone"](https://www.youtube.com/watch?v=FqZhb5hRs5g)
@@ -36,7 +34,7 @@ probably a mixture of being unfocused and doing the same easy thing over and ove
 
 also: How Do I [Deliberate Practice](https://en.wikipedia.org/wiki/Practice_(learning_method)#Deliberate_practice)
 "just do it" *How*
-have i ever done anything deliberately in my life even
+have i ever done anything deliberately in my life even (see section 2 paragraph 3)
 
 # how motivation
 
@@ -47,11 +45,24 @@ and even when i do it's hard to keep it up, i can't even keep up a duolingo stre
 and it's not like i don't have time, i just keep wasting it on mindlessly meandering through the web
 but with university coming up (and then work) i'll probably *actually* not have time and then i'm double screwed
 
-doesn't help that i can't place my drawing tablet anywhere comfortably (even on a table with a ton of space because my laptop has to be further away which throws me off)
+doesn't help that i was able to coast through school withut learning much of anything since i was already Naturally Talented™ at math and english and somehow managed to bumble my way through the rest (even if very barely, as with literature and other foreign languages)
+
+also doesn't help that i can't place my drawing tablet anywhere comfortably (even on a table with a ton of space because my laptop has to be further away which throws me off)
 drawing on paper is an option but it's more conspicuous (mom found my april stash and started commenting on it and i hated it)
 
 i've once been suggested to get an art tutor but that's a lotta money for something i probably wouldn't end up learning from anyway
-and if somehow free tutors exist that's even worse since they don't even get the satisfaction of having taught someone because see above
+and if somehow free tutors exist that's even worse since they don't even get the satisfaction of having taught someone because i probably won't learn anything
+
+coming back to electriclizardfren, he says:
+
+> Sometimes I'd just have a piece of schoolwork and doodle on the corner the same thing so I can try to improve on that specific thing, a weird hand that looks like junk, expressions, species and all that just to pass time
+> Whenever I was bored, I drew
+> [...]
+> I didn't even focus on being good
+> I've done all this stuff because I thought it was fun, it made me happy and it still does
+
+which i just don't have the inherent motivation to do that
+in fact i instinctively *dislike* drawing *because* i suck at it and How do i Fix that Please Tell Me (but with specific actionable instructions instead of "simply Don't Be Like That™" because that doesn't help or "it's okay to suck at first" because i already know that intellectually but my brain refuses to accept it)
 
 # why bother
 
