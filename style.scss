@@ -98,12 +98,16 @@ header {
 }
 
 footer {
-	margin: 0 0;
+	margin: 0;
 	padding: 10px $padding;
 	flex-shrink: 0;
 	background-color: $gray1;
 	text-align: right;
 	font-size: 15px;
+}
+
+footer p {
+	margin: 0;
 }
 
 h1 {
