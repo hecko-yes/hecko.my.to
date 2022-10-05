@@ -128,6 +128,13 @@ a:hover, a:active {
 	color: #754665;
 }
 
+blockquote {
+	margin: $textmargin 0;
+	padding: 6px 0 6px 12px;
+	border-left: 3px solid $gray2;
+	background: $gray1;
+}
+
 header a:link, header a:visited {
 	color: #ddd;
 	color: rgba(255, 255, 255, 0.8);
