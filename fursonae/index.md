@@ -7,9 +7,9 @@ color: "green"
 {:toc}
 
 the characters that i've made, for various degrees of "made"
+generally all of these are canonically he/they/etc like me (except the pony which is more it/its) *but* feel free to use others also since i'm not super connected to them and also don't mind it
 
 # hecko
-he
 2018-11-28
 
 **[gallery!](hecko/)**
@@ -33,7 +33,6 @@ also has a pony version
 ![hecko as a pony made with pony.town](hecko/hecko pony sprite big.png)
 
 # wesley
-he
 2018-12-26
 
 anthro bear with gold fur, 2/3rds human height apparently? i don't remember writing that, i usually imagine him as regular height
@@ -47,7 +46,6 @@ not used a whole lot unfortunately
 ![headshot of him thinking](wesley/wes_think.png){: width="50%" }
 
 # ignios
-he
 2019-08-11
 
 deltarune boss monster oc with gold fur and a sun motif on his chest
@@ -74,14 +72,13 @@ exactly one fanart by discord user Lazy#6665:
 ![less creepy pixel art vaguely styled after undertale](ignios/ignios pixel art by lazy hash 6665.png)
 
 # pony
-it
 2021-05-28
 
 codename `helping hoof` yes it's cringy but i couldn't think of a better one
 
 white synthetic [pony](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_is_Magic) made of a marshmallow-like material with a grid outdent, a bit smaller than usual, wearing a collar
 has both wings and horn because why not
-a possible lore is that it was made to serve and that the collar keeps it obedient, and/or when you tap the collar gem it flashes and listens for commands like a virtual assistant; another possible lore was that it says the collar does so but really it just likes to do stuff for people
+a possible lore is that it was a robot-esque thing (hence more it/its) made to serve and that the collar keeps it obedient, and/or when you tap the collar gem it flashes and listens for commands like a virtual assistant; another possible lore was that it says the collar does so but really it just likes to do stuff for people
 
 i have a 3d mockup but it was before i added hair so try to imagine a combination of the upcoming 2 pictures
 
@@ -94,10 +91,10 @@ here's another hairless pic of it in [classicube](https://classicube.net/)
 
 ## other ponies
 
-bashful byte (bad), he, 2022-07-10
+bashful byte (bad), 2022-07-10
 
 ![](pony/bashful byte sprite big.png)
 
-emerald snap (good), he, 2022-08-13
+emerald snap (good), 2022-08-13
 
 ![](pony/emerald snap sprite big.png)
