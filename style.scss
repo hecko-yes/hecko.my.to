@@ -2,6 +2,7 @@
 ---
 
 $textmargin: 12px;
+$smallmargin: 5px;
 $padding: 15px;
 $gray1: #1e2226;
 $gray2: #2e3236;
@@ -194,7 +195,7 @@ img {
 }
 
 p {
-	margin: $textmargin 0;
+	margin: $smallmargin 0;
 }
 
 pre {
@@ -203,6 +204,9 @@ pre {
 	letter-spacing: 0;
 }
 
+section {
+	margin: $textmargin 0;
+}
 sup, sub {
   vertical-align: baseline;
   position: relative;
@@ -230,15 +234,15 @@ ul {
 }
 
 li {
-	margin: 3px 0 3px 15px;
+	margin: $smallmargin 0 $smallmargin 15px;
 }
 
 ul ul li:first-child, ul ol li:first-child, ol ul li:first-child, ol ol li:first-child { /* ew */
-	margin-top: 3px;
+	margin-top: $smallmargin;
 }
 
 ul ul li:last-child, ul ol li:last-child, ol ul li:last-child, ol ol li:last-child {
-	margin-bottom: 3px;
+	margin-bottom: $smallmargin;
 }
 
 li::marker {
