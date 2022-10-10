@@ -5,7 +5,7 @@ color: "red"
 1. 
 {:toc}
 
-<p style="text-align: center"><strong>[self-deprecation·y moods abound; also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess]</strong></p>
+<p style="text-align: center;"><strong>[self-deprecation·y moods abound; also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess]</strong></p>
 
 i want to have the ability to do half-decent art (or even quarter-decent art)
 i am not putting examples of my current art here because a) it doesn't exist and b) people are just gonna say it's "good" when it's not (to me)
@@ -27,7 +27,7 @@ and then there's ethan becker whom i was *explicitly recommended by a good artis
 - ["drawing more will never ever make you better"](https://www.youtube.com/watch?v=FxoTwEdbbgQ_)
 - ["never draw from imagination"](https://www.youtube.com/watch?v=NEvMHRgPdyk) but also ["never draw from photo reference"](https://www.youtube.com/watch?v=KxcIXNrzu4s)
 
-<small>i know they're probably more nuanced than that and/or clickbait i'm just mad</small>
+<p class="sticky"><small>i know they're probably more nuanced than that and/or clickbait i'm just mad</small></p>
 
 [this one](https://drawabox.com/) says i should do boxes first, [this one](https://line-of-action.com/index.php) gesture drawing; during april 2022 (my month of [drawing/suffering]) i didn't know which to pick and tried both and didn't progress much in either (and also ended up giving up early)
 probably a mixture of being unfocused and doing the same easy thing over and over again instead of actually advancing (the gesture drawing site doesn't seem to have any progression curve? at all?)

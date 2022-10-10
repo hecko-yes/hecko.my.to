@@ -207,6 +207,7 @@ pre {
 section {
 	margin: $textmargin 0;
 }
+
 sup, sub {
   vertical-align: baseline;
   position: relative;
@@ -223,6 +224,10 @@ sub {
 ul, ol {
 	margin: $textmargin 0;
 	padding-left: 15px;
+}
+
+section + ul, section + ol {
+	margin-top: $smallmargin - $textmargin;
 }
 
 ul ul, ul ol, ol ul, ol ol {
@@ -266,4 +271,8 @@ li::marker {
 
 #markdown-toc + * {
 	margin-top: 0;
+}
+
+.sticky {
+	margin-top: $smallmargin - $textmargin;
 }
