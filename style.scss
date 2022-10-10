@@ -61,16 +61,16 @@ body {
 	background-color: #131619;
 }
 
-#content {
+main {
 	padding: $padding $padding ($padding - 3px) $padding;
   flex: 1 0 auto;
 }
 
-/* #content > */ *:first-child {
+/* main > */ *:first-child {
 	margin-top: 0;
 }
 
-/* #content > */ *:last-child {
+/* main > */ *:last-child {
 	margin-bottom: 0;
 }
 
@@ -141,6 +141,10 @@ blockquote {
 	background: $gray1;
 }
 
+div {
+	margin: $textmargin 0;
+}
+
 header a:link, header a:visited {
 	color: #ddd;
 	color: rgba(255, 255, 255, 0.8);
@@ -202,10 +206,6 @@ pre {
 	padding: 10px;
 	background-color: #000;
 	letter-spacing: 0;
-}
-
-section {
-	margin: $textmargin 0;
 }
 
 sup, sub {
