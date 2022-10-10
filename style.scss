@@ -226,7 +226,7 @@ ul, ol {
 	padding-left: 15px;
 }
 
-section + ul, section + ol {
+div + ul, div + ol {
 	margin-top: $smallmargin - $textmargin;
 }
 
