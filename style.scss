@@ -135,7 +135,7 @@ a:hover, a:active {
 
 blockquote {
 	margin: $textmargin 0;
-	padding: 6px 0 6px 12px;
+	padding: 6px $padding 6px ($padding - 3px);
 	border-left: 3px solid $gray2;
 	background: $gray1;
 }
