@@ -71,6 +71,15 @@ and uhhh how about i just write from the ref sheet below
 exactly one fanart by discord user Lazy#6665:
 ![less creepy pixel art vaguely styled after undertale](ignios/ignios pixel art by lazy hash 6665.png)
 
+# geck
+2020-02-07/09
+
+green anthro gecko with 4 arms and (barely visible in the picture) acid-green pawpads on the hands, also horns for some reason
+mostly just an attempt to sculpt something in blender
+[download .blend file here](geck/geck.blend) if you wish (contains non-functional rig)
+
+![](geck/geck.png)
+
 # pony
 2021-05-28
 
