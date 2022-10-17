@@ -5,7 +5,8 @@ color: "red"
 1. 
 {:toc}
 
-<p style="text-align: center;"><strong>[self-deprecation·y moods abound; also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess]</strong></p>
+**[self-deprecation·y moods abound; also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess]**
+{:style="text-align: center;"}
 
 i want to have the ability to do half-decent art (or even quarter-decent art)
 i don't care about realism but rather stuff like [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) (without animation) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy) or [kekeflipnote](https://www.youtube.com/user/kekeflipnote) (again, without animation) or honestly even the [cdi cutscenes](https://www.youtube.com/watch?v=LfWGYW4uZVg) yes i'm that desperate
@@ -23,11 +24,12 @@ that's demotivating for one but also my main artist friend (electriclizardfren) 
 he says that he has no idea how he learned and that he just draws and magically becomes good at it over time, which sounds a lot like how i got good at computer stuff, and which i can't do because i can't have fun drawing because i suck at it and can't just ignore that (more on that in section 2)
 
 and then there's ethan becker whom i was *explicitly recommended by a good artist* ([nickeman132](https://twitter.com/nickeman132)) with such takes as:
-- ["never leave your comfort zone"](https://www.youtube.com/watch?v=FqZhb5hRs5g)
-- ["drawing more will never ever make you better"](https://www.youtube.com/watch?v=FxoTwEdbbgQ_)
-- ["never draw from imagination"](https://www.youtube.com/watch?v=NEvMHRgPdyk) but also ["never draw from photo reference"](https://www.youtube.com/watch?v=KxcIXNrzu4s)
+- ["never leave your comfort zone"](https://www.youtube.com/watch?v=FqZhb5hRs5g){:rel="nofollow"}
+- ["drawing more will never ever make you better"](https://www.youtube.com/watch?v=FxoTwEdbbgQ_){:rel="nofollow"}
+- ["never draw from imagination"](https://www.youtube.com/watch?v=NEvMHRgPdyk){:rel="nofollow"} but also ["never draw from photo reference"](https://www.youtube.com/watch?v=KxcIXNrzu4s){:rel="nofollow"}
 
-<p class="sticky"><small>i know they're probably more nuanced than that and/or clickbait i'm just mad</small></p>
+<small>i know they're probably more nuanced than that and/or clickbait i'm just mad</small>
+{:.sticky}
 
 [this one](https://drawabox.com/) says i should do boxes first, [this one](https://line-of-action.com/index.php) gesture drawing; during april 2022 (my month of [drawing/suffering]) i didn't know which to pick and tried both and didn't progress much in either (and also ended up giving up early)
 probably a mixture of being unfocused and doing the same easy thing over and over again instead of actually advancing (the gesture drawing site doesn't seem to have any progression curve? at all?)
@@ -40,7 +42,7 @@ have i ever done anything deliberately in my life even (see section 2 paragraph 
 
 i can't even motivate myself to watch a youtube video without getting distracted every minute
 and even when i do it's hard to keep it up, i can't even keep up a duolingo streak for more than a couple months
-<small>i think my longest ever streak was when i was like 13 and decided to do A Workout (from [skimble workout trainer](https://www.skimble.com/)) every day and i mean i *technically* did but a good chunk of them were in bed at 10pm because i forgot to do them all day</small>
+<small>i think my longest ever streak was when i was like 13 and decided to do A Workout (from [skimble workout trainer](https://www.skimble.com/){:rel="nofollow"}) every day and i mean i *technically* did but a good chunk of them were in bed at 10pm because i forgot to do them all day</small>
 
 and it's not like i don't have time, i just keep wasting it on mindlessly meandering through the web
 but with university coming up (and then work) i'll probably *actually* not have time and then i'm double screwed
