@@ -9,7 +9,7 @@ list of pages that i plan to make:
 - fancier home page
 - extensive about me
 	- favorite things (maybe favorite oc traits)
-- personal style guide
+- [personal style guide](/style-guide/)
 - [list of my fursonæ](/fursonae/)
 - list of creative commons memes
 - rants folder
