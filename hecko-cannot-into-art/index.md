@@ -67,6 +67,10 @@ coming back to electriclizardfren, he says:
 which i just don't have the inherent motivation to do that
 in fact i instinctively *dislike* drawing *because* i suck at it and How do i Fix that Please Tell Me (but with specific actionable instructions instead of "simply Don't Be Like That™" because that doesn't help or "it's okay to suck at first" because i already know that intellectually but my brain refuses to accept it)
 
+another artist contacted by electriclizardfren said that artists push through the hardships of learning art because they have stories to tell etc etc, which is not true for me
+i don't wanna make Art™-type art i just wanna doodle silly little things that's it
+(which also doesn't help with finding courses because they're often aimed for people who either *do* wanna make Art™-type art or get a job as a professional illustrateur)
+
 # why bother
 
 as of 2022-09-31 ai art is Here and it's probably only ever gonna get more here
@@ -86,7 +90,7 @@ or maybe i just wanna *not* be mad and suck in peace
 
 # more on the crying actually
 
-i've been advised that the crying may be due to some sort of trauma or similar and that i should seek therapy and not draw in the meantime
+[i've been advised](https://www.reddit.com/r/ArtistLounge/comments/y5u7hd/how_do_i_stop_crying_when_thinking_about_drawing/) that the crying may be due to some sort of trauma or similar and that i should seek therapy and not draw in the meantime
 unfortunately the meantime is probably gonna last quite a while because: money <small>and bravery</small>
 there is [cheeseburger therapy](https://cheeseburgertherapy.org/) which is pay-what-you want but in the examples they say they explicitly avoid giving answers which i very much would Like to Get
 and going into it knowing it probably won't help me and then not paying because it didn't help me would be quite ungood of me
