@@ -29,6 +29,13 @@ my brain likes to interpret quotation marks as [scare quotes](https://en.wikiped
 when discussing other languages (e.g. toki pona), i use backticks to quote that language and fall back to quotation marks for english, with angle quotes (`«»`) used for yet other languages
 when writing formally (which is rare) i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look kinda ugly, e.g. `They said "Let's go.".`)
 
+## slashes
+
+regular usage: `i want a cat/dog/whatever`
+square brackets when part of word: `i want a [boy/girl/enby]friend` (sometimes )
+spaces around slashes when more than one word: `i want sugar / spice / everything nice`
+(alternatively: `i want sugar/spice/everything·nice`)
+
 ## strikethrough
 
 strikethrough marks sentences that i'd mumble under my breath in speech, sorta like [`/j`](https://tonetags.carrd.co/)
@@ -53,6 +60,11 @@ verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the plura
 ## oxford comma
 
 i use it
+
+## extrapolating
+
+if `don't` can be a thing then why not `y'all'dn't've` (you all would not have)
+if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
 
 # word replacements
 
