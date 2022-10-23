@@ -6,6 +6,7 @@ color: "purple"
 {:toc}
 
 how 2 write like me (work in progress)
+thought up independently of but encouraged by the existence of [marijn van hoorn's style guide](https://satyrs.eu/styleguide/)
 
 # markup
 
@@ -55,12 +56,18 @@ i use it
 
 # word replacements
 
+some applied more consistently than others
+
 | word | replacement |
 | :-- | :-- |
 | -one, -body | -pony |
+| gaming | game ing |
 | pokémon | pokèmon (note the grave instead of acute) |
+| pretty (as in quite) | p |
+| smh | smhead |
 | something | sth |
 | woah | woag |
+| wtf | wtfluff |
 
 # appendix: toki pona
 
