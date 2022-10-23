@@ -22,6 +22,7 @@ non-question non-exclamation sentences are instead most commonly separated with 
 this can cause ambiguity when the end of one sentence ends up on the right side of the screen, making it look like it continues into the next line (this website avoids it by making each sentence a "paragraph" with minimal padding and making actual paragraphs be `<div>`s)
 commas and question marks are also often omitted except where that would cause ambiguity
 multiple commas (2 by default, can even be 1 sometimes) are used as [ellipses](https://en.wikipedia.org/wiki/Ellipsis), which is [quite popular among youngins it seems](https://www.babbel.com/en/magazine/comma-ellipses)
+[oxford comma](https://en.wikipedia.org/wiki/Serial_comma) is yes
 
 ## quotation marks
 
@@ -51,30 +52,31 @@ i use it to mark suffixes after single letters or acronyms (`nft·s`, `ssh·ing`
 
 # grammar
 
-[TODO]
+generally american english
 
 ## rule of funny
 
 verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the pluralses, if it looks funny then do it
 
-## oxford comma
-
-i use it
-
-## extrapolating
+## extrapolation
 
 if `don't` can be a thing then why not `y'all'dn't've` (you all would not have)
 if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
+
+## no standard shortenings
+
+except those specified in [word replacements](#word-replacements)
 
 # word replacements
 
 some applied more consistently than others
 
 | word | replacement |
-| :-- | :-- |
+| --: | :-- |
 | -one, -body | -pony |
 | gaming | game ing |
-| pokémon | pokèmon (note the grave instead of acute) |
+| gray | græy |
+| pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | pretty (as in quite) | p |
 | smh | smhead |
 | something | sth |
