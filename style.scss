@@ -141,6 +141,10 @@ blockquote {
 	background: $gray1;
 }
 
+code {
+	background: $gray2;
+}
+
 div {
 	margin: $textmargin 0;
 }
@@ -164,6 +168,7 @@ h2, h3, h4, h5, h6 {
 h2 {
 	font-size: 45px;
 	background-color: $gray2;
+	background-color: var(--color);
 	text-align: center;
 	margin-top: 30px;
 }
@@ -192,6 +197,7 @@ hr {
 	margin: 0 (-$padding);
 	border: 0;
 	border-bottom: 4px solid $gray2;
+	border-bottom: 4px solid var(--color);
 }
 
 img {
@@ -208,6 +214,10 @@ pre {
 	letter-spacing: 0;
 }
 
+pre code {
+	background: none;
+}
+
 sup, sub {
 	vertical-align: baseline;
 	position: relative;
@@ -221,6 +231,20 @@ sub {
 	top: 0.4em; 
 }
 
+table {
+	border-collapse: collapse;
+	border: 1px solid $gray1;
+}
+
+thead {
+	background-color: $gray1;
+}
+
+th, td {
+	border: 1px solid $gray1;
+	padding: $smallmargin $textmargin;
+}
+
 ul, ol {
 	margin: $textmargin 0;
 	padding-left: 15px;
@@ -232,6 +256,7 @@ div + ul, div + ol {
 
 ul ul, ul ol, ol ul, ol ol {
 	padding-left: 5px;
+	margin: 0;
 }
 
 ul {
