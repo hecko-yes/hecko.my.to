@@ -76,10 +76,12 @@ some applied more consistently than others
 | -one, -body | -pony |
 | gaming | game ing |
 | gray | græy |
+| internet | interweb |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | pretty (as in quite) | p |
 | smh | smhead |
 | something | sth |
+| website | webbed sight |
 | woah | woag |
 | wtf | wtfluff |
 
