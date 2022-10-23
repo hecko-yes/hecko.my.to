@@ -2,14 +2,14 @@
 color: "red"
 ---
 
+> **warning: self-deprecation·y moods abound, also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess**
+{:style="text-align: center; font-size: 150%;"}
+
 1. 
 {:toc}
 
-**[self-deprecation·y moods abound; also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess]**
-{:style="text-align: center;"}
-
 i want to have the ability to do half-decent art (or even quarter-decent art)
-i don't care about realism but rather stuff like [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) (without animation) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy) or [kekeflipnote](https://www.youtube.com/user/kekeflipnote) (again, without animation) or honestly even the [cdi cutscenes](https://www.youtube.com/watch?v=LfWGYW4uZVg) yes i'm that desperate
+i don't care about realism but rather stuff like (discarding the animation aspect for all of these) [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy) or [kekeflipnote](https://www.youtube.com/user/kekeflipnote) or honestly even the [cdi cutscenes](https://www.youtube.com/watch?v=LfWGYW4uZVg) yes i'm that desperate
 i am not putting examples of my current art here because a) it doesn't exist and b) people are just gonna say it's "good" when it's not (to me)
 obstacles to that:
 1. my tear ducts activate whenever i think about drawing 
@@ -22,8 +22,9 @@ there's much information online but it all disagrees with each other
 i saw a video (that i can't find now) with someone saying he spent years learning photorealistic art to build up a solid base before daring to do cartoons ("you must know the rules to break them") and that others should do the same
 that's demotivating for one but also my main artist friend (electriclizardfren) did none of that! and his art is very good!
 he says that he has no idea how he learned and that he just draws and magically becomes good at it over time, which sounds a lot like how i got good at computer stuff, and which i can't do because i can't have fun drawing because i suck at it and can't just ignore that (more on that in section 2)
+maybe formalizing way to learn the art styles i want is like trying to engineer a viral meme, as in it just comes naturally (and perhaps randomly) and having it as a goal just makes it look fake, in which case i guess i'm screwed
 
-and then there's ethan becker whom i was *explicitly recommended by a good artist* ([nickeman132](https://twitter.com/nickeman132)) with such takes as:
+anyway then there's ethan becker whom i was *explicitly recommended by a good artist* ([nickeman132](https://twitter.com/nickeman132)) with such takes as:
 - ["never leave your comfort zone"](https://www.youtube.com/watch?v=FqZhb5hRs5g){:rel="nofollow"}
 - ["drawing more will never ever make you better"](https://www.youtube.com/watch?v=FxoTwEdbbgQ_){:rel="nofollow"}
 - ["never draw from imagination"](https://www.youtube.com/watch?v=NEvMHRgPdyk){:rel="nofollow"} but also ["never draw from photo reference"](https://www.youtube.com/watch?v=KxcIXNrzu4s){:rel="nofollow"}
@@ -81,6 +82,14 @@ i've seen art progression charts that go from "godly" to "ungodly" in a few mont
 and honestly i'm not sure if i even actually *want* to art
 surely if i did want to i would've tried harder
 maybe i just wanna be mad
+or maybe i just wanna *not* be mad and suck in peace
+
+# more on the crying actually
+
+i've been advised that the crying may be due to some sort of trauma or similar and that i should seek therapy and not draw in the meantime
+unfortunately the meantime is probably gonna last quite a while because: money <small>and bravery</small>
+there is [cheeseburger therapy](https://cheeseburgertherapy.org/) which is pay-what-you want but in the examples they say they explicitly avoid giving answers which i very much would Like to Get
+and going into it knowing it probably won't help me and then not paying because it didn't help me would be quite ungood of me
 
 # in conclusion
 
