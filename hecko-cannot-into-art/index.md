@@ -9,7 +9,7 @@ color: "red"
 {:toc}
 
 i want to have the ability to do half-decent art (or even quarter-decent art)
-i don't care about realism but rather stuff like (discarding the animation aspect for all of these) [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy) or [kekeflipnote](https://www.youtube.com/user/kekeflipnote) or honestly even the [cdi cutscenes](https://www.youtube.com/watch?v=LfWGYW4uZVg) yes i'm that desperate
+i don't care about realism but rather stuff like (discarding the animation aspect for all of these) [aimkid](https://www.youtube.com/channel/UCAPwJEqyypq9q895BD6DsqQ) or [yorushika](https://www.youtube.com/channel/UC6S2s7fteUaAgKw4E_h1SqQ) or [morxvx](https://twitter.com/morxwx/) or [cwitchy](https://www.youtube.com/c/Cwitchy) or [kekeflipnote](https://www.youtube.com/user/kekeflipnote) or [this specific video by lucky toffee](https://www.youtube.com/watch?v=e2R1lkj9WzE) or honestly even the [cdi cutscenes](https://www.youtube.com/watch?v=LfWGYW4uZVg) yes i'm that desperate
 i am not putting examples of my current art here because a) it doesn't exist and b) people are just gonna say it's "good" when it's not (to me)
 obstacles to that:
 1. my tear ducts activate whenever i think about drawing 
