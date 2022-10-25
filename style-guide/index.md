@@ -47,12 +47,10 @@ a trademark sign can mark that a given word/phrase has a,, special meaning i gue
 
 ## interpunct
 
-the interpunct (`·`) is so cool that it gets a special shortcut on my keyboard (altgr + `.`)
+the interpunct (`·`) is so cool that it gets a special shortcut on my keyboard, [altgr](https://en.wikipedia.org/wiki/AltGr) + `.` (and you can do it too with [autohotkey™](https://autohotkey.com/))
 i use it to mark suffixes after single letters or acronyms (`nft·s`, `ssh·ing`, but `ddos'd`), as well as "clarify" hyphen nesting order
 
 # grammar
-
-generally american english
 
 ## rule of funny
 
@@ -62,6 +60,11 @@ verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the plura
 
 if `don't` can be a thing then why not `y'all'dn't've` (you all would not have)
 if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
+
+## regionality
+
+generally american english
+usually [24-hour time](https://en.wikipedia.org/wiki/24-hour_clock) except when it feels wrong or ambiguous, in which case 12-hour time without a space before the period name (e.g. `4:20am`)
 
 ## no standard shortenings
 
@@ -73,7 +76,10 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
+| -ae- | -æ- |
+| -er | -eur |
 | -one, -body | -pony |
+| computer | compute, computational |
 | gaming | game ing |
 | gray | græy |
 | internet | interweb |
