@@ -88,6 +88,7 @@ some applied more consistently than others
 | smh | smhead |
 | something | sth |
 | website | webbed sight |
+| what | wh, wha |
 | woah | woag |
 | wtf | wtfluff |
 
