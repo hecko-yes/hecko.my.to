@@ -23,6 +23,14 @@ $gray2: #2e3236;
 	font-display: swap;
 }
 
+@media (max-width: 480px) {
+	#markdown-toc {
+		float: none;
+		width: 100%;
+		margin-left: 0;
+	}
+}
+
 html {
 	height: 100%;
 	box-sizing: border-box;
@@ -250,12 +258,12 @@ thead {
 
 th, td {
 	border: 1px solid $gray1;
-	padding: $smallmargin $textmargin;
+	padding: 5px $textmargin;
 }
 
 ul, ol {
 	margin: $textmargin 0;
-	padding-left: 15px;
+	padding-left: $padding;
 }
 
 div + ul, div + ol {
@@ -272,7 +280,7 @@ ul {
 }
 
 li {
-	margin: $smallmargin 0 $smallmargin 15px;
+	margin: $smallmargin 0 $smallmargin $padding;
 }
 
 ul ul li:first-child, ul ol li:first-child, ol ul li:first-child, ol ol li:first-child { /* ew */
@@ -289,7 +297,7 @@ li::marker {
 
 #markdown-toc {
 	padding: 22px 20px 10px 20px;
-	margin: 0 0 15px 15px;
+	margin: 0 0 $padding $padding;
 	background-color: $gray1;
 	float: right;
 }
