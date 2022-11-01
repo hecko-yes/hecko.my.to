@@ -56,6 +56,11 @@ i use it to mark suffixes after single letters or acronyms (`nft·s`, `ssh·ing`
 
 verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the pluralses, if it looks funny then do it
 
+## casualness
+
+technically unnecessary filler, so like y'know the uh,, yeah
+every so often i wanna stop using it but then i don't
+
 ## extrapolation
 
 if `don't` can be a thing then why not `y'all'dn't've` (you all would not have)
@@ -82,11 +87,16 @@ some applied more consistently than others
 | computer | compute, computational |
 | gaming | game ing |
 | gray | græy |
+| i don't know | iunno |
+| interesting | inchresting, inchrezzding |
 | internet | interweb |
+| it's | 's |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | pretty (as in quite) | p |
 | smh | smhead |
 | something | sth |
+| thanks | thank, thanque |
+| unfortunately | unforchly |
 | website | webbed sight |
 | what | wh, wha |
 | woah | woag |
