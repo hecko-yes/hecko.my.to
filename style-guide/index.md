@@ -68,7 +68,7 @@ if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you
 
 ## regionality
 
-generally american english
+generally american english but i feel like e.g. `labelled` looks better than `labeled`
 usually [24-hour time](https://en.wikipedia.org/wiki/24-hour_clock) except when it feels wrong or ambiguous, in which case 12-hour time without a space before the period name (e.g. `4:20am`)
 
 ## no standard shortenings
@@ -84,11 +84,15 @@ some applied more consistently than others
 | -ae- | -æ- |
 | -er | -eur |
 | -one, -body | -pony |
+| anyway | anyhoo |
+| color | coloure |
 | computer | compute, computational |
+| damn ("the whole damn thing") | damb |
 | gaming | game ing |
 | gray | græy |
+| hecking | heckign |
 | i don't know | iunno |
-| interesting | inchresting, inchrezzding |
+| interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
 | it's | 's |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
