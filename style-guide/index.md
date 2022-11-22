@@ -85,30 +85,41 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | -ae- | -æ- |
-| -er | -eur |
+| -er | -eur (a la `auteur`) |
 | -one, -body | -pony |
 | "america" (as in usa) | the us |
+| animal | aminal |
 | anyway | anyhoo |
 | color | coloure |
 | computer | compute, computational |
 | damn ("the whole damn thing") | damb |
+| delete | dete |
 | gaming | game ing |
 | gray | græy |
 | hecking | heckign |
 | i don't know | iunno |
 | interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
+| i'm | am |
 | it's | 's |
+| microsoft | microdollarsignoft |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | pretty (as in quite) | p |
+| question | q |
 | smh | smhead |
 | something | sth |
 | thanks | thank, thanque |
+| titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | unfortunately | unforchly |
 | website | webbed sight |
 | what | wh, wha |
+| who | whom |
 | woah | woag |
 | wtf | wtfluff |
+
+# neologisms
+
+- **khhh** - like `pfff` but velar (in the back of the mouth) instead of labial (in the lips)
 
 # appendix: toki pona
 
