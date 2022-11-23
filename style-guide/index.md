@@ -15,6 +15,10 @@ thought up independently of but encouraged by the existence of [marijn van hoorn
 i write in all lowercase by default, not making exceptions for the pronoun `i` nor proper names (except toki pona ones)
 when capitalization does occur it's usually used for emphasis (e.g. `it just Doesn't Work Like That`)
 
+## numbers
+
+i almost always write numbers as digits, except in compounds like `twofold` and such
+
 ## punctuation
 
 general rule: punctuation represents not only grammar things but also how the text would be intonated if it were spoken
@@ -64,9 +68,14 @@ verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the plura
 technically unnecessary filler, so like y'know the uh,, yeah
 every so often i wanna stop using it but then i don't
 
+## uncasualness
+
+i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing
+i also use `one` instead of generic `you` because it just makes more sense to me (heck that should be a category of its own)
+
 ## extrapolation
 
-if `don't` can be a thing then why not `y'all'dn't've` (you all would not have)
+if `don't` can be a thing then why not `y'all'dn't've` (= `you all would not have`)
 if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
 
 ## regionality
