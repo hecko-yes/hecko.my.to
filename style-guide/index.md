@@ -122,7 +122,7 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
-| i don't know | iunno |
+| i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
 | it's | 's |
 | pretty (as in quite) | p |
