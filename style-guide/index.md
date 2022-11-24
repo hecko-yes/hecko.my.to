@@ -77,6 +77,7 @@ i also use `one` instead of generic `you` because it just makes more sense to me
 
 if `don't` can be a thing then why not `y'all'dn't've` (= `you all would not have`)
 if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
+somewhat relevant is forcing local patterns to work, such as alliteration (e.g. `special spoon spection` (from "section"))
 
 ## regionality
 
@@ -95,8 +96,8 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
-| -ae- | -æ- |
-| -er | -eur (a la `auteur`) |
+| \*ae\* | \*æ\* |
+| \*er, \*or | \*eur (a la `auteur`) |
 | animal | aminal |
 | anyway | anyhoo |
 | color | coloure |
@@ -106,6 +107,7 @@ some applied more consistently than others
 | gaming | game ing |
 | gray | græy |
 | hecking | heckign |
+| hello | henlo |
 | interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
 | microsoft | microdollarsignoft |
@@ -135,6 +137,7 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
+| \*phobic (as in prejudiced) | anti-\* |
 | "america" (as in usa) | the us |
 
 ## cringe
