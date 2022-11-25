@@ -67,7 +67,7 @@ verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the plura
 
 technically unnecessary filler, so like y'know the uh,, yeah
 every so often i wanna stop using it but then i don't
-no textspeak abbreviations though, except those specified in [word replacements](#word-replacements)
+no textspeak abbreviations though, except [specific ones](#abbreviations)
 
 ## uncasualness
 
@@ -101,6 +101,7 @@ some applied more consistently than others
 | computer | compute, computational |
 | damn ("the whole damn thing") | damb |
 | delete | dete |
+| emoji | emoj, emojo, emojum |
 | gaming | game ing |
 | gray | græy |
 | hecking | heckign |
@@ -121,14 +122,16 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
+| ah | a |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
 | it's | 's, 'tis (rarely) |
+| oh | o |
 | pretty (as in quite) | p |
 | question | q |
 | something | sth |
 | unfortunately | unforchly |
-| what | wh, wha |
+| what (standalone) | wh, wha, ? |
 
 ## making sense
 
@@ -147,6 +150,14 @@ some applied more consistently than others
 
 - **foove** (rarely the original **foof**) - playful insult (`how did you miss that you foove`)
 - **khhh** - like `pfff` but velar (in the back of the mouth) instead of labial (in the lips)
+
+# uncategorized things
+
+- repetition of things, e.g. `hmhmhm`
+- lists are cool (such as this one), and i'll sometimes do,, i wanna say a meme format? where i go like `cool new pants / ☑ cool / ☑ new / ☑ pants`
+- in chat, `---` in its own line marks a topic change; in conversations with [my nerd friend](https://cheddr.dev/) i instead use `!rel` as in "unrelated" (and `rel` for related and `~rel` for quasi-related)
+- cutting sentences off, e.g. `anyway here's`
+- removing articles, e.g. `how do i make thing do thing`
 
 # appendix: toki pona
 
