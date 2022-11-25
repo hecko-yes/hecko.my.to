@@ -35,7 +35,7 @@ multiple commas (2 by default, can even be 1 sometimes) are used as [ellipses](h
 my brain likes to interpret quotation marks as [scare quotes](https://en.wikipedia.org/wiki/Scare_quotes) even when they're not, so instead i tend to use backticks (`` ` ``), which due to [markdown](https://en.wikipedia.org/wiki/Markdown) makes the text look like code in places like reddit and discord and this website
 (when i *do* intend to do scare quotes i often multiply them a bunch, e.g. `"""""dubious"""""`)
 when discussing other languages (e.g. toki pona), i use backticks to quote that language and fall back to quotation marks for english, with angle quotes (`«»`) used for yet other languages
-when writing formally (which is rare) i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look kinda ugly, e.g. `They said "Let's go.".`)
+when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look kinda ugly, e.g. `They said "Let's go.".`)
 
 ## slashes
 
@@ -67,26 +67,23 @@ verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the plura
 
 technically unnecessary filler, so like y'know the uh,, yeah
 every so often i wanna stop using it but then i don't
+no textspeak abbreviations though, except those specified in [word replacements](#word-replacements)
 
 ## uncasualness
 
 i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing
-i also use `one` instead of generic `you` because it just makes more sense to me (heck that should be a category of its own)
+i also use `one` instead of generic `you` mostly because it's more Logical™
 
 ## extrapolation
 
 if `don't` can be a thing then why not `y'all'dn't've` (= `you all would not have`)
 if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
-somewhat relevant is forcing local patterns to work, such as alliteration (e.g. `special spoon spection` (from "section"))
+somewhat relevant is forcing local patterns, such as alliteration (e.g. `special spoon spection` (from "section")) or pluralization (`i don't want 2 bottles i want 1 bottles`)
 
 ## regionality
 
 generally american english but i feel like e.g. `labelled` looks better than `labeled`
 usually [24-hour time](https://en.wikipedia.org/wiki/24-hour_clock) except when it feels wrong or ambiguous, in which case 12-hour time without a space before the period name (e.g. `4:20am`)
-
-## no standard shortenings
-
-except those specified in [word replacements](#word-replacements)
 
 # word replacements
 
@@ -126,7 +123,7 @@ some applied more consistently than others
 | --: | :-- |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
-| it's | 's |
+| it's | 's, 'tis (rarely) |
 | pretty (as in quite) | p |
 | question | q |
 | something | sth |
@@ -148,6 +145,7 @@ some applied more consistently than others
 
 # neologisms
 
+- **foove** (rarely the original **foof**) - playful insult (`how did you miss that you foove`)
 - **khhh** - like `pfff` but velar (in the back of the mouth) instead of labial (in the lips)
 
 # appendix: toki pona
