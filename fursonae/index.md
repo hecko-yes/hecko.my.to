@@ -23,7 +23,7 @@ started out like so:
 3. i added Ralsei features to it (2018-11-28)
   ![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png)
 4. angel drew it for some reason (2019-09-15)
-  ![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){: width="50%" }
+  ![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){: style="width: 50%" }
 5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
 	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
 6. now it's my fursona i guess
@@ -43,7 +43,7 @@ see [here](https://gist.github.com/Sobsz/38dc8aa415f53697ab04d4e9d2ffa0dd) for m
 not used a whole lot unfortunately
 
 ![doodle of him dabbing and summoning comic sans subtitles saying "can i stop now"](wesley/wesdab-final.png)
-![headshot of him thinking](wesley/wes_think.png){: width="50%" }
+![headshot of him thinking](wesley/wes_think.png){: style="width: 50%" }
 
 # ignios
 2019-08-11
