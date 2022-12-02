@@ -159,7 +159,8 @@ some applied more consistently than others
 - in chat, `---` in its own line marks a topic change; in conversations with [my nerd friend](https://cheddr.dev/) i instead use `!rel` as in "unrelated" (and `rel` for related and `~rel` for quasi-related)
 - cutting sentences off, e.g. `anyway here's`
 - removing articles, e.g. `how do i make thing do thing`
-- i know it shouldn't matter but things like `amature` or `existance` bug me because They're Not Correct!!
+- i know it shouldn't matter but things like `amature` or `existance` or `made it's rounds` bug me because They're Not Correct!!
+- some people do `.` as a mid-sentence pause, it's cool but i don't do it (yet?)
 
 # appendix: toki pona
 
