@@ -43,7 +43,7 @@ very incomplete as of current
 
 | name | license | notes |
 | :- | :- | :- |
-| [minecraft hurt sound](https://freesound.org/people/thecheeseman/sounds/44429/) | by |
+| [minecraft oof sound](https://freesound.org/people/thecheeseman/sounds/44429/) | by |
 
 # other
 
