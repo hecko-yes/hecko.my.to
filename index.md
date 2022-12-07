@@ -11,7 +11,7 @@ list of pages that i plan to make:
 	- favorite things (maybe favorite oc traits)
 - [personal style guide](/style-guide/)
 - [list of my fursonæ](/fursonae/)
-- list of creative commons memes
+- [list of creative commons memes](/gnu-slash-memes/)
 - rants folder
 	- existentialism
 	- gender?
