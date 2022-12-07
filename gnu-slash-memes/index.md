@@ -33,7 +33,7 @@ very incomplete as of current
 
 | name | license | notes |
 | :- | :- | :- |
-| [music by kevin macleod](https://incompetech.com/music/royalty-free/music.html) | by | there used to be a way to see the most popular songs but it seems to be gone now; [`carefree`](https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037) is the infamous royalty-free violin song |
+| [music by kevin macleod](https://incompetech.com/music/royalty-free/music.html) | by | there used to be a way to see the most popular songs but it seems to be gone now; [`carefree`](https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037) is the infamous royalty-free ukulele song |
 | [chocolate rain](https://www.youtube.com/watch?v=EwTZ2xpQwpA) | by-nc-nd |
 | [lud and schlatt's musical emporium](https://www.youtube.com/@ludandschlattsmusicalempor6746) | by | of most interest are the [animal crossing](https://www.youtube.com/watch?v=44MCworZf78) and [wii shop channel](https://www.youtube.com/watch?v=Y-6Plfn1yHg&t=21s) soundalikes |
 | [little women (1933) theme song](https://www.youtube.com/watch?v=dLaiV5QoRtI) | pd | famously remixed in the [opening cutscene of hotel mario (1994)](https://www.youtube.com/watch?v=jra4ZxGA-ww) |
