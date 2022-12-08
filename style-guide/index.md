@@ -59,9 +59,9 @@ i use it to mark suffixes after single letters or acronyms (`nft·s`, `ssh·ing`
 
 # grammar
 
-## rule of funny
+## [rule of funny](https://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny)
 
-verb all the nouns, mispluralize all the wordi, *doubly* pluralize all the pluralses, if it looks funny then do it
+[verb all the nouns](https://www.gocomics.com/calvinandhobbes/1993/01/25), [mispluralize all the wordi](https://www.thefreelibrary.com/Foxen+in+the+Henhice.-a0133864435), *doubly* pluralize all the pluralses, if it looks funny then do it
 
 ## casualness
 
