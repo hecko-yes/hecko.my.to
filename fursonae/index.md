@@ -21,9 +21,9 @@ started out like so:
 1. a long time ago i used to use images of tails as profile pictures
 2. i wanted to have a funny sans version of tails for my discord avatar and i stumbled upon a cursed mess that i'm not sure if i still have
 3. i added Ralsei features to it (2018-11-28)
-  ![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png)
+	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png)
 4. angel drew it for some reason (2019-09-15)
-  ![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){: style="width: 50%" }
+	![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){: style="width: 50%" }
 5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
 	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
 6. now it's my fursona i guess
@@ -57,7 +57,7 @@ and uhhh how about i just write from the ref sheet below
 - height: like 4 feet idk
 - alignment: chaotic cute
 - wields the magical powers of the SUN™
-  - but since he's a bab they mostly amount to being very warm and making himself glow
+	- but since he's a bab they mostly amount to being very warm and making himself glow
 - clothing: no thanks
 - likes:
 	- tacos
