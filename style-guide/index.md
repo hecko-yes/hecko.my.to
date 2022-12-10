@@ -6,7 +6,8 @@ color: "purple"
 {:toc}
 
 how 2 write like me (work in progress)
-thought up independently of but encouraged by the existence of [marijn van hoorn's style guide](https://satyrs.eu/styleguide/)
+thought up independently of but encouraged by the existence of [marijn van hoorn's style guide](https://satyrs.eu/styleguide/) as well as someone's list of neologisms that i can't find anymore
+if this interests you then so may [jan Misali's punctuation analysis](https://www.seximal.net/punctuation)
 
 # markup
 
