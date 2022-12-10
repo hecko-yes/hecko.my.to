@@ -7,7 +7,8 @@ color: "green"
 {:toc}
 
 the characters that i've made, for various degrees of "made"
-generally all of these are canonically he/they/etc like me (except the pony which is more it/its) *but* feel free to use others also since i'm not super connected to them and also don't mind it
+generally all of these are canonically he/they/etc like me (except the pony which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them (and also don't mind pronouns in general))
+you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire
 
 # hecko
 2018-11-28
