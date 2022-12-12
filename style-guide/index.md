@@ -38,6 +38,11 @@ my brain likes to interpret quotation marks as [scare quotes](https://en.wikiped
 when discussing other languages (e.g. toki pona), i use backticks to quote that language and fall back to quotation marks for english, with angle quotes (`«»`) used for yet other languages
 when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look kinda ugly, e.g. `They said "Let's go.".`)
 
+## asterisk
+
+the usual usage is for rp, a la `*nuzzles u*`, which usually turns into italics
+when using it for corrections i do `*you're` instead of the `you're*` that many seem to do, because the latter implies that there's a footnote attached to *it* rather than it *being* the footnote
+
 ## slashes
 
 regular usage: `i want a cat/dog/whatever`
