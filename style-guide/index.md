@@ -181,8 +181,8 @@ example:
 > · open pi tenpo suno ni la mi kama lukin e ni → soweli li moku e kasi ale mi ← ni li ike tawa mi · taso mi ken ala ike tawa soweli tan suwi ona ·
 {:lang="tok"}
 
-i (usually) don't use `meli`/`mije`/`tonsi`, `oko`, or `epiku`
-i do use `namako`, `kin`, `kipisi`, `monsuta` `leko`, `n`, `majuna`, `linluwi`, and `te`/`to` (but mostly just `te` as a sort of headnoun, e.g. `te "kipisi" li pona`)
+i (usually) don't use `meli`/`mije`/`tonsi`, `oko`, `epiku`, or `puwa` (i think of `ko` as mostly meaning "squish" and would rather have a nimisin for "powder")
+i do use `namako`, `kin`, `kipisi`, `monsuta` `leko`, `n`, `majuna`, `linluwi`, `kiki`, `taki`, and `te`/`to` (but mostly just `te` as a sort of headnoun, e.g. `te "kipisi" li pona`)
 
 i enjoy transitive preposition phrases, e.g. `mi tawa ma Pasiju e sina` = `mi tawa e sina tawa ma Pasiju`
 i also enjoy modifying preverbs and prepositions with things other than `ala`, hyphenating them for clarity, e.g. `mi sona-wawa toki pona` = `sona mi pi toki pona li wawa`
