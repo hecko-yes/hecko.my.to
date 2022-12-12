@@ -20,7 +20,7 @@ a quick rundown:
 - [`nc`](https://creativecommons.org/licenses/by-nc/4.0/) means non-commercial
 - `*` means there's a catch because copyright is often not as shrimple as that
 
-very incomplete as of current
+very incomplete as of current; if you have any suggestions then contact is appreciated
 
 # images
 
@@ -28,6 +28,7 @@ very incomplete as of current
 | :- | :- | :- |
 | [galaxy brain template recreation](https://secretlab.institute/2021/02/15/cc-0-licensed-galaxy-brain-images/) | by | it says cc0 but it uses cc-by content |
 | [awesome face](https://commons.wikimedia.org/wiki/File:Awesome_face.svg) | by-sa |
+| [xkcd](https://xkcd.com/) | by-nc | "there's an xkcd for everything", at least in terms of hard sciences; the categories in [explainxkcd](https://www.explainxkcd.com/) might be of use when searching |
 
 # music
 
