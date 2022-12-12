@@ -147,11 +147,13 @@ some applied more consistently than others
 | \*phobic (as in prejudiced) | anti-\* |
 | "america" (as in usa) | the us |
 
-## cringe
+## actual replacements
 
 | word | replacement |
 | --: | :-- |
 | -one, -body | -pony |
+| on the \* hand | on the \* hoof |
+| years ago | [yonks](https://en.wiktionary.org/wiki/yonks) ago |
 
 # neologisms
 
