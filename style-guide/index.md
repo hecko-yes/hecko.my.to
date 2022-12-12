@@ -78,6 +78,7 @@ no textspeak abbreviations though, except [specific ones](#abbreviations)
 ## uncasualness
 
 i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing
+`2 (two)` is funny
 i also use `one` instead of generic `you` mostly because it's more Logical™
 
 ## extrapolation
