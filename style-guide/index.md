@@ -46,9 +46,12 @@ when using it for corrections i do `*you're` instead of the `you're*` that many 
 ## slashes
 
 regular usage: `i want a cat/dog/whatever`
-square brackets when part of word: `i want a [boy/girl/enby]friend` (sometimes )
-spaces around slashes when more than one word: `i want sugar / spice / everything nice`
-(alternatively: `i want sugar/spice/everything·nice`)
+square brackets when part of word: `i want a [boy/girl/enby]friend`
+spaces around slashes when more than one word: `i want sugar / spice / everything nice` (or `i want sugar/spice/everything·nice`)
+
+## square brackets
+
+aside from the above i also use them for marking content warnings, e.g. `[spooky] <spoiler>boo</spoiler>`
 
 ## strikethrough
 
@@ -130,6 +133,7 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | ah | a |
+| comfortable | comforble |
 | did you | 'dyou |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
