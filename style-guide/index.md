@@ -82,7 +82,11 @@ no textspeak abbreviations though, except [specific ones](#abbreviations)
 
 i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing
 `2 (two)` is funny
-i also use `one` instead of generic `you` mostly because it's more Logical™
+
+## pedantry
+
+i use `one` instead of generic `you` because it makes more sense to me
+when marking for possession, i add `'s` even after words that already end in `s` (e.g. [`tails's tools`](https://www.youtube.com/watch?v=v15HWmwxuZo)), unless they're plural
 
 ## extrapolation
 
@@ -145,7 +149,7 @@ some applied more consistently than others
 | unfortunately | unforchly |
 | what (standalone) | wh, wha, ? |
 
-## making sense
+## pedantic corrections
 
 | word | replacement |
 | --: | :-- |
