@@ -224,12 +224,13 @@ p {
 }
 
 pre {
-	padding: 10px;
+	padding: $textmargin $padding;
 	background-color: #000;
 	letter-spacing: 0;
 }
 
 pre code {
+	padding: 0;
 	background: none;
 }
 
