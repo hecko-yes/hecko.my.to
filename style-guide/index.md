@@ -138,11 +138,12 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
+| a | an (rarely) |
 | ah | a |
 | did you | 'dyou |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
-| it's | 's, 'tis (rarely) |
+| it's | 's, 'tis |
 | oh | o |
 | pretty (as in quite) | p |
 | question | q |
