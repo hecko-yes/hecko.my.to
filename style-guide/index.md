@@ -112,7 +112,9 @@ some applied more consistently than others
 | animal | aminal |
 | anyway | anyhoo |
 | color | coloure |
+| comfortable | comforble |
 | computer | compute, computational |
+| [conlang](https://en.wiktionary.org/wiki/conlang#English) | [clong](https://www.reddit.com/r/conlangscirclejerk/comments/tmg1eh/what_the_fuck_is_a_clong/), [conglang](https://youtu.be/3aUx7ajQrys) |
 | damn ("the whole damn thing") | damb |
 | delete | dete |
 | emoji | emoj, emojo, emojum |
@@ -137,7 +139,6 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | ah | a |
-| comfortable | comforble |
 | did you | 'dyou |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
@@ -149,12 +150,13 @@ some applied more consistently than others
 | unfortunately | unforchly |
 | what (standalone) | wh, wha, ? |
 
-## pedantic corrections
+## Making Sense™
 
 | word | replacement |
 | --: | :-- |
 | \*phobic (as in prejudiced) | anti-\* |
 | "america" (as in usa) | the us |
+| lol (as in league of legends) | league |
 
 ## actual replacements
 
