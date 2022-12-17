@@ -2,8 +2,7 @@
 color: "red"
 ---
 
-> **warning: self-deprecation·y moods abound, also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess**
-{:style="text-align: center; font-size: 150%;"}
+<div style="margin: 15px -15px 30px -15px; padding: 5px 15px; text-align: center; font-size: 150%; font-weight: bold; color: #eee; background: #770e0e; border: solid #c62828; border-width: 5px 0;">warning: self-deprecation·y moods abound, also i think i subconsciously refuse help on this topic but you're welcome to try dm·ing me anyway i guess</div>
 
 1. 
 {:toc}
