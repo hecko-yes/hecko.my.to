@@ -138,6 +138,7 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
+| [pronoun] have (as in possess) | [pronoun]'ve |
 | a | an (rarely) |
 | ah | a |
 | did you | 'dyou |
