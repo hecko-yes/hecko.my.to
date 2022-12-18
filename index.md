@@ -17,7 +17,11 @@ list of pages that i plan to make:
 	- gender?
 	- [hecko cannot into art](/hecko-cannot-into-art/) (very venty)
 
-for now here's testing
+for now here's a johnvertisement™
+
+<iframe src="https://john.citrons.xyz/embed?ref=hecko.my.to" style="display:block;margin-left:auto;margin-right:auto;width:100%;max-width:732px;max-height:94px;aspect-ratio:732/94;border:none;"></iframe>
+
+and testing
 
 ---
 
