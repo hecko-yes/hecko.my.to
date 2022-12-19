@@ -177,6 +177,7 @@ some applied more consistently than others
 
 - repetition of things, e.g. `hmhmhm`
 - lists are cool (such as this one), and i'll sometimes do,, i wanna say a meme format? where i go like `cool new pants / ☑ cool / ☑ new / ☑ pants`
+- when doing numbered lists i'll often do `1) b)` or `a) 2)`, usually then continued with `iii) four)`
 - in chat, `---` in its own line marks a topic change; in conversations with [my nerd friend](https://cheddr.dev/) i instead use `!rel` as in "unrelated" (and `rel` for related and `~rel` for quasi-related)
 - cutting sentences off, e.g. `anyway here's`
 - removing articles, e.g. `how do i make thing do thing`
