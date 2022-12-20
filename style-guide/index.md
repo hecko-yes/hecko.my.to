@@ -1,5 +1,6 @@
 ---
 color: "purple"
+excerpt: "how 2 write like me (work in progress)"
 ---
 
 1. 

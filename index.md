@@ -1,6 +1,7 @@
 ---
 title: "hiiii"
 color: "orange"
+excerpt: "omg hiii,,,"
 ---
 
 this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), #8977 on discord, <a rel="me" href="https://fluffcord.social/@hecko">@fluffcord.social</a> on fediverse)

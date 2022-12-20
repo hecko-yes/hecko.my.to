@@ -22,6 +22,10 @@
 		<meta property="og:type" content="website">
 		<meta property="og:url" content="{{ page.url | absolute_url }}">
 		<meta property="og:site_name" content="{{ site.title }}">
+		{%- if page.excerpt %}
+		<meta property="og:description" content="{{ page.excerpt }}">
+		<meta name="description" content="{{ page.excerpt }}">
+		{% endif -%}
 		<meta name="darkreader-lock">
 		<meta name="theme-color" content="#{{ color }}">
 		<style>:root {--color: #{{ color }};}</style>

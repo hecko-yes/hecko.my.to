@@ -1,6 +1,7 @@
 ---
 title: "fursonæ"
 color: "green"
+excerpt: "the characters that i've made, for various degrees of \"made\""
 ---
 
 1. 

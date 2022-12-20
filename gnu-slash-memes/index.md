@@ -1,6 +1,7 @@
 ---
 title: "gnu/memes"
 color: "blue"
+excerpt: "an index of memes, memeables, and pop culture items, under public licenses such as creative commons or in the public domain"
 ---
 
 1. 
