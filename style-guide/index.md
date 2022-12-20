@@ -184,7 +184,14 @@ some applied more consistently than others
 - removing articles, e.g. `how do i make thing do thing`
 - i know it shouldn't matter but things like `amature` or `existance` or `made it's rounds` bug me because They're Not Correct!!
 - some people do `.` as a mid-sentence pause, it's cool but i don't do it (yet?)
-- favorite emojoids: [:despair:](https://i.ibb.co/crtMXzb/despairmega.png), [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png), [:orwell:](https://i.ibb.co/C26jX7M/orwellbig.png), [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png), :sob: (😭), :skull: (💀), :pensive: (😔)
+- favorite emojoids:
+	- [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
+	- [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
+	- [:orwell:](https://i.ibb.co/C26jX7M/orwellbig.png)
+	- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
+	- :sob: (😭)
+	- :skull: (💀)
+	- :pensive: (😔)
 
 # appendix: toki pona
 
