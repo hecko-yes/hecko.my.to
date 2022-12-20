@@ -192,6 +192,7 @@ some applied more consistently than others
 	- :sob: (😭)
 	- :skull: (💀)
 	- :pensive: (😔)
+	- :newspaper2: (🗞, meant as a "bonk"-type thing)
 
 # appendix: toki pona
 
