@@ -15,7 +15,7 @@ but if you're publishing something commercially (or if your teacher insists on p
 a quick rundown:
 - [`pd`](https://creativecommons.org/publicdomain/mark/1.0/) (public domain) means it's too old for copyright so do Literally Whatever; this may vary depending on your country
 - [`0`](https://creativecommons.org/publicdomain/zero/1.0/) means much the same but applied intentionally, so the work is probably more modern
-- [`by`](https://creativecommons.org/licenses/by/4.0/) means credit (e.g. link in the description, maybe a sneaky watermark if in an image)
+- [`by`](https://creativecommons.org/licenses/by/4.0/) means credit (e.g. link in the description, maybe a sneaky watermark if in an image); however it *also* usually means no drm which might be an issue if you're developing for ios
 - [`sa`](https://creativecommons.org/licenses/by-sa/4.0/) means if you publish edits of it (or things synced to it if music) you have to release them under the same license
 - [`nd`](https://creativecommons.org/licenses/by-nd/4.0/) means don't you dare publish edits of it
 - [`nc`](https://creativecommons.org/licenses/by-nc/4.0/) means non-commercial
@@ -46,6 +46,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | name | license | notes |
 | :- | :- | :- |
 | [minecraft oof sound](https://freesound.org/people/thecheeseman/sounds/44429/) | by |
+| [text2speech.org](https://www.text2speech.org/) | 0? | `Female US` is the voice of remote from [bfb](https://www.youtube.com/@BFDI), `Male US` and `Male US (Scottish accent)` were used by e.g. [timotainment](https://www.youtube.com/@Timotainment); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
 
 # other
 
