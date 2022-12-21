@@ -1,12 +1,12 @@
 ---
 color: "purple"
-excerpt: "how 2 write like me (work in progress)"
+excerpt: "how 2 write like me"
 ---
 
 1. 
 {:toc}
 
-how 2 write like me (work in progress)
+how 2 write like me
 thought up independently of but encouraged by the existence of [marijn van hoorn's style guide](https://satyrs.eu/styleguide/) as well as someone's list of neologisms that i can't find anymore
 if this interests you then so may [jan Misali's punctuation analysis](https://www.seximal.net/punctuation)
 
