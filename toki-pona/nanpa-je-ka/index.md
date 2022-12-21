@@ -3,7 +3,17 @@ color: "brown"
 title: "nanpa je ka"
 ---
 
-# fixed
+# notes
+
+this was my first ever longform translation, made a mere 2 weeks after i had started learning; the , and even the "fixed" version has quirks that i avoid nowadays
+
+it also uses [a humorous number system](https://sona.pona.la/wiki/nasin_nanpa_ali_ike#[decimal]_[humorous]_kijetesantakalu_polinpin,_tan_jan_Kita_(shameless_self-promotion)) i had made back then (as is the rite of passage for tokiponists), here's a lookup table:
+
+| ki | je | te | san | ta | ka | lu | po | lin | pin |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+
+# fixed version
 
 nanpa je ka
 lipu kasi noka
