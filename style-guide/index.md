@@ -168,6 +168,7 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | -one, -body | -pony |
+| news | mews (rarely) |
 | on the \* hand | on the \* hoof |
 | years ago | [yonks](https://en.wiktionary.org/wiki/yonks) ago |
 
