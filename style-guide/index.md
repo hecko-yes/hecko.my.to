@@ -57,6 +57,7 @@ aside from the above i also use them for marking content warnings, e.g. `[spooky
 ## strikethrough
 
 strikethrough marks sentences that i'd mumble under my breath in speech, sorta like [`/j`](https://tonetags.carrd.co/)
+sadly this is misunderstood by others often enough that i have `hts` set as a shortcut for `hence the strikethrough`
 
 ## trademark sign
 
@@ -125,6 +126,7 @@ some applied more consistently than others
 | hello | henlo |
 | interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
+| linux | linuck |
 | microsoft | microdollarsignoft |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | smh | smhead |
@@ -181,6 +183,7 @@ some applied more consistently than others
 - when doing numbered lists i'll often do `1) b)` or `a) 2)`, usually then continued with `iii) four)`
 - when sending several messages that [start with / are] the same word i'll often add superscript numbers to them, e.g. `looks impressive / but it's impractical / but² i wanna use it anyway / but³ idk what for`
 - in chat, `---` in its own line marks a topic change; in conversations with [my nerd friend](https://cheddr.dev/) i instead use `!rel` as in "unrelated" (and `rel` for related and `~rel` for quasi-related)
+- tonetags i use: `/gen` (genuine, neither joking nor sarcastic), `/ref` (reference), sometimes `/j` (joking) but i prefer [strikethrough](#strikethrough) for that
 - cutting sentences off, e.g. `anyway here's`
 - removing articles, e.g. `how do i make thing do thing`
 - i know it shouldn't matter but things like `amature` or `existance` or `made it's rounds` bug me because They're Not Correct!!
