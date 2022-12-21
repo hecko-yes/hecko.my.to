@@ -1,11 +1,8 @@
 ---
 color: "brown"
-title: "nanpa je ka"
 ---
 
-# notes
-
-this was my first ever longform translation, made a mere 2 weeks after i had started learning; the , and even the "fixed" version has quirks that i avoid nowadays
+note: this was my first ever longform translation, made a mere 2 weeks after i had started learning; there are many mistakes, and even the "fixed" version has quirks that i avoid nowadays
 
 it also uses [a humorous number system](https://sona.pona.la/wiki/nasin_nanpa_ali_ike#[decimal]_[humorous]_kijetesantakalu_polinpin,_tan_jan_Kita_(shameless_self-promotion)) i had made back then (as is the rite of passage for tokiponists), here's a lookup table:
 
