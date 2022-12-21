@@ -17,6 +17,7 @@ list of pages that i plan to make:
 	- existentialism
 	- gender?
 	- [hecko cannot into art](/hecko-cannot-into-art/) (very venty)
+- [toki pona things](/toki-pona/)
 
 for now here's a johnvertisement™
 
