@@ -184,6 +184,7 @@ some applied more consistently than others
 - when sending several messages that [start with / are] the same word i'll often add superscript numbers to them, e.g. `looks impressive / but it's impractical / but² i wanna use it anyway / but³ idk what for`
 - in chat, `---` in its own line marks a topic change; in conversations with [my nerd friend](https://cheddr.dev/) i instead use `!rel` as in "unrelated" (and `rel` for related and `~rel` for quasi-related)
 - tonetags i use: `/gen` (genuine, neither joking nor sarcastic), `/ref` (reference), sometimes `/j` (joking) but i prefer [strikethrough](#strikethrough) for that
+- au notation (`fell!sans`) for other things (e.g. `preverb!"alasa"`)
 - cutting sentences off, e.g. `anyway here's`
 - removing articles, e.g. `how do i make thing do thing`
 - i know it shouldn't matter but things like `amature` or `existance` or `made it's rounds` bug me because They're Not Correct!!
