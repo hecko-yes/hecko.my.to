@@ -199,6 +199,7 @@ some applied more consistently than others
 	- :skull: (💀)
 	- :pensive: (😔)
 	- :newspaper2: (🗞, meant as a "bonk"-type thing)
+	- :tada: (🎉)
 
 # appendix: toki pona
 
