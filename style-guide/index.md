@@ -200,6 +200,7 @@ some applied more consistently than others
 	- :pensive: (😔)
 	- :newspaper2: (🗞, meant as a "bonk"-type thing)
 	- :tada: (🎉)
+	- :smiling_imp: (😈)
 
 # appendix: toki pona
 
