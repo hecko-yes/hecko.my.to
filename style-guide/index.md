@@ -113,12 +113,14 @@ some applied more consistently than others
 | \*er, \*or | \*eur (a la `auteur`) |
 | animal | aminal |
 | anyway | anyhoo |
+| christmas | crimbus |
 | color | coloure |
 | comfortable | comforble |
 | computer | compute, computational |
 | [conlang](https://en.wiktionary.org/wiki/conlang#English) | [clong](https://www.reddit.com/r/conlangscirclejerk/comments/tmg1eh/what_the_fuck_is_a_clong/), [conglang, conlangue](https://youtu.be/3aUx7ajQrys) |
 | damn ("the whole damn thing") | damb |
 | delete | dete |
+| disney | [didney](https://knowyourmeme.com/memes/didney-worl) |
 | emoji | emoj, emojo, emojum |
 | gaming | game ing |
 | gray | græy |
@@ -131,6 +133,7 @@ some applied more consistently than others
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | smh | smhead |
 | thanks | thank, thanque |
+| toki pona | tonky ponky |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | website | webbed sight |
 | who | whom |
@@ -160,7 +163,8 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | \*phobic (as in prejudiced) | anti-\* |
-| "america" (as in usa) | the us |
+| america (as in usa) | the us |
+| furry (as in humanoid animal) | anthro |
 | lol (as in league of legends) | league |
 
 ## actual replacements
