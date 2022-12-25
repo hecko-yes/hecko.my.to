@@ -113,6 +113,7 @@ some applied more consistently than others
 | --: | :-- |
 | \*ae\* | \*æ\* |
 | \*er, \*or | \*eur (a la `auteur`) |
+| \*k | \*que (rarely) |
 | animal | aminal |
 | anyway | anyhoo |
 | christmas | crimbus |
