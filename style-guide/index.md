@@ -80,6 +80,8 @@ technically unnecessary filler, so like y'know the uh,, yeah
 every so often i wanna stop using it but then i don't
 no textspeak abbreviations though, except [specific ones](#abbreviations)
 
+a corollary is that i often quote memes instead of speaking normally, which might partly be due to autism idk
+
 ## uncasualness
 
 i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing
@@ -130,6 +132,7 @@ some applied more consistently than others
 | internet | interweb |
 | linux | linuck |
 | microsoft | microdollarsignoft |
+| non(-)binary | nonbiney, non(-)binanry (rarely) |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | smh | smhead |
 | thanks | thank, thanque |
@@ -206,7 +209,13 @@ some applied more consistently than others
 	- :tada: (🎉)
 	- :smiling_imp: (😈)
 
-# appendix: toki pona
+# other languages
+
+## polish
+
+not much to say other than that interpuncts come before suffixes for foreign words (`microsoft·u`) and that for people of unknown gender i like to use ligatures (`zrobiłæś`) and [naturally genderless forms](https://zaimki.pl/unikanie) (`zdarzyło ci się zrobić`)
+
+## toki pona
 
 sentences on the same line are split with an interpunct with spaces on either side
 in semi-formal writing, interpuncts are also added at the *start and end* of the line, vaguely resembling an indent and also because symmetry is nice
