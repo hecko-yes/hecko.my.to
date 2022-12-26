@@ -9,10 +9,12 @@ excerpt: "an index of memes, memeables, and pop culture items, under public lice
 
 an index of memes, memeables, and pop culture items, under public licenses such as [creative commons](https://creativecommons.org/) or in the [public domain](https://en.wikipedia.org/wiki/Public_domain)
 
+[ctrl+f](https://www.takeflyte.com/what-the-ctrl-f) is your friend here
+
 most of the time this doesn't matter because youtube has contracts for most of the world's music and all the other companies know better than to sue random memesters for giving them free marketing
 but if you're publishing something commercially (or if your teacher insists on properly licensed material for your slideshow) and you wanna put a haha funny in it then this might be helpful
 
-a quick rundown:
+a quick rundown of how the license column works:
 - [`pd`](https://creativecommons.org/publicdomain/mark/1.0/) (public domain) means it's too old for copyright so do Literally Whatever; this may vary depending on your country
 - [`0`](https://creativecommons.org/publicdomain/zero/1.0/) means much the same but applied intentionally, so the work is probably more modern
 - [`by`](https://creativecommons.org/licenses/by/4.0/) means credit (e.g. link in the description, maybe a sneaky watermark if in an image); however it *also* usually means no drm which might be an issue if you're developing for ios
