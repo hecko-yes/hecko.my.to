@@ -84,13 +84,15 @@ a corollary is that i often quote memes instead of speaking normally, which migh
 
 ## uncasualness
 
-i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing
+i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing (which doesn't mean i'll use the complex word correctly)
+
 `2 (two)` is funny
 
 ## pedantry
 
-i use `one` instead of generic `you` because it makes more sense to me
-when marking for possession, i add `'s` even after words that already end in `s` (e.g. [`tails's tools`](https://www.youtube.com/watch?v=v15HWmwxuZo)), unless they're plural
+- i use `one` instead of generic `you` because it makes more sense to me
+- no generic `he`, gender-neutrality all the way (even in [polish](#polish)); example people can get random pronouns though (including neopronouns)
+- when marking for possession, i add `'s` even after words that already end in `s` (e.g. [`tails's tools`](https://www.youtube.com/watch?v=v15HWmwxuZo)), unless they're plural
 
 ## extrapolation
 
@@ -112,6 +114,7 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | \*ae\* | \*æ\* |
+| \*ed | em\*ed (rarely), \*eded (rarelier) |
 | \*er, \*or | \*eur (a la `auteur`) |
 | \*k | \*que (rarely) |
 | animal | aminal |
