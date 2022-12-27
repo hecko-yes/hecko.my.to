@@ -169,6 +169,7 @@ some applied more consistently than others
 | pretty (as in quite) | p |
 | question | q |
 | something | sth |
+| today i learned | til |
 | unfortunately | unforchly |
 | what (standalone) | wh, wha, ? |
 
