@@ -68,6 +68,12 @@ a trademark sign can mark that a given word/phrase has a,, special meaning i gue
 the interpunct (`·`) is so cool that it gets a special shortcut on my keyboard, [altgr](https://en.wikipedia.org/wiki/AltGr) + `.` (and you can do it too with [autohotkey™](https://autohotkey.com/))
 i use it to mark suffixes after single letters or acronyms (`nft·s`, `ssh·ing`, but `ddos'd`), as well as "clarify" hyphen nesting order
 
+## arrows
+
+on pc i have [wincompose](http://wincompose.info/), on android i have gboard and emoji
+most common is `↑` which i use to refer to the previous message (where others use `^`)
+i like sometimes replacing directions like `top right` with the corresponding arrows (`↗`)
+
 # grammar
 
 ## [rule of funny](https://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfFunny)
@@ -139,7 +145,8 @@ some applied more consistently than others
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | smh | smhead |
-| thanks | thank, thanque |
+| tetris | tetrum, tetroid |
+| thanks | thank, thancc, thanque |
 | toki pona | tonky ponky |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | website | webbed sight |
@@ -151,7 +158,7 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
-| [pronoun] have (as in possess) | [pronoun]'ve |
+| [pronoun] has/have (as in possess) | [pronoun]'s/'ve |
 | a | an (rarely) |
 | ah | a |
 | did you | 'dyou |
@@ -201,17 +208,18 @@ some applied more consistently than others
 - removing articles, e.g. `how do i make thing do thing`
 - i know it shouldn't matter but things like `amature` or `existance` or `made it's rounds` bug me because They're Not Correct!!
 - some people do `.` as a mid-sentence pause, it's cool but i don't do it (yet?)
-- favorite emojoids:
+- commonly used emojoids:
 	- [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
 	- [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
 	- [:orwell:](https://i.ibb.co/C26jX7M/orwellbig.png)
-	- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png)
+	- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png) ( don't have it as a hotkey yet so i just write `:tro:` as text)
 	- :sob: (😭)
 	- :skull: (💀)
 	- :pensive: (😔)
 	- :newspaper2: (🗞, meant as a "bonk"-type thing)
 	- :tada: (🎉)
 	- :smiling_imp: (😈)
+	- :heart_eyes: (😍)
 
 # other languages
 
