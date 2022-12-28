@@ -182,6 +182,7 @@ some applied more consistently than others
 | america (as in usa) | the us |
 | furry (as in humanoid animal) | anthro |
 | lol (as in league of legends) | league |
+| singlet (as in not [plural](https://morethanone.info)) | singular |
 
 ## actual replacements
 
