@@ -144,6 +144,7 @@ some applied more consistently than others
 | microsoft | microdollarsignoft |
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
+| ram | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
 | smh | smhead |
 | tetris | tetrum, tetroid |
 | thanks | thank, thancc, thanque |
@@ -209,6 +210,7 @@ some applied more consistently than others
 - removing articles, e.g. `how do i make thing do thing`
 - i know it shouldn't matter but things like `amature` or `existance` or `made it's rounds` bug me because They're Not Correct!!
 - some people do `.` as a mid-sentence pause, it's cool but i don't do it (yet?)
+- in speech i sometimes pronounce <c> as /ts/ (like in polish) where others would do /s/, e.g. in `cis`
 - commonly used emojoids:
 	- [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
 	- [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
