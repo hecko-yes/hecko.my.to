@@ -206,11 +206,12 @@ some applied more consistently than others
 - when sending several messages that [start with / are] the same word i'll often add superscript numbers to them, e.g. `looks impressive / but it's impractical / but² i wanna use it anyway / but³ idk what for`
 - in chat, `---` in its own line marks a topic change; in conversations with [my nerd friend](https://cheddr.dev/) i instead use `!rel` as in "unrelated" (and `rel` for related and `~rel` for quasi-related)
 - tonetags i use: `/gen` (genuine, neither joking nor sarcastic), `/ref` (reference), sometimes `/j` (joking) but i prefer [strikethrough](#strikethrough) for that
-- au notation (`fell!sans`) for other things (e.g. `preverb!"alasa"`)
+- au notation (`fell!sans`) for other things (e.g. `preverb!alasa`)
 - cutting sentences off, e.g. `anyway here's`
 - removing articles, e.g. `how do i make thing do thing`
 - i know it shouldn't matter but things like `amature` or `existance` or `made it's rounds` bug me because They're Not Correct!!
 - some people do `.` as a mid-sentence pause, it's cool but i don't do it (yet?)
+- i haven't actually done it much but i've had the idea to refer to the left/right sides of an image as `west`/`east`, so that it's not confused for the character's left/right
 - in speech i sometimes pronounce <c> as /ts/ (like in polish) where others would do /s/, e.g. in `cis`
 - commonly used emojoids:
 	- [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
@@ -224,6 +225,9 @@ some applied more consistently than others
 	- :tada: (🎉)
 	- :smiling_imp: (😈)
 	- :heart_eyes: (😍)
+- commonly used words/phrases:
+	- `tentative`
+	- `good question`
 
 # other languages
 
