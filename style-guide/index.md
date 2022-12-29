@@ -228,6 +228,7 @@ some applied more consistently than others
 - commonly used words/phrases:
 	- `tentative`
 	- `good question`
+	- `shan't`
 
 # other languages
 
