@@ -25,6 +25,8 @@ a quick rundown of how the license column works:
 
 very incomplete as of current; if you have any suggestions then contact is appreciated
 
+**see also:** [the `internet memes` category on wikimedia commons](https://commons.wikimedia.org/wiki/Category:Internet_memes)
+
 # images
 
 | name | license | notes |
