@@ -229,6 +229,7 @@ some applied more consistently than others
 	- `tentative`
 	- `good question`
 	- `shan't`
+	- `fair` (as its own message)
 
 # other languages
 
