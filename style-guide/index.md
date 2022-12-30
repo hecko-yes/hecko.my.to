@@ -162,6 +162,7 @@ some applied more consistently than others
 | [pronoun] has/have (as in possess) | [pronoun]'s/'ve |
 | a | an (rarely) |
 | ah | a |
+| alright | aight |
 | did you | 'dyou |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
