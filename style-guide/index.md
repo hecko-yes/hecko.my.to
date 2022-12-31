@@ -58,6 +58,10 @@ spaces around slashes when more than one word: `i want sugar / spice / everythin
 
 aside from the above i also use them for marking content warnings, e.g. `[spooky] <spoiler>boo</spoiler>`
 
+## colon
+
+sometimes used for: [queen deltarune's secondary typing quirk](https://hushbugger.github.io/drdia/#ch2%20city08:14)
+
 ## interpunct
 
 the interpunct (`·`) is so cool that it gets a special shortcut on my keyboard, [altgr](https://en.wikipedia.org/wiki/AltGr) + `.` (and you can do it too with [autohotkey™](https://autohotkey.com/))
