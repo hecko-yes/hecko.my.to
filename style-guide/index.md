@@ -164,6 +164,7 @@ some applied more consistently than others
 | ah | a |
 | alright | aight |
 | did you | 'dyou |
+| do you | d'you (important distinction) |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
 | it's | 's, 'tis |
@@ -173,7 +174,7 @@ some applied more consistently than others
 | something | sth |
 | today i learned | til |
 | unfortunately | unforchly |
-| what (standalone) | wh, wha, ? |
+| what (standalone) | wha, wh, ? |
 
 ## Making Sense™
 
