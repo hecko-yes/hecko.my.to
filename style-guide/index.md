@@ -39,12 +39,16 @@ my brain likes to interpret quotation marks as [scare quotes](https://en.wikiped
 when discussing other languages (e.g. toki pona), i use backticks to quote that language and fall back to quotation marks for english, with angle quotes (`«»`) used for yet other languages
 when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look kinda ugly, e.g. `They said "Let's go.".`)
 
+## apostrophe
+
+very important, almost never omitted, unlike some other chatteurs
+
 ## asterisk
 
 the usual usage is for rp, a la `*nuzzles u*`, which usually turns into italics
 when using it for corrections i do `*you're` instead of the `you're*` that many seem to do, because the latter implies that there's a footnote attached to *it* rather than it *being* the footnote
 
-## slashes
+## slash
 
 regular usage: `i want a cat/dog/whatever`
 square brackets when part of word: `i want a [boy/girl/enby]friend`
@@ -54,6 +58,11 @@ spaces around slashes when more than one word: `i want sugar / spice / everythin
 
 aside from the above i also use them for marking content warnings, e.g. `[spooky] <spoiler>boo</spoiler>`
 
+## interpunct
+
+the interpunct (`·`) is so cool that it gets a special shortcut on my keyboard, [altgr](https://en.wikipedia.org/wiki/AltGr) + `.` (and you can do it too with [autohotkey™](https://autohotkey.com/))
+i use it to mark suffixes after single letters or acronyms (`nft·s`, `ssh·ing`, but `ddos'd`), as well as "clarify" hyphen nesting order
+
 ## strikethrough
 
 strikethrough marks sentences that i'd mumble under my breath in speech, sorta like [`/j`](https://tonetags.carrd.co/)
@@ -62,11 +71,6 @@ sadly this is misunderstood by others often enough that i have `hts` set as a sh
 ## trademark sign
 
 a trademark sign can mark that a given word/phrase has a,, special meaning i guess? kinda like the `Soon™` meme but with a broader fuzzier harder to define meaning (maybe it's just emphasis or random spice who knows)
-
-## interpunct
-
-the interpunct (`·`) is so cool that it gets a special shortcut on my keyboard, [altgr](https://en.wikipedia.org/wiki/AltGr) + `.` (and you can do it too with [autohotkey™](https://autohotkey.com/))
-i use it to mark suffixes after single letters or acronyms (`nft·s`, `ssh·ing`, but `ddos'd`), as well as "clarify" hyphen nesting order
 
 ## arrows
 
