@@ -240,6 +240,7 @@ some applied more consistently than others
 	- `good question`
 	- `shan't`
 	- `fair` (as its own message)
+	- `quarter-decent`
 
 # other languages
 
