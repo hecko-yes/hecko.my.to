@@ -176,10 +176,11 @@ some applied more consistently than others
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
 | it's | 's, 'tis |
+| nope | nop |
 | oh | o |
 | pretty (as in quite) | p |
 | question | q |
-| something | sth |
+| something | sth, sumn |
 | today i learned | til |
 | unfortunately | unforchly |
 | what (standalone) | wha, wh, ? |
