@@ -25,7 +25,9 @@ a quick rundown of how the license column works:
 
 very incomplete as of current; if you have any suggestions then contact is appreciated
 
-**see also:** [the `internet memes` category on wikimedia commons](https://commons.wikimedia.org/wiki/Category:Internet_memes)
+**see also:**
+- [the `internet memes` category on wikimedia commons](https://commons.wikimedia.org/wiki/Category:Internet_memes)
+- some works on [newgrounds](https://www.newgrounds.com/) and a few on [deviantart](https://www.deviantart.com/) (no way to search by license afaik)
 
 # images
 
