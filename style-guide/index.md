@@ -236,12 +236,14 @@ some applied more consistently than others
 	- :tada: (🎉)
 	- :smiling_imp: (😈)
 	- :heart_eyes: (😍)
+	- :flushed: (😳)
 - commonly used words/phrases:
 	- `tentative`
 	- `good question`
 	- `shan't`
 	- `fair` (as its own message)
 	- `quarter-decent`
+	- `oh dear`
 
 # other languages
 
