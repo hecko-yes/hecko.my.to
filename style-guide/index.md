@@ -131,6 +131,7 @@ some applied more consistently than others
 | \*ed | em\*ed (rarely), \*eded (rarelier) |
 | \*er, \*or | \*eur (a la `auteur`) |
 | \*k | \*que (rarely) |
+| a | an (rarely) |
 | animal | aminal |
 | anyway | anyhoo |
 | christmas | crimbus |
@@ -168,7 +169,6 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | [pronoun] has/have (as in possess) | [pronoun]'s/'ve |
-| a | an (rarely) |
 | ah | a |
 | alright | aight |
 | did you | 'dyou |
