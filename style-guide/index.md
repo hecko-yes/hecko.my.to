@@ -92,7 +92,7 @@ i like sometimes replacing directions like `top right` with the corresponding ar
 
 technically unnecessary filler, so like y'know the uh,, yeah
 every so often i wanna stop using it but then i don't
-no textspeak abbreviations though, except [specific ones](#abbreviations)
+no textspeak abbreviations though, except [specific ones](#abbreviations) (and acronyms like `tbh`, `mfw`, etc)
 
 a corollary is that i often quote memes instead of speaking normally, which might partly be due to autism idk
 
@@ -244,6 +244,7 @@ some applied more consistently than others
 	- `fair` (as its own message)
 	- `quarter-decent`
 	- `oh dear`
+	- `granted` (a la "to be fair")
 
 # other languages
 
