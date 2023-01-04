@@ -237,6 +237,7 @@ some applied more consistently than others
 	- :smiling_imp: (😈)
 	- :heart_eyes: (😍)
 	- :flushed: (😳)
+	- :eyes: (👀)
 - commonly used words/phrases:
 	- `tentative`
 	- `good question`
