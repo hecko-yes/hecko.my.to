@@ -246,6 +246,7 @@ some applied more consistently than others
 	- `quarter-decent`
 	- `oh dear`
 	- `granted` (a la "to be fair")
+	- `ope` (interjection for "turns out this exists")
 
 # other languages
 
