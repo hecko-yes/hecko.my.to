@@ -247,6 +247,7 @@ some applied more consistently than others
 	- `oh dear`
 	- `granted` (a la "to be fair")
 	- `ope` (interjection for "turns out this exists")
+	- `[vague/mild/moderate/()] temptation to`
 
 # other languages
 
