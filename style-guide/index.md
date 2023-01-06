@@ -35,8 +35,10 @@ multiple commas (2 by default, can even be 1 sometimes) are used as [ellipses](h
 ## quotation marks
 
 my brain likes to interpret quotation marks as [scare quotes](https://en.wikipedia.org/wiki/Scare_quotes) even when they're not, so instead i tend to use backticks (`` ` ``), which due to [markdown](https://en.wikipedia.org/wiki/Markdown) makes the text look like code in places like reddit and discord and this website
-(when i *do* intend to do scare quotes i often multiply them a bunch, e.g. `"""""dubious"""""`)
+this only applies sometimes, depending on rules that i'm not sure of yet
+when i intend to do scare quotes i often multiply them a bunch, e.g. `"""""dubious"""""`
 when discussing other languages (e.g. toki pona), i use backticks to quote that language and fall back to quotation marks for english, with angle quotes (`«»`) used for yet other languages
+
 when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look kinda ugly, e.g. `They said "Let's go.".`)
 
 ## apostrophe
@@ -238,6 +240,7 @@ some applied more consistently than others
 	- :heart_eyes: (😍)
 	- :flushed: (😳)
 	- :eyes: (👀)
+	- `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
 - commonly used words/phrases:
 	- `tentative`
 	- `good question`
