@@ -248,6 +248,7 @@ some applied more consistently than others
 	- `granted` (a la "to be fair")
 	- `ope` (interjection for "turns out this exists")
 	- `[vague/mild/moderate/()] temptation to`
+	- `mf` (from `motherfucking` but i never use the full version)
 
 # other languages
 
