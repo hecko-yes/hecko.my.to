@@ -249,6 +249,7 @@ some applied more consistently than others
 	- `ope` (interjection for "turns out this exists")
 	- `[vague/mild/moderate/()] temptation to`
 	- `mf` (from `motherfucking` but i never use the full version)
+	- [`i am once again asking](https://knowyourmeme.com/memes/i-am-once-again-asking-for-your-financial-support)
 
 # other languages
 
