@@ -56,6 +56,9 @@ regular usage: `i want a cat/dog/whatever`
 square brackets when part of word: `i want a [boy/girl/enby]friend`
 spaces around slashes when more than one word: `i want sugar / spice / everything nice` (or `i want sugar/spice/everything·nice`)
 
+i write reddit notation with a slash at the start: `/u/SonjaLang posted on /r/tokipona`
+i usually prefer a slash at the end of a url: `{{ page.url | absolute_url }}`
+
 ## square brackets
 
 aside from the above i also use them for marking content warnings, e.g. `[spooky] <spoiler>boo</spoiler>`
@@ -254,6 +257,7 @@ some applied more consistently than others
 	- `mf` (from `motherfucking` but i never use the full version)
 	- [`i am once again asking`](https://knowyourmeme.com/memes/i-am-once-again-asking-for-your-financial-support)
 	- `hoo lordy`
+	- `ngl` (= "not gonna lie")
 
 # other languages
 
