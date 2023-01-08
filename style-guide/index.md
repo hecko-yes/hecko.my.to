@@ -139,6 +139,7 @@ some applied more consistently than others
 | a | an (rarely) |
 | animal | aminal |
 | anyway | anyhoo |
+| bruh | brug |
 | christmas | crimbus |
 | color | coloure |
 | comfortable | comforble |
@@ -176,6 +177,7 @@ some applied more consistently than others
 | [pronoun] has/have (as in possess) | [pronoun]'s/'ve |
 | ah | a |
 | alright | aight |
+| bruh | [b](https://www.youtube.com/watch?v=ud1JXqGWPvU&t=24s) |
 | did you | 'dyou |
 | do you | d'you (important distinction) |
 | i don't know | iunno, dunno, idk (rarely) |
