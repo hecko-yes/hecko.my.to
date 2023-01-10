@@ -246,6 +246,7 @@ some applied more consistently than others
 	- :flushed: (😳)
 	- :eyes: (👀)
 	- `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
+	- `¯\_(ツ)_/¯` (famous shrug emoticon)
 - commonly used words/phrases:
 	- `tentative`
 	- `good question`
