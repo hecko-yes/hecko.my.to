@@ -63,6 +63,8 @@ i usually prefer a slash at the end of a url: `{{ page.url | absolute_url }}`
 
 aside from the above i also use them for marking content warnings, e.g. `[spooky] <spoiler>boo</spoiler>`
 
+used with `@` for marking topics: `@[long animals] weasels are pretty underrated tbh`
+
 ## colon
 
 sometimes used for: [queen deltarune's secondary typing quirk](https://hushbugger.github.io/drdia/#ch2%20city08:14)
