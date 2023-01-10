@@ -25,7 +25,7 @@ i almost always write numbers as digits, except in compounds like `twofold` and 
 
 general rule: punctuation represents not only grammar things but also how the text would be intonated if it were spoken
 
-no period at the end of the sentence other than to clarify intonation (e.g. `huh.` as opposed to `huh` which feels like a question)
+no period at the end of the sentence other than to clarify intonation (e.g. `huh.` as opposed to `huh` which feels like a question), or rarely a serious tone
 non-question non-exclamation sentences are instead most commonly separated with line breaks, sometimes with [commas](https://en.wikipedia.org/wiki/Comma_splice), rarely with semicolons
 this can cause ambiguity when the end of one sentence ends up on the right side of the screen, making it look like it continues into the next line (this website avoids it by making each sentence a "paragraph" with minimal padding and making actual paragraphs be `<div>`s)
 commas and question marks are also often omitted except where that would cause ambiguity
