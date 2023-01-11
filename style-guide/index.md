@@ -159,6 +159,7 @@ some applied more consistently than others
 | internet | interweb |
 | linux | linuck |
 | microsoft | microdollarsignoft |
+| news | mews (rarely) |
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | ram | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
@@ -209,7 +210,7 @@ some applied more consistently than others
 | word | replacement |
 | --: | :-- |
 | -one, -body | -pony |
-| news | mews (rarely) |
+| butt | bum |
 | on the \* hand | on the \* hoof |
 | years ago | [yonks](https://en.wiktionary.org/wiki/yonks) ago |
 
