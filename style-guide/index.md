@@ -213,6 +213,7 @@ some applied more consistently than others
 | -one, -body | -pony |
 | butt | bum |
 | on the \* hand | on the \* hoof |
+| what the hell | [what the hay](https://www.youtube.com/watch?v=tA5IJi5yJC0) (sometimes) |
 | years ago | [yonks](https://en.wiktionary.org/wiki/yonks) ago |
 
 # neologisms
