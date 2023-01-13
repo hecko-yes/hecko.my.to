@@ -155,6 +155,7 @@ some applied more consistently than others
 | gray | græy |
 | hecking | heckign |
 | hello | henlo |
+| [inb4](https://knowyourmeme.com/memes/inb4--2) | inb5 |
 | interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
 | linux | linuck |
