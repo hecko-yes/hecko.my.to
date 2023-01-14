@@ -248,6 +248,7 @@ some applied more consistently than others
 	- :sob: (😭)
 	- :skull: (💀)
 	- :pensive: (😔)
+	- :relieved: (😌)
 	- :newspaper2: (🗞, meant as a "bonk"-type thing)
 	- :tada: (🎉)
 	- :smiling_imp: (😈)
