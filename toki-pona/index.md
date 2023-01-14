@@ -53,6 +53,20 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 		}
 	}
 	
+	@keyframes sike-pona {
+		0%	{bottom: 0em;}
+		10%	{bottom: 0em;}
+		20%	{bottom: 1.5em;}
+		30%	{bottom: 1.5em;}
+		40%	{bottom: 3em;}
+		50%	{bottom: 3em;}
+		60%	{bottom: 4.5em;}
+		70%	{bottom: 3.5em;}
+		80%	{bottom: 6em;}
+		90%	{bottom: 6em;}
+		100%	{bottom: 7.5em;}
+	}
+	
 	#sike-pona-cycler-wrapper {
 		margin: 0;
 		text-align: center;
@@ -69,26 +83,9 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 		animation-timing-function: ease-out;
 	}
 	
-	@keyframes sike-pona {
-		0%	{bottom: 0em;}
-		10%	{bottom: 1.5em;}
-		20%	{bottom: 1.5em;}
-		30%	{bottom: 3em;}
-		40%	{bottom: 3em;}
-		50%	{bottom: 4.5em;}
-		60%	{bottom: 4.5em;}
-		70%	{bottom: 6em;}
-		80%	{bottom: 6em;}
-		90%	{bottom: 7.5em;}
-		100%	{bottom: 7.5em;}
-	}
-	
 	@media (prefers-reduced-motion: reduce) {
-		#sike-pona-cycler-wrapper {
-			height: 7.5em;
-		}
 		#sike-pona-cycler {
-			animation: none;
+			animation-timing-function: step-start;
 		}
 	}
 </style>
