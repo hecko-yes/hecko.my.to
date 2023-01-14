@@ -112,8 +112,12 @@ i sometimes go sesquipedalian, either for comedic effect or because i genuinely 
 ## pedantry
 
 - i use `one` instead of generic `you` because it makes more sense to me
-- no generic `he`, gender-neutrality all the way (even in [polish](#polish)); example people can get random pronouns though (including neopronouns)
 - when marking for possession, i add `'s` even after words that already end in `s` (e.g. [`tails's tools`](https://www.youtube.com/watch?v=v15HWmwxuZo)), unless they're plural
+
+## leftism
+
+- no generic `he`, gender-neutrality all the way (even in [polish](#polish)); example people can get random pronouns though (including neopronouns)
+- no intelligence-based insults, so no r-word but also no e.g. `dumb` (`silly` is fine as it has a positive tone)
 
 ## extrapolation
 
