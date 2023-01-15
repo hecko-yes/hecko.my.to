@@ -275,6 +275,7 @@ some applied more consistently than others
 	- `hoo lordy`
 	- `ngl` (= "not gonna lie")
 	- [`ok i'll`](https://www.youtube.com/watch?v=TDpxx5UqrVU&t=4m56s)
+	- `nom` (especially for things like chess pieces or data input)
 
 # other languages
 
