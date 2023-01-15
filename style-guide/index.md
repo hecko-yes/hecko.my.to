@@ -145,6 +145,7 @@ some applied more consistently than others
 | a | an (rarely) |
 | animal | aminal |
 | anyway | anyhoo |
+| boxes | [boxen](https://youtu.be/GXJjZjl6Y_4) (i already covered mispluralizations but this one's special to me) |
 | bruh | brug |
 | christmas | crimbus |
 | color | coloure |
@@ -172,7 +173,7 @@ some applied more consistently than others
 | smh | smhead |
 | tetris | tetrum, tetroid |
 | thanks | thank, thancc, thanque |
-| toki pona | tonky ponky |
+| toki pona | tonky ponky, tonky |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | website | webbed sight |
 | who | whom |
