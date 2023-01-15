@@ -167,6 +167,7 @@ some applied more consistently than others
 | news | mews (rarely) |
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
+| potato(es) | potat, potate |
 | ram | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
 | smh | smhead |
 | tetris | tetrum, tetroid |
@@ -272,6 +273,7 @@ some applied more consistently than others
 	- [`i am once again asking`](https://knowyourmeme.com/memes/i-am-once-again-asking-for-your-financial-support)
 	- `hoo lordy`
 	- `ngl` (= "not gonna lie")
+	- [`ok i'll`](https://www.youtube.com/watch?v=TDpxx5UqrVU&t=4m56s)
 
 # other languages
 
