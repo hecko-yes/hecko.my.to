@@ -156,6 +156,7 @@ some applied more consistently than others
 | delete | dete |
 | disney | [didney](https://knowyourmeme.com/memes/didney-worl) |
 | emoji | emoj, emojo, emojum |
+| g\* | j\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
 | gaming | game ing |
 | gray | græy |
 | hecking | heckign |
