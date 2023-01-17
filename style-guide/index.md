@@ -228,6 +228,50 @@ some applied more consistently than others
 - **foove** (rarely the original **foof**) - playful insult (`how did you miss that you foove`)
 - **khhh** - like `pfff` but velar (in the back of the mouth) instead of labial (in the lips)
 
+# commonly used things
+
+# phrases
+
+- `tentative`
+- `good question`
+- `shan't`
+- `fair` (as its own message)
+- `quarter-decent`
+- `oh dear`
+- `granted` (a la "to be fair")
+- `ope` (interjection for "turns out this exists")
+- `[vague/mild/moderate/()] temptation to`
+- [`i am once again asking`](https://knowyourmeme.com/memes/i-am-once-again-asking-for-your-financial-support)
+- `hoo lordy`
+- [`ok i'll`](https://www.youtube.com/watch?v=TDpxx5UqrVU&t=4m56s)
+- `nom` (especially for things like chess pieces or data input)
+
+# emojoids
+
+- [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
+- [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
+- [:orwell:](https://i.ibb.co/C26jX7M/orwellbig.png)
+- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png) ( don't have it as a hotkey yet so i just write `:tro:` as text)
+- :sob: (😭)
+- :skull: (💀)
+- :pensive: (😔)
+- :relieved: (😌)
+- :newspaper2: (🗞, meant as a "bonk"-type thing)
+- :tada: (🎉)
+- :smiling_imp: (😈)
+- :heart_eyes: (😍)
+- :flushed: (😳)
+- :eyes: (👀)
+- `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
+- `¯\_(ツ)_/¯` (famous shrug emoticon)
+
+# acronyms
+
+- `mf` - motherfucking (but i never use the full version)
+- `ngl` - not gonna lie
+- `afai[k/r/ct]` - as far as i [know / remember / can tell]
+- `iirc` - if i recall correctly
+
 # uncategorized things
 
 - repetition of things, e.g. `hmhmhm`
@@ -243,39 +287,6 @@ some applied more consistently than others
 - some people do `.` as a mid-sentence pause, it's cool but i don't do it (yet?)
 - i haven't actually done it much but i've had the idea to refer to the left/right sides of an image as `west`/`east`, so that it's not confused for the character's left/right
 - in speech i sometimes pronounce <c> as /ts/ (like in polish) where others would do /s/, e.g. in `cis`
-- commonly used emojoids:
-	- [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
-	- [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
-	- [:orwell:](https://i.ibb.co/C26jX7M/orwellbig.png)
-	- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png) ( don't have it as a hotkey yet so i just write `:tro:` as text)
-	- :sob: (😭)
-	- :skull: (💀)
-	- :pensive: (😔)
-	- :relieved: (😌)
-	- :newspaper2: (🗞, meant as a "bonk"-type thing)
-	- :tada: (🎉)
-	- :smiling_imp: (😈)
-	- :heart_eyes: (😍)
-	- :flushed: (😳)
-	- :eyes: (👀)
-	- `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
-	- `¯\_(ツ)_/¯` (famous shrug emoticon)
-- commonly used words/phrases:
-	- `tentative`
-	- `good question`
-	- `shan't`
-	- `fair` (as its own message)
-	- `quarter-decent`
-	- `oh dear`
-	- `granted` (a la "to be fair")
-	- `ope` (interjection for "turns out this exists")
-	- `[vague/mild/moderate/()] temptation to`
-	- `mf` (from `motherfucking` but i never use the full version)
-	- [`i am once again asking`](https://knowyourmeme.com/memes/i-am-once-again-asking-for-your-financial-support)
-	- `hoo lordy`
-	- `ngl` (= "not gonna lie")
-	- [`ok i'll`](https://www.youtube.com/watch?v=TDpxx5UqrVU&t=4m56s)
-	- `nom` (especially for things like chess pieces or data input)
 
 # other languages
 
