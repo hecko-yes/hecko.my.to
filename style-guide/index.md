@@ -173,7 +173,7 @@ some applied more consistently than others
 | smh | smhead |
 | tetris | tetrum, tetroid |
 | thanks | thank, thancc, thanque |
-| toki pona | tonky ponky, tonky |
+| toki pona | tonky, tonky ponky (rarely) |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | website | webbed sight |
 | who | whom |
