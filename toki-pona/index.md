@@ -61,7 +61,7 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 		40%	{bottom: 3em;}
 		50%	{bottom: 3em;}
 		60%	{bottom: 4.5em;}
-		70%	{bottom: 3.5em;}
+		70%	{bottom: 4.5em;}
 		80%	{bottom: 6em;}
 		90%	{bottom: 6em;}
 		100%	{bottom: 7.5em;}
