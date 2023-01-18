@@ -248,6 +248,13 @@ some applied more consistently than others
 - `nom` (especially for things like chess pieces or data input)
 - `or well`
 
+# acronyms
+
+- `mf` - motherfucking (but i never use the full version)
+- `ngl` - not gonna lie
+- `afai[k/r/ct]` - as far as i [know / remember / can tell]
+- `iirc` - if i recall correctly
+
 # emojoids
 
 - [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
@@ -266,13 +273,6 @@ some applied more consistently than others
 - :eyes: (👀)
 - `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
 - `¯\_(ツ)_/¯` (famous shrug emoticon)
-
-# acronyms
-
-- `mf` - motherfucking (but i never use the full version)
-- `ngl` - not gonna lie
-- `afai[k/r/ct]` - as far as i [know / remember / can tell]
-- `iirc` - if i recall correctly
 
 # uncategorized things
 
