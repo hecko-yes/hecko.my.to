@@ -246,6 +246,7 @@ some applied more consistently than others
 - `hoo lordy`
 - [`ok i'll`](https://www.youtube.com/watch?v=TDpxx5UqrVU&t=4m56s)
 - `nom` (especially for things like chess pieces or data input)
+- `or well`
 
 # emojoids
 
