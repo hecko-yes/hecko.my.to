@@ -266,6 +266,7 @@ $# emojoids
 - :pensive: (😔)
 - :relieved: (😌)
 - :thinking: (🤔)
+- :sunglasses: (😎)
 - :newspaper2: (🗞, meant as a "bonk"-type thing)
 - :tada: (🎉)
 - :smiling_imp: (😈)
