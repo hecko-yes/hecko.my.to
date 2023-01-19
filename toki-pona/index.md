@@ -11,7 +11,7 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 # essays
 
 - [TODO] `pona` = "good"
-- [on nimi ku](https://sona.pona.la/wiki/User:Sobsz/on_nimi_ku) and why it's a bad category all around
+- [on nimi ku](https://sona.pona.la/wiki/User:.hecko/on_nimi_ku) and why it's a bad category all around
 
 # texts
 
@@ -26,8 +26,8 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 
 # writing systems
 
-- [sitelen Elijan](https://sona.pona.la/wiki/User:Sobsz/sitelen_Elijan), a writing system based on [elian script](https://www.ccelian.com/ElianScriptFull.html)
-- [to pon lil](https://sona.pona.la/wiki/User:Sobsz/to_pon_lil), a one-syllable-per-word relex
+- [sitelen Elijan](https://sona.pona.la/wiki/User:.hecko/sitelen_Elijan), a writing system based on [elian script](https://www.ccelian.com/ElianScriptFull.html)
+- [to pon lil](https://sona.pona.la/wiki/User:.hecko/to_pon_lil), a one-syllable-per-word relex
 
 # services
 
