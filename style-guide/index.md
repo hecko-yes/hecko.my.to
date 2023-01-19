@@ -231,7 +231,7 @@ some applied more consistently than others
 
 # commonly used things
 
-# phrases
+## phrases
 
 - `tentative`
 - `good question`
@@ -248,14 +248,14 @@ some applied more consistently than others
 - `nom` (especially for things like chess pieces or data input)
 - `or well`
 
-# acronyms
+## acronyms
 
 - `mf` - motherfucking (but i never use the full version)
 - `ngl` - not gonna lie
 - `afai[k/r/ct]` - as far as i [know / remember / can tell]
 - `iirc` - if i recall correctly
 
-# emojoids
+$# emojoids
 
 - [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
 - [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
@@ -265,6 +265,7 @@ some applied more consistently than others
 - :skull: (💀)
 - :pensive: (😔)
 - :relieved: (😌)
+- :thinking: (🤔)
 - :newspaper2: (🗞, meant as a "bonk"-type thing)
 - :tada: (🎉)
 - :smiling_imp: (😈)
