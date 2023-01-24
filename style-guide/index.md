@@ -170,6 +170,7 @@ some applied more consistently than others
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | potato(es) | potat(s), potate(s), tater(s) |
+| pretty (as in cute) | prebby |
 | ram | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
 | smh | smhead |
 | tetris | tetrum, tetroid |
