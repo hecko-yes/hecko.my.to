@@ -33,6 +33,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 
 | name | license | notes |
 | :- | :- | :- |
+| [bluemoji](https://bluemoji.io/) | by | if you've ever seen a blue smiley with puffed-up cheeks laughing, it comes from there |
 | [galaxy brain template recreation](https://secretlab.institute/2021/02/15/cc-0-licensed-galaxy-brain-images/) | by | it says cc0 but it uses cc-by content |
 | [awesome face](https://commons.wikimedia.org/wiki/File:Awesome_face.svg) | by-sa |
 | [it ain't much but it's honest work](https://commons.wikimedia.org/wiki/File:Farmer_meme_with_apostrophe.jpg) | 0 | us government work; [captionless version](https://commons.wikimedia.org/wiki/File:Ohio_farmer_David_Brandt.jpg) |
