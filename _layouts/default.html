@@ -18,13 +18,13 @@
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@hecko_yes">
 		<meta name="twitter:creator" content="@hecko_yes">
-		<meta property="og:title" content="{{ title }}">
+		<meta property="og:title" content="{{ title | replace: '"', '&quot;' }}">
 		<meta property="og:type" content="website">
 		<meta property="og:url" content="{{ page.url | absolute_url }}">
-		<meta property="og:site_name" content="{{ site.title }}">
+		<meta property="og:site_name" content="{{ site.title | replace: '"', '&quot;' }}">
 		{%- if page.excerpt %}
-		<meta property="og:description" content="{{ page.excerpt }}">
-		<meta name="description" content="{{ page.excerpt }}">
+		<meta property="og:description" content="{{ page.excerpt | replace: '"', '&quot;' }}">
+		<meta name="description" content="{{ page.excerpt | replace: '"', '&quot;' }}">
 		{% endif -%}
 		<meta name="darkreader-lock">
 		<meta name="theme-color" content="#{{ color }}">
