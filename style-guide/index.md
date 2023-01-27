@@ -249,6 +249,7 @@ some applied more consistently than others
 - `nom` (especially for things like chess pieces or data input)
 - `or well`
 - `methinks`
+- [`paging`](https://en.wikipedia.com/wiki/Pager) (= pinging)
 
 ## acronyms
 
