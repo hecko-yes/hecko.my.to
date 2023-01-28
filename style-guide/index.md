@@ -167,6 +167,7 @@ some applied more consistently than others
 | linux | linuck |
 | microsoft | microdollarsignoft |
 | news | mews (rarely) |
+| newspaper | newspapre (rarely; i think it's from a garfielf video)
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | potato(es) | potat(s), potate(s), tater(s) |
