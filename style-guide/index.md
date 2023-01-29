@@ -148,7 +148,7 @@ some applied more consistently than others
 | boxes | [boxen](https://youtu.be/GXJjZjl6Y_4) (i already covered mispluralizations but this one's special to me) |
 | bruh | brug |
 | christmas | crimbus |
-| coincidence | codinkydonk, coinkydink (rarely) |
+| coincidence | codinkydonk, coinkydink |
 | color | coloure |
 | comfortable | comforble |
 | computer | compute, computational |
