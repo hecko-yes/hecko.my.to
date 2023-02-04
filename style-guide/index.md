@@ -138,7 +138,7 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
-| \*a | \*er/\*ess (i don't use slurs) |
+| \*a | \*er/\*ess |
 | \*ae\* | \*æ\* |
 | \*ed | em\*ed (rarely), \*eded (rarelier) |
 | \*er, \*or | \*eur (a la `auteur`) |
@@ -147,6 +147,7 @@ some applied more consistently than others
 | animal | aminal |
 | anyway | anyhoo |
 | boxes | [boxen](https://youtu.be/GXJjZjl6Y_4) (i already covered mispluralizations but this one's special to me) |
+| broken | borked |
 | bruh | brug |
 | christmas | crimbus |
 | coincidence | codinkydonk, coinkydink |
