@@ -183,6 +183,7 @@ some applied more consistently than others
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | website | webbed sight |
 | who | whom |
+| windows (as in the os) | window |
 | woah | woag |
 | wtf | wtfluff |
 
