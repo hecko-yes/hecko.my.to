@@ -256,6 +256,7 @@ some applied more consistently than others
 - `methinks`
 - [`paging`](https://en.wikipedia.com/wiki/Pager) (= pinging)
 - `$5 says`
+- `amend`
 
 ## acronyms
 
