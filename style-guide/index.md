@@ -257,6 +257,7 @@ some applied more consistently than others
 - [`paging`](https://en.wikipedia.com/wiki/Pager) (= pinging)
 - `$5 says`
 - `amend`
+- `genre`/`flavor` (instead of `type`)
 
 ## acronyms
 
