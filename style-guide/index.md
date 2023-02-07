@@ -258,6 +258,7 @@ some applied more consistently than others
 - `$5 says`
 - `amend`
 - `genre`/`flavor` (instead of `type`)
+- `courtesy of`
 
 ## acronyms
 
@@ -266,7 +267,7 @@ some applied more consistently than others
 - `afai[k/r/ct]` - as far as i [know / remember / can tell]
 - `iirc` - if i recall correctly
 
-$# emojoids
+# emojoids
 
 - [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
 - [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
