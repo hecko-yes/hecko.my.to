@@ -157,9 +157,7 @@ some applied more consistently than others
 | [conlang](https://en.wiktionary.org/wiki/conlang#English) | [clong](https://www.reddit.com/r/conlangscirclejerk/comments/tmg1eh/what_the_fuck_is_a_clong/), [conglang, conlangue](https://youtu.be/3aUx7ajQrys) |
 | damn ("the whole damn thing") | damb |
 | delete | dete |
-| disney | [didney](https://knowyourmeme.com/memes/didney-worl) |
 | emoji | emoj, emojo, emojum |
-| g\* | j\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
 | gaming | game ing |
 | gray | græy |
 | hecking | heckign |
@@ -167,26 +165,33 @@ some applied more consistently than others
 | [inb4](https://knowyourmeme.com/memes/inb4--2) | inb5 |
 | interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
-| linux | linuck |
-| microsoft | microdollarsignoft |
 | my | me (rarely) |
 | news | mews (rarely) |
 | newspaper | [newspapre](https://www.youtube.com/watch?v=haInQ2gNQKU&t=18s) |
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
-| pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | potato(es) | potat(s), potate(s), tater(s) |
 | pretty (as in cute) | prebby |
 | ram | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
 | smh | smhead |
-| tetris | tetrum, tetroid |
 | thanks | thank, thancc, thanque |
-| toki pona | tonky, tonky ponky (rarely) |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | website | webbed sight |
 | who | whom |
-| windows (as in the os) | window |
 | woah | woag |
 | wtf | wtfluff |
+
+### of brands
+
+| word | replacement |
+| --: | :-- |
+| disney | [didney](https://knowyourmeme.com/memes/didney-worl) |
+| g\* | j\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
+| linux | linuck |
+| microsoft | microdollarsignoft |
+| pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
+| tetris | tetrum, tetroid |
+| toki pona | tonky, tonky ponky (rarely) |
+| windows| window |
 
 ## abbreviations
 
