@@ -184,6 +184,7 @@ some applied more consistently than others
 
 | word | replacement |
 | --: | :-- |
+| discord | disk( )orb |
 | disney | [didney](https://knowyourmeme.com/memes/didney-worl) |
 | g\* | j\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
 | linux | linuck |
