@@ -310,7 +310,7 @@ some applied more consistently than others
 ## polish
 
 not much to say other than that interpuncts come before suffixes for foreign words (`microsoft·u`) and that for people of unknown gender i like to use ligatures (`zrobiłæś`) and [naturally genderless forms](https://zaimki.pl/unikanie) (`zdarzyło ci się zrobić`)
-also very insistent about it being `ziemniaki` not `kartofle`
+also very insistent about potatoes being `ziemniaki` not `kartofle`
 
 ## toki pona
 
