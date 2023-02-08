@@ -33,6 +33,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 
 | name | license | notes |
 | :- | :- | :- |
+| [historic tale construction kit](http://htck.github.io/bayeux/) | pd? | i mean i *assume* it's public-domain since the [source material](https://en.wikipedia.org/wiki/Bayeux_Tapestry) is, unless cutting characters out of it is copyrightable |
 | [bluemoji](https://bluemoji.io/) | by | aka that one blue smiley with puffed-up cheeks laughing about spreading misinformation on the internet |
 | [galaxy brain template recreation](https://secretlab.institute/2021/02/15/cc-0-licensed-galaxy-brain-images/) | by | it says cc0 but it uses cc-by content |
 | [awesome face](https://commons.wikimedia.org/wiki/File:Awesome_face.svg) | by-sa |
