@@ -169,6 +169,7 @@ some applied more consistently than others
 | internet | interweb |
 | linux | linuck |
 | microsoft | microdollarsignoft |
+| my | me (rarely) |
 | news | mews (rarely) |
 | newspaper | [newspapre](https://www.youtube.com/watch?v=haInQ2gNQKU&t=18s) |
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
