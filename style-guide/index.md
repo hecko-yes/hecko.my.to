@@ -259,6 +259,7 @@ some applied more consistently than others
 - `amend`
 - `genre`/`flavor` (instead of `type`)
 - `courtesy of`
+- `tad`
 
 ## acronyms
 
