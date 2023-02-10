@@ -274,6 +274,7 @@ some applied more consistently than others
 - `ngl` - not gonna lie
 - `afai[k/r/ct]` - as far as i [know / remember / can tell]
 - `iirc` - if i recall correctly
+- `mfw` - my face when (usually no image attached though so it's more like an intensifier i guess)
 
 ## emojoids
 
