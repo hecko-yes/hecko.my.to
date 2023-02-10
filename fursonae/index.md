@@ -124,7 +124,7 @@ it does canonically have a mouth i just don't know how to model it properly
 
 [have a .blend file](creature/another fursona test.blend) (made in 3.4)
 
-![t-pose image of an anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); massive ears almost as long as it is tall, thick limbs (regular arms and stubby legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_c9MwvphtqZ.png)
+![t-pose image of an anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); massive goat ears almost as long as the creature is tall, thick limbs (regular arms and stubby legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_c9MwvphtqZ.png)
 ![another angle, showcasing neon on the underside of the ears, the spiraliness of the tail, the plainness of the underside of the hooves, the (placeholder) beans on the hands, and the shininess of the neon regions](creature/blender_77abnTbeTU.png)
 ![close-up of the tail, showcasing the subtle sparkles in the neon regions](creature/blender_d9ut3WECPV.png)
 ![orthogonal side view, neon is in the "off" state (uniform græy, though with sparkles still)](creature/blender_UneMRxKBea.png)
