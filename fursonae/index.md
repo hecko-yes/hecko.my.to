@@ -118,7 +118,7 @@ only somewhat modeled after real specieses, e.g. the hooves are explicitly not r
 the model turned out 7'3" (220 cm) in internal units and tbh that sounds about right
 
 the sparkly neon regions (fully variable rgb btw) are supposed to be translucent regions of the body showing the creature's insides (100% neon goop)
-tail can be rolled and unrolled to any size (∈ ℝ) through toon logic; ears don't have that but could probably be rolled into spirals for convenience (like hair rolls) or you can just make them smaller tbh
+tail can be rolled and unrolled to any size (∈ ℝ) through toon logic; ears don't have that but could probably be rolled into spirals for convenience (like hair rolls)
 
 it does canonically have a mouth i just don't know how to model it properly
 the hands are placeholders, ideally they'd be big 5-fingered pawbs with stick-out beans
@@ -129,7 +129,9 @@ kinda considered inverting tail pattern (`texture alt` in the .blend file matche
 
 [have a .blend file](creature/another fursona test.blend) (3.4, messy, unrigged)
 
-![t-pose image of an anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); massive goat ears almost as long as the creature is tall, thick limbs (regular arms and stubby legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_c9MwvphtqZ.png)
+**note**: the images below are out of date, namely the ears are now half the size of that pictured
+
+![t-pose image of an anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); big goat ears almost as long as the creature is tall, thick limbs (regular arms and stubby legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_c9MwvphtqZ.png)
 ![another angle, showcasing neon on the underside of the ears, the spiraliness of the tail, the plainness of the underside of the hooves, the (placeholder) beans on the hands, and the shininess of the neon regions](creature/blender_77abnTbeTU.png)
 ![close-up of the tail, showcasing the subtle sparkles in the neon regions](creature/blender_d9ut3WECPV.png)
 ![orthogonal side view, neon is in the "off" state (uniform græy, though with sparkles still)](creature/blender_UneMRxKBea.png)
