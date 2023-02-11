@@ -339,5 +339,7 @@ i also don't use `pali` as a generic verb, but rather only "work (a job)" and "c
 i enjoy transitive preposition phrases, e.g. `mi tawa ma Pasiju e sina` = `mi tawa e sina tawa ma Pasiju`
 i also enjoy modifying preverbs and prepositions with things other than `ala`, hyphenating them for clarity, e.g. `mi sona-wawa toki pona` = `sona mi pi toki pona li wawa`
 
+i usually don't tokiponize names except really well-known ones, like `ma Pasiju` for brazil above, `ma Mewika` for the us (though i prefer `ma Juwese`), `toki Inli` for english, `ilo Siko` for discord i guess,
+
 i use `pona` only as "good" and `wile` only as "want" and i Will rant about this
 i also think `pilin` might be a preverb but eh
