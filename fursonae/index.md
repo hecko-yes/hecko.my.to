@@ -114,7 +114,9 @@ emerald snap (good), 2022-08-13
 ideation started 2022-10-11, most recent update 2023-02-10
 
 made of synthetic marshmallow again (no bones or anything), though i'll allow a bit of fuzz (makes more sense on the dark bits but the neon ones are allowed too)
+only somewhat modeled after real specieses, e.g. the hooves are explicitly not realistic because i dislike that bump they have in e.g. mlp
 the model turned out 7'3" (220 cm) in internal units and tbh that sounds about right
+
 the sparkly neon regions (fully variable rgb btw) are supposed to be translucent regions of the body showing the creature's insides (100% neon goop)
 tail can be rolled and unrolled to any size (∈ ℝ) through toon logic; ears don't have that but could probably be rolled into spirals for convenience (like hair rolls) or you can just make them smaller tbh
 
