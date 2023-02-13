@@ -70,16 +70,12 @@ body {
 }
 
 main {
-	padding: $padding $padding ($padding - 3px) $padding;
+	padding: ($padding - 3px) $padding 0 $padding;
 	flex: 1 0 auto;
 }
 
-/* main > */ *:first-child {
+main > *:first-child {
 	margin-top: 0;
-}
-
-/* main > */ *:last-child {
-	margin-bottom: 0;
 }
 
 header {
@@ -148,6 +144,14 @@ blockquote {
 	padding: 6px $padding 6px ($padding - 3px);
 	border-left: 3px solid $gray2;
 	background: $gray1;
+}
+
+blockquote > *:first-child {
+	margin-top: 0;
+}
+
+blockquote > *:last-child {
+	margin-bottom: 0;
 }
 
 code {
@@ -295,6 +299,27 @@ ul ul li:last-child, ul ol li:last-child, ol ul li:last-child, ol ol li:last-chi
 
 li::marker {
 	line-height: 0;
+}
+
+details {
+	background-color: $gray1;
+	padding: $textmargin $padding ($textmargin - 6px) $padding;
+	margin: $padding 0 ($padding + 6px) 0;
+}
+
+details summary {
+	background-color: $gray2;
+	margin: (-$textmargin) (-$padding);
+	padding: $textmargin $padding;
+	cursor: pointer;
+}
+
+details[open] summary {
+	margin: (-$textmargin) (-$padding) $textmargin (-$padding);
+}
+
+details > *:last-child {
+	margin-bottom: 0;
 }
 
 #markdown-toc {

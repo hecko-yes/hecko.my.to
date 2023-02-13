@@ -8,7 +8,7 @@ this will eventually be a website of **hecko** (he/they(/it/neopronouns if you'r
 
 list of pages that i plan to make:
 - fancier home page
-- extensive about me
+- (not yet) extensive [about me](/about/)
 	- favorite things (maybe favorite oc traits)
 - [personal style guide](/style-guide/)
 - [list of my fursonæ](/fursonae/)

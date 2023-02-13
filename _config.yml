@@ -11,6 +11,7 @@ kramdown:
   gfm_quirks: [paragraph_end, no_auto_typographic]
   header_offset: 1
   smart_quotes: ["apos", "apos", "quot", "quot"]
+  parse_block_html: true
 
 plugins:
   - jekyll-default-layout
