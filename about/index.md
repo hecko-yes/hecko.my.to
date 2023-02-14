@@ -3,18 +3,18 @@ color: "cyan"
 excerpt: "various tidbits about the one and only, sorted by relevance in descending order"
 ---
 
-<style>
-details summary {
-	font-size: 125%;
-}
-</style>
-
 1. 
 {:toc}
 
 various tidbits about the one and only, sorted by relevance in descending order
 
 will eventually expand as well as maybe colorize
+
+<style>
+details summary {
+	font-size: 125%;
+}
+</style>
 
 # general
 
