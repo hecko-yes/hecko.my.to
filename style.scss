@@ -303,8 +303,8 @@ li::marker {
 
 details {
 	background-color: $gray1;
-	padding: $textmargin $padding ($textmargin - 6px) $padding;
-	margin: $padding 0 ($padding + 6px) 0;
+	padding: $textmargin $padding;
+	margin: $padding 0;
 }
 
 details summary {
@@ -312,6 +312,10 @@ details summary {
 	margin: (-$textmargin) (-$padding);
 	padding: $textmargin $padding;
 	cursor: pointer;
+}
+
+details[open] {
+	padding: $textmargin $padding ($textmargin - 6px) $padding;
 }
 
 details[open] summary {
