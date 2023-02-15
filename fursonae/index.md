@@ -14,7 +14,7 @@ you-the-reader hereby have my permission to draw/remix/steal/etc any of these if
 general traits:
 - either braver than me or exaggeratedly shy and self-deprecating
 - extremely cuddly, will hug the heck out of you if you let them
-- voice could be similar to [the ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA)
+- voice could be similar to [the ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA) and/or [timber puppers' ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E)
 - usually idealized bodies, as in no biological trappings like sweating or having to eat or even sleep
 
 # hecko
