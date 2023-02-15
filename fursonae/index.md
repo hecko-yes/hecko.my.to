@@ -11,6 +11,12 @@ the characters that i've made, for various degrees of "made"
 generally all of these are canonically he/they/etc like me (except the pony which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them (and also don't mind pronouns in general))
 you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire
 
+general traits:
+- either braver than me or exaggeratedly shy and self-deprecating
+- extremely cuddly, will hug the heck out of you if you let them
+- voice could be similar to [the ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA)
+- usually idealized bodies, as in no biological trappings like sweating or having to eat or even sleep
+
 # hecko
 2018-11-28
 
@@ -118,7 +124,7 @@ only somewhat modeled after real specieses, e.g. the hooves are explicitly not r
 the model turned out 7'3" (220 cm) in internal units and tbh that sounds about right
 
 the sparkly neon regions (fully variable rgb btw) are supposed to be translucent regions of the body showing the creature's insides (100% neon goop)
-tail can be rolled and unrolled to any size (∈ ℝ) through toon logic; ears don't have that but could probably be rolled into spirals for convenience (like hair rolls)
+tail can be rolled and unrolled to any size (to infinity and beyond) through toon logic; ears don't have that but could probably be rolled into spirals for convenience (like hair rolls)
 
 it does canonically have a mouth i just don't know how to model it properly
 the hands are placeholders, ideally they'd be big 5-fingered pawbs with stick-out beans
