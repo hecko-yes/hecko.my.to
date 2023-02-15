@@ -131,7 +131,8 @@ kinda considered inverting tail pattern (`texture alt` in the .blend file matche
 
 **note**: the images below are out of date, namely the ears are now half the size of that pictured
 
-![t-pose image of an anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); big goat ears almost as long as the creature is tall, thick limbs (regular arms and stubby legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_c9MwvphtqZ.png)
-![another angle, showcasing neon on the underside of the ears, the spiraliness of the tail, the plainness of the underside of the hooves, the (placeholder) beans on the hands, and the shininess of the neon regions](creature/blender_77abnTbeTU.png)
-![close-up of the tail, showcasing the subtle sparkles in the neon regions](creature/blender_d9ut3WECPV.png)
-![orthogonal side view, neon is in the "off" state (uniform græy, though with sparkles still)](creature/blender_UneMRxKBea.png)
+![orthogonal front view of a t-posing anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); big goat ears half as long as the creature is tall, thick limbs (regular arms and stubby legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_8C6WVPyxX6.png)
+![orthogonal side view, showing the spiraliness of the tail, the shape of the hooves, and a cartoony dashed blush](creature/blender_EKAOTtskK5.png)
+![a perspective picture, showing neon on the underside of the ears, a bit of the (placeholder) beans on the hands, and the shininess of the neon regions](creature/blender_SaduRfyIKK.png)
+![close-up of the tail, showing the subtle sparkles in the neon regions (as well as a small hole in the center of the spiral which i couldn't figure out how to remove)](creature/blender_zXfx36GChH.png)
+![view from the bottom in "off" mode (the neon regions are græy but still sparkly), showing the beans in all their glory, the jankiness of the hand shapes, and the plainness and flatness of the underside of the hooves](creature/blender_C4S5OVQYYN.png)
