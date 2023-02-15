@@ -19,3 +19,7 @@ color: "green"
 # by nickeman132
 ![](hecko by nickeman132.png)
 ![](hecko by nickeman132 2.jpg)
+
+# by vemrill via [picrew](https://picrew.me/image_maker/561180/)
+
+![](hecko picrew 561180 cropped semibold.png)
