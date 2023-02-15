@@ -9,7 +9,7 @@ excerpt: "the characters that i've made, for various degrees of \"made\""
 
 the characters that i've made, for various degrees of "made"
 generally all of these are canonically he/they/etc like me (except the pony which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them (and also don't mind pronouns in general))
-you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire
+you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire, as per [cc0](https://creativecommons.org/publicdomain/zero/1.0/) (though note that other people's art featured here isn't under that)
 
 general traits:
 - either braver than me or exaggeratedly shy and self-deprecating
