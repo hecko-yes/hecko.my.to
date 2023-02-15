@@ -312,6 +312,7 @@ some applied more consistently than others
 - some people do `.` as a mid-sentence pause, it's cool but i don't do it (yet?)
 - i haven't actually done it much but i've had the idea to refer to the left/right sides of an image as `west`/`east`, so that it's not confused for the character's left/right
 - in speech i sometimes pronounce <c> as /ts/ (like in polish) where others would do /s/, e.g. in `cis`
+- `[]` for placeholders, e.g. `if you're a []loid fan please talk to me`
 
 # other languages
 
