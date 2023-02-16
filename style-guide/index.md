@@ -159,6 +159,7 @@ some applied more consistently than others
 | delete | dete |
 | emoji | emoj, emojo, emojum |
 | gaming | game ing |
+| god | dog |
 | gray | græy |
 | hecking | heckign |
 | hello | henlo |
