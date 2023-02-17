@@ -268,6 +268,7 @@ some applied more consistently than others
 - `genre`/`flavor` (instead of `type`)
 - `courtesy of`
 - `tad`
+- `some` (after a verb, instead of `a bit`)
 
 ## acronyms
 
