@@ -14,8 +14,8 @@ kinda funny since a fursona is supposed to represent me yet i keep making charac
 
 general traits:
 - either braver than me or exaggeratedly shy and self-deprecating
-- extremely cuddly, will hug the heck out of you if you let them
-- voice could be similar to [timber puppers's ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E) and [tyler scowcroft's ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA), or perhaps [wynton yang's ralsei](https://www.youtube.com/watch?v=6Vfc61BjhUQ) and [sibylline sounds' bookshop skunk](https://www.youtube.com/watch?v=osJmMstb7_E)
+- extremely cuddly, will hug the heck out of you for eons if you let them
+- voice could be similar to [timber puppers's ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E) and [tyler scowcroft's ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA), or perhaps [wynton yang's ralsei](https://www.youtube.com/watch?v=6Vfc61BjhUQ) and [sibylline sounds' bookshop skunk](https://www.youtube.com/watch?v=osJmMstb7_E) [fetish cw for their other videos]
 - usually idealized bodies, as in no biological trappings like sweating or having to eat or even sleep
 
 # hecko
