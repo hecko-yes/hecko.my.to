@@ -90,7 +90,7 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 	}
 </style>
 
-<div id="sike-pona-box">
+<div id="sike-pona-box" markdown="0">
 	<div style="margin: 0; text-align: left; flex-grow: 1; flex-basis: 0;">
 		<a href="https://sike.pona.la/jan/jan Kita/prev.html">←&nbsp;prev</a>
 	</div>
@@ -110,3 +110,5 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 		<a href="https://sike.pona.la/jan/jan Kita/next.html">next&nbsp;→</a>
 	</div>
 </div>
+
+---
