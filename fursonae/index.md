@@ -129,11 +129,12 @@ tail can be rolled and unrolled to any size (to infinity and beyond) through too
 
 it does canonically have a mouth i just don't know how to model it properly
 the hands are placeholders, ideally they'd be big 5-fingered pawbs with stick-out beans
+ideally the tail spiral wouldn't end in a hole but i couldn't figure out how to model that with my method
 
 unsure about head shape, particularly snout size
 might remove the neck fluff, i wanted it large enough to function as [hammerspace](https://en.wikipedia.org/wiki/Hammerspace) but i can't figure out how to do that well
 kinda considered inverting tail pattern (`texture alt` in the .blend file matches that), pros: dim fuzzy inside to curl up in, cons: inconsistent with inside of ears being neon, looks bad; stripes on the sides would fit though so maybe
-legs might be better off just being rubberhose instead of my attempt at a semi-realistic shape
+legs might be better off just being rubberhose instead of my attempt at a semi-realistic shape (would help make it possible for the soles of the hooves to touch each other which for some reason appeals to me)
 
 [have a .blend file](creature/another fursona test.blend) (3.4, messy, unrigged)
 
