@@ -119,6 +119,13 @@ emerald snap (good), 2022-08-13
 
 ![](pony/emerald snap sprite big.png)
 
+# otter
+2022-08-22
+
+mostly made by electriclizardfren, included for completeness
+
+![semi-anthro otter with blurple body and acid green countershading, purple tophat with yellow stripe, no visible mouth](otter/Untitled1205_20220822122937.png)
+
 # creature
 ideation started 2022-10-11, most recent update 2023-02-10
 
