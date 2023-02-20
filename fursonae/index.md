@@ -8,11 +8,11 @@ excerpt: "the characters that i've made, for various degrees of \"made\""
 {:toc}
 
 the characters that i've made, for various degrees of "made"
-generally all of these are canonically he/they/etc like me (except the pony which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them and also don't mind pronouns in general)
+generally all of these are canonically he/they/etc like me (except [helping hoof](#helping-hoof) which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them and also don't mind pronouns in general)
 you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire, as per [cc0](https://creativecommons.org/publicdomain/zero/1.0/) (though note that other people's art featured here isn't under that)
 kinda funny since a fursona is supposed to represent me yet i keep making characters that i'd want to hug and one can't really hug oneself properly can one (though i suppose [the creature](#creature) can wrap itself up in its tail)
 
-current favorite is probably [emerald snap](#other-ponies)
+current favorite is probably [emerald snap](#emerald-snap)
 
 general traits:
 - either braver than me or exaggeratedly shy and self-deprecating
@@ -91,33 +91,39 @@ mostly just an attempt to sculpt something in blender
 
 ![](geck/geck.png)
 
-# pony
+# [ponies](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_is_Magic)
+
+# helping hoof
 2021-05-28
 
-codename `helping hoof` yes it's cringy but i couldn't think of a better one
+yes the name is cringy but i couldn't think of a better one, i don't use that name often anyway
 
-white synthetic [pony](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_is_Magic) made of a marshmallow-like material with a grid outdent, a bit smaller than usual, wearing a collar
+white synthetic honse made of a marshmallow-like material with a grid outdent, a bit smaller than usual, wearing a collar
 has both wings and horn because why not
 a possible lore is that it was a robot-esque thing (hence more it/its) made to serve and that the collar keeps it obedient, and/or when you tap the collar gem it flashes and listens for commands like a virtual assistant; another possible lore was that it says the collar does so but really it just likes to do stuff for people
 
 i have a 3d mockup but it was before i added hair so try to imagine a combination of the upcoming 2 pictures
 
-![](pony/synth pony 3d maker assisted mockup.png)
-![](pony/synth pony sprite big.png)
+![](ponies/synth pony 3d maker assisted mockup.png)
+![](ponies/synth pony sprite big.png)
 
 here's another hairless pic of it in [classicube](https://classicube.net/)
 
-![](pony/ClassiCube_xxO6i7Z6me.png)
+![](ponies/ClassiCube_xxO6i7Z6me.png)
 
-## other ponies
+## bashful byte
+2022-07-10
 
-bashful byte (bad), 2022-07-10
+i don't like it
 
-![pone with purple body, green eyes, red-green-blue mane, pinkish wings and tail, subtle chest fluff](pony/bashful byte sprite big.png)
+![pone with purple body, green eyes, red-green-blue mane, pinkish wings and tail, subtle chest fluff](ponies/bashful byte sprite big.png)
 
-emerald snap (good), 2022-08-13
+## emerald snap
+2022-08-13
 
-![pone with bright teal body, dark teal countershading and hoof stripes and eyes, acid green spiky mane and wings and tail](pony/emerald snap sprite big.png)
+i do like it
+
+![pone with bright teal body, dark teal countershading and hoof stripes and eyes, acid green spiky mane and wings and tail](ponies/emerald snap sprite big.png)
 
 # otter
 2022-08-22
