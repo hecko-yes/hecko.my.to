@@ -113,11 +113,11 @@ here's another hairless pic of it in [classicube](https://classicube.net/)
 
 bashful byte (bad), 2022-07-10
 
-![](pony/bashful byte sprite big.png)
+![pone with purple body, green eyes, red-green-blue mane, pinkish wings and tail, subtle chest fluff](pony/bashful byte sprite big.png)
 
 emerald snap (good), 2022-08-13
 
-![](pony/emerald snap sprite big.png)
+![pone with bright teal body, dark teal countershading and hoof stripes and eyes, acid green spiky mane and wings and tail](pony/emerald snap sprite big.png)
 
 # otter
 2022-08-22
@@ -151,6 +151,6 @@ legs might be better off just being rubberhose instead of my attempt at a semi-r
 
 ![t-posing anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a shiny neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); big goat ears half as long as the creature is tall with neon on the underside, thick limbs (regular arms and stubby hoof legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_SaduRfyIKK.png)
 ![orthogonal front view](creature/blender_8C6WVPyxX6.png)
-![orthogonal side view, showing the spiraliness of the tail, the shape of the hooves, and a cartoony dashed blush](creature/blender_EKAOTtskK5.png)
+![orthogonal side view, showing the spiraliness of the tail, the profile of the hooves, and a cartoony dashed blush](creature/blender_EKAOTtskK5.png)
 ![close-up of the tail, showing the subtle sparkles in the neon regions (as well as a small hole in the center of the spiral which i couldn't figure out how to remove)](creature/blender_zXfx36GChH.png)
-![view from the bottom in "off" mode (the neon regions are græy but still sparkly), showing the beans in all their glory, the jankiness of the hand shapes, and the plainness and flatness of the underside of the hooves](creature/blender_C4S5OVQYYN.png)
+![view from the bottom in "off" mode (the neon regions are græy but still sparkly), showing the beans in all their glory, the jankiness of the hand shapes, and the featurelessness of the hooves](creature/blender_C4S5OVQYYN.png)
