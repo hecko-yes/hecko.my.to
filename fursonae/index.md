@@ -12,6 +12,8 @@ generally all of these are canonically he/they/etc like me (except the pony whic
 you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire, as per [cc0](https://creativecommons.org/publicdomain/zero/1.0/) (though note that other people's art featured here isn't under that)
 kinda funny since a fursona is supposed to represent me yet i keep making characters that i'd want to hug and one can't really hug oneself properly can one (though i suppose [the creature](#creature) can wrap itself up in its tail)
 
+current favorite is probably [emerald snap](#other-ponies)
+
 general traits:
 - either braver than me or exaggeratedly shy and self-deprecating
 - extremely cuddly, will hug the heck out of you for eons if you let them
