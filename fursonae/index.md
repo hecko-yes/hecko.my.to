@@ -10,7 +10,7 @@ excerpt: "the characters that i've made, for various degrees of \"made\""
 the characters that i've made, for various degrees of "made"
 generally all of these are canonically he/they/etc like me (except [helping hoof](#helping-hoof) which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them and also don't mind pronouns in general)
 you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire, as per [cc0](https://creativecommons.org/publicdomain/zero/1.0/) (though note that other people's art featured here isn't under that)
-kinda funny since a fursona is supposed to represent me yet i keep making characters that i'd want to hug and one can't really hug oneself properly can one (though i suppose [the creature](#creature) can wrap itself up in its tail)
+kinda funny since a fursona is supposed to represent me yet i keep making characters that i'd want to hug and one can't really hug oneself properly can one (though i suppose [the fox](#hecko) has clones and [the creature](#creature) can wrap itself up in its tail)
 
 current favorite is probably [emerald snap](#emerald-snap)
 
