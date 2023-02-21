@@ -148,8 +148,9 @@ ideally the tail spiral wouldn't end in a hole but i couldn't figure out how to 
 
 unsure about head shape, particularly snout size
 might remove the neck fluff, i wanted it large enough to function as [hammerspace](https://en.wikipedia.org/wiki/Hammerspace) but i can't figure out how to do that well
+idk if i want the stripes everywhere, maybe just regular [countershading](https://en.wikipedia.org/wiki/Countershading)?
 kinda considered inverting tail pattern (`texture alt` in the .blend file matches that), pros: dim fuzzy inside to curl up in, cons: inconsistent with inside of ears being neon, looks bad; stripes on the sides would fit though so maybe
-legs might be better off just being rubberhose instead of my attempt at a semi-realistic shape (would help make it possible for the soles of the hooves to touch each other which for some reason appeals to me)
+legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/Rubber_hose_animation) instead of my attempt at a semi-realistic shape (would help make it possible for the soles of the hooves to touch each other which for some reason appeals to me)
 
 [have a .blend file](creature/another fursona test.blend) (3.4, messy, unrigged)
 
