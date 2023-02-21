@@ -253,8 +253,8 @@ some applied more consistently than others
 - `fair` (as its own message)
 - `quarter-decent`
 - `oh dear`
-- `granted` (a la "to be fair")
-- `ope` (interjection for "turns out this exists")
+- `granted` (a la `to be fair`)
+- `ope` (interjection for `turns out this exists`)
 - `[vague/mild/moderate/()] temptation to`
 - [`i am once again asking`](https://knowyourmeme.com/memes/i-am-once-again-asking-for-your-financial-support)
 - `hoo lordy`
@@ -269,6 +269,7 @@ some applied more consistently than others
 - `courtesy of`
 - `tad`
 - `some` (after a verb, instead of `a bit`)
+- `que` (spanish for `what`, i use it as an interjection)
 
 ## acronyms
 
