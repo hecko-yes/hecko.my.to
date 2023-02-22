@@ -170,11 +170,15 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 
 probably my first non-cuddlemaxxed character
 
-pink body, hot pink beans and hooves, off-white countershading, yellow eyes
+pink body, very·hot-pink beans and hooves and inside of ears, light-yellow [countershading](https://en.wikipedia.org/wiki/Countershading), yellow eyes
 probably both anthro and feral forms
 male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
 maybe a skirt? thigh-highs?
 
-proper picture pending, [picrew](https://picrew.me/image_maker/104106) placeholder (hooves instead of paws because pretty):
+no proper canonical picture yet but have a [picrew](https://picrew.me/image_maker/104106) by [oatmeaio](https://linktr.ee/oatmeaio) (hooves instead of paws because pretty):
 
-![pink deer with glasses and yellow eyes winking at the viewer](deer/download20230203103139.png)
+![pink deer with glasses and yellow eyes winking at the viewer](deer/picrew 104106.png)
+
+and a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
+
+![feral deer matching the above description, minus glasses, plus yellow for countershading](deer/furaffinity base 42146255.png)
