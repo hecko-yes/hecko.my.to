@@ -129,6 +129,7 @@ i do like it
 2022-08-22
 
 mostly made by electriclizardfren, included for completeness
+not pictured: unlimited stretchability (with constant width, in toony defiance of conservation of mass)
 
 ![semi-anthro otter with blurple body and acid green countershading, purple tophat with yellow stripe, no visible mouth](otter/Untitled1205_20220822122937.png)
 
