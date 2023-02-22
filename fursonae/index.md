@@ -175,6 +175,6 @@ probably both anthro and feral forms
 male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
 maybe a skirt? thigh-highs?
 
-proper picture pending, picrew placeholder (hooves instead of paws because pretty):
+proper picture pending, [picrew](https://picrew.me/image_maker/104106) placeholder (hooves instead of paws because pretty):
 
 ![pink deer with glasses and yellow eyes winking at the viewer](deer/download20230203103139.png)
