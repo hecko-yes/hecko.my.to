@@ -163,3 +163,18 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 ![close-up of the tail, showing the subtle sparkles in the neon regions (as well as a small hole in the center of the spiral which i couldn't figure out how to remove)](creature/blender_zXfx36GChH.png)
 ![view from the bottom in "off" mode (the neon regions are græy but still sparkly), showing the beans in all their glory, the jankiness of the hand shapes, and the featurelessness of the hooves](creature/blender_C4S5OVQYYN.png)
 ![an alternate coloring scheme, where instead of stripes there are solid fields of neon: a thick strip going down from the neck to the crotch and continuing into the tail (with another strip on the other side of said tail), and the "feet" of the hooves are neon too; ears and face are still neon](creature/blender_9kagAKd291.png)
+
+# deer
+
+2023-02-22 (at like 3am)
+
+probably my first non-cuddlemaxxed character
+
+pink deer with magenta beans and hooves and white-ish countershading
+probably both anthro and feral forms
+male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
+maybe a skirt? thigh-highs?
+
+proper picture pending, picrew placeholder (hooves instead of paws because pretty):
+
+![pink deer with glasses and yellow eyes winking at the viewer](deer/download20230203103139.png)
