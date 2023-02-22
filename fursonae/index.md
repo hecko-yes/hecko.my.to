@@ -171,10 +171,10 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 probably my first non-cuddlemaxxed character
 
 pink body, very·hot-pink beans and hooves, light-yellow [countershading](https://en.wikipedia.org/wiki/Countershading) and inside of ears, yellow eyes
-i usually do smooth skin but maybe this time i could/should do some sort of spots? freckles?
 probably both anthro and feral forms
 male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
-maybe a skirt? thigh-highs?
+i usually do plain colors but maybe this time i could/should do some sort of spots? freckles?
+glasses? skirt? ~~thigh-highs?~~ (nah because they'd cover up the hoofsies)
 
 no proper canonical picture yet but have a [picrew](https://picrew.me/image_maker/104106) by [oatmeaio](https://linktr.ee/oatmeaio) (hooves instead of paws because pretty):
 
