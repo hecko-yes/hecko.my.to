@@ -170,7 +170,7 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 
 probably my first non-cuddlemaxxed character
 
-pink deer with magenta beans and hooves and white-ish countershading
+pink body, hot pink beans and hooves, off-white countershading, yellow eyes
 probably both anthro and feral forms
 male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
 maybe a skirt? thigh-highs?
