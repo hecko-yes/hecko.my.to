@@ -134,7 +134,7 @@ not pictured: unlimited stretchability (with constant width, in toony defiance o
 ![semi-anthro otter with blurple body and acid green countershading, purple tophat with yellow stripe, no visible mouth](otter/Untitled1205_20220822122937.png)
 
 # creature
-ideation started 2022-10-11, most recent update 2023-02-10
+ideation started 2022-10-11, most recent update 2023-02-22
 
 made of synthetic marshmallow again (no bones or anything), though i'll allow a bit of fuzz (makes more sense on the dark bits but the neon ones are allowed too)
 only somewhat modeled after real specieses, e.g. the hooves are explicitly not realistic because i dislike that bump they have in e.g. mlp
@@ -149,7 +149,7 @@ ideally the tail spiral wouldn't end in a hole but i couldn't figure out how to 
 
 unsure about head shape, particularly snout size
 might remove the neck fluff, i wanted it large enough to function as [hammerspace](https://en.wikipedia.org/wiki/Hammerspace) but i can't figure out how to do that well
-idk if i want the stripes everywhere, maybe just regular [countershading](https://en.wikipedia.org/wiki/Countershading)?
+idk if i want the stripes everywhere, maybe just regular [countershading](https://en.wikipedia.org/wiki/Countershading)? **[see last image]**
 kinda considered inverting tail pattern (`texture alt` in the .blend file matches that), pros: dim fuzzy inside to curl up in, cons: inconsistent with inside of ears being neon, looks bad; stripes on the sides would fit though so maybe
 legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/Rubber_hose_animation) instead of my attempt at a semi-realistic shape (would help make it possible for the soles of the hooves to touch each other which for some reason appeals to me)
 
@@ -162,3 +162,4 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 ![orthogonal side view, showing a cartoony dashed blush, some chub in the front, the spiraliness of the tail, and the profile of the hooves](creature/blender_EKAOTtskK5.png)
 ![close-up of the tail, showing the subtle sparkles in the neon regions (as well as a small hole in the center of the spiral which i couldn't figure out how to remove)](creature/blender_zXfx36GChH.png)
 ![view from the bottom in "off" mode (the neon regions are græy but still sparkly), showing the beans in all their glory, the jankiness of the hand shapes, and the featurelessness of the hooves](creature/blender_C4S5OVQYYN.png)
+![an alternate coloring scheme, where instead of stripes there are solid fields of neon: a thick strip going down from the neck to the crotch and continuing into the tail (with another strip on the other side of said tail), and the "feet" of the hooves are neon too; ears and face are still neon](creature/blender_9kagAKd291.png)
