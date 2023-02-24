@@ -50,6 +50,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | [lud and schlatt's musical emporium](https://www.youtube.com/@ludandschlattsmusicalempor6746) | by | of most interest are the [animal crossing](https://www.youtube.com/watch?v=44MCworZf78) and [wii shop channel](https://www.youtube.com/watch?v=Y-6Plfn1yHg&t=21s) soundalikes |
 | [little women (1933) theme song](https://www.youtube.com/watch?v=dLaiV5QoRtI) | pd | famously remixed in the [opening cutscene of hotel mario (1994)](https://www.youtube.com/watch?v=jra4ZxGA-ww) |
 | [undertale shop theme soundalike](https://opengameart.org/content/its-not-undertale) | 0\* | it might be that the samples are copyrighted but if toby fox could get away with yoinking them from the internet you probably can too |
+| [mitchie m - freely tomorrow (feat. hatsune miku)](https://commons.wikimedia.org/wiki/File:Freely_Tomorrow.ogg) | by\* | kind of a technicality, because the attribution marking was removed but cc-by is irrevocable |
 
 # sfx
 
@@ -57,6 +58,12 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | :- | :- | :- |
 | [minecraft oof sound](https://freesound.org/people/thecheeseman/sounds/44429/) | by |
 | [text2speech.org](https://www.text2speech.org/) | 0? | `Female US` is the voice of remote from [bfb](https://www.youtube.com/@BFDI), `Male US` and `Male US (Scottish accent)` were used by e.g. [timotainment](https://www.youtube.com/@Timotainment); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
+
+# videos
+
+| name | license | notes |
+| :- | :- | :- |
+| [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by | |
 
 # other
 
