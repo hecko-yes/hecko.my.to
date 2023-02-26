@@ -223,7 +223,7 @@ some applied more consistently than others
 | --: | :-- |
 | \*phobic (as in prejudiced) | anti-\* |
 | america (as in usa) | the us |
-| art (as in 2d) | illustration(s), drawing(s) |
+| art (as in 2d) | illustration(s), drawing(s), picture(s), ... |
 | furry (as in humanoid animal) | anthro |
 | lol (as in league of legends) | league |
 | real name (as in not internet name) | legal name |
