@@ -111,7 +111,7 @@ i sometimes go sesquipedalian, either for comedic effect or because i genuinely 
 
 ## pedantry
 
-- i use `one` instead of generic `you` because it makes more sense to me
+- i use `one` instead of generic `you` because it makes more sense to me (though i'm having trouble getting used to doing it and end up writing `you` first before changing it)
 - when marking for possession, i add `'s` even after words that already end in `s` (e.g. [`tails's tools`](https://www.youtube.com/watch?v=v15HWmwxuZo)), unless they're plural
 
 ## leftism
@@ -193,7 +193,7 @@ some applied more consistently than others
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | tetris | tetrum, tetroid |
 | toki pona | tonky, tonky ponky (rarely) |
-| windows| window |
+| windows | window |
 
 ## abbreviations
 
