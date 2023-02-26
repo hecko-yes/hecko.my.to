@@ -176,10 +176,10 @@ probably both anthro and feral forms; anthro probably gets paws (maybe cat paws 
 male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
 glasses? skirt? ~~thigh-highs?~~ (nah because they'd cover up the hoofsies)
 
-no proper canonical picture yet but have a [picrew](https://picrew.me/image_maker/104106) by [oatmeaio](https://linktr.ee/oatmeaio) (hooves instead of paws because pretty):
+no proper canonical picture yet but have a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
 
-![anthro deer with glasses winking at the viewer](deer/picrew 104106.png)
+![feral deer with the above traits minus glasses](deer/furaffinity base 42146255.png)
 
-and a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
+and a [picrew](https://picrew.me/image_maker/104106) by [oatmeaio](https://linktr.ee/oatmeaio) (hooves instead of paws because pretty):
 
-![feral deer](deer/furaffinity base 42146255.png)
+![all-pink anthro deer with glasses winking at the viewer](deer/picrew 104106.png)
