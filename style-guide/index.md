@@ -203,6 +203,7 @@ some applied more consistently than others
 | ah | a |
 | alright | aight |
 | bruh | [b](https://www.youtube.com/watch?v=ud1JXqGWPvU&t=24s) |
+| bullshit | bull |
 | did you | 'dyou |
 | do you | d'you (important distinction) |
 | i don't know | iunno, dunno, idk (rarely) |
