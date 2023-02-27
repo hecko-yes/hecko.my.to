@@ -211,6 +211,7 @@ some applied more consistently than others
 | nope | nop |
 | oh | o |
 | pretty (as in quite) | p |
+| probably | prolly |
 | question | q |
 | something | sth, sumn |
 | today i learned | til |
