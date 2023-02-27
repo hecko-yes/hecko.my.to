@@ -21,5 +21,4 @@ color: "green"
 ![](hecko by nickeman132 2.jpg)
 
 # by vemrill via [picrew](https://picrew.me/image_maker/561180/)
-
 ![](hecko picrew 561180 cropped semibold.png)
