@@ -36,6 +36,7 @@ i mostly don't care *but* i know she/her feels wrong
 <details>
 <summary markdown="span">gender: **Male-I-Guess™** (= male or none, whichever's more normal)</summary>
 my theory is that many people who call themselves cis (including me) actually don't [have a / care about their] gender, so while  just saying "none gender" would be more accurate it'd also be perceived by many as something unusual, hence the hedge
+i like calling myself "boy" sometimes, e.g. "guess i'm your delivery boy"
 </details>
 
 <details>
