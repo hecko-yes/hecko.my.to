@@ -19,6 +19,7 @@ general traits:
 - extremely cuddly, will hug the heck out of you for eons if you let them
 - voice could be similar to [timber puppers's ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E) and [tyler scowcroft's ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA), or perhaps [wynton yang's ralsei](https://www.youtube.com/watch?v=6Vfc61BjhUQ) and [sibylline sounds' bookshop skunk](https://www.youtube.com/watch?v=osJmMstb7_E) [fetish cw for their other videos]
 - usually idealized bodies, as in no biological trappings like sweating or having to eat or even sleep
+- 5-fingered hands (if any), though i may change my mind because that's not a lot of room for thick beans
 
 # hecko
 2018-11-28
@@ -171,6 +172,7 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 probably my first non-cuddlemaxxed character
 
 pink body, very·hot-pink beans and hooves, light-yellow [countershading](https://en.wikipedia.org/wiki/Countershading) and inside of ears, yellow eyes
+neck fluff would be nice, though i'm not sure what color
 plush maybe? not necessarily for cuddle purposes, i just feel it'd be neat (though idk if useful hands would fit it well)
 i usually do plain colors but maybe this time i could/should do some sort of spots? freckles at least?
 probably both anthro and feral forms; anthro probably gets paws (maybe cat paws so it can be a [bappy](https://www.urbandictionary.com/define.php?term=Bappers) mew [deer](https://en.wiktionary.org/wiki/happy_New_Year#English))
