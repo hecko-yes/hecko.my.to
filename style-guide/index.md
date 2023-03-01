@@ -274,6 +274,7 @@ some applied more consistently than others
 - `some` (after a verb, instead of `a bit`)
 - `que` (spanish for `what`, i use it as an interjection)
 - `a [few/couple] more for the road`
+- `you go girl`
 
 ## acronyms
 
