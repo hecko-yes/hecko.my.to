@@ -179,7 +179,11 @@ probably both anthro and feral forms; anthro probably gets paws (maybe cat paws 
 male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
 glasses? collar? skirt? ~~thigh-highs?~~ (nah because they'd cover up the hoofsies)
 
-no proper canonical picture yet but have a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
+no proper canonical picture yet but have [a wip blender model](deer/deersona.blend):
+
+![anthro deer with paws and feral hooves, the yellow areas are around the neck and around the legs (kinda like pants), the hands are somewhat paw-like, the nose and beans and hooves are red and shiny like lipstick; not shown is a small-but-plump tail](deer/blender_W4Yyge1hjY.png)
+
+and a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
 
 ![feral deer with the above traits minus glasses](deer/furaffinity base 42146255.png)
 
