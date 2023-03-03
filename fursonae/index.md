@@ -33,16 +33,16 @@ started out like so:
 1. a long time ago i used to use images of tails as profile pictures
 2. i wanted to have a funny sans version of tails for my discord avatar and i stumbled upon a cursed mess that i'm not sure if i still have
 3. i added Ralsei features to it (2018-11-28)
-	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png)
+	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png){: class="copyrighted" }
 4. angel drew it for some reason (2019-09-15)
-	![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){: style="width: 50%" }
+	![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){: style="width: 50%" class="copyrighted" }
 5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
 	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
 6. now it's my fursona i guess
 
 also has a pony version
 
-![hecko as a pony made with pony.town](hecko/hecko pony sprite big.png)
+![hecko as a pony made with pony.town](hecko/hecko pony sprite big.png){: class="copyrighted" }
 
 # wesley
 2018-12-26
@@ -81,7 +81,7 @@ and uhhh how about i just write from the ref sheet below
 ![a mildly creepy vector drawing of the goat, with the text above next to it](ignios/ignios ref sheet.png)
 
 exactly one fanart by discord user Lazy#6665:
-![less creepy pixel art vaguely styled after undertale](ignios/ignios pixel art by lazy hash 6665.png)
+![less creepy pixel art vaguely styled after undertale](ignios/ignios pixel art by lazy hash 6665.png){: class="copyrighted" }
 
 # geck
 2020-02-07/09
@@ -105,8 +105,8 @@ a possible lore is that it was a robot-esque thing (hence more it/its) made to s
 
 i have a 3d mockup but it was before i added hair so try to imagine a combination of the upcoming 2 pictures
 
-![](ponies/synth pony 3d maker assisted mockup.png)
-![](ponies/synth pony sprite big.png)
+![](ponies/synth pony 3d maker assisted mockup.png){: class="copyrighted" }
+![](ponies/synth pony sprite big.png){: class="copyrighted" }
 
 here's another hairless pic of it in [classicube](https://classicube.net/)
 
@@ -117,14 +117,14 @@ here's another hairless pic of it in [classicube](https://classicube.net/)
 
 i don't like it
 
-![pone with purple body, green eyes, red-green-blue mane, pinkish wings and tail, subtle chest fluff](ponies/bashful byte sprite big.png)
+![pone with purple body, green eyes, red-green-blue mane, pinkish wings and tail, subtle chest fluff](ponies/bashful byte sprite big.png){: class="copyrighted" }
 
 ## emerald snap
 2022-08-13
 
 i do like it
 
-![pone with bright teal body, dark teal countershading and hoof stripes and eyes, acid green spiky mane and wings and tail](ponies/emerald snap sprite big.png)
+![pone with bright teal body, dark teal countershading and hoof stripes and eyes, acid green spiky mane and wings and tail](ponies/emerald snap sprite big.png){: class="copyrighted" }
 
 # otter
 2022-08-22
@@ -132,7 +132,7 @@ i do like it
 mostly made by electriclizardfren, included for completeness
 not pictured: unlimited stretchability (with constant width, in toony defiance of conservation of mass)
 
-![semi-anthro otter with blurple body and acid green countershading, purple tophat with yellow stripe, no visible mouth](otter/Untitled1205_20220822122937.png)
+![semi-anthro otter with blurple body and acid green countershading, purple tophat with yellow stripe, no visible mouth](otter/Untitled1205_20220822122937.png){: class="copyrighted" }
 
 # creature
 ideation started 2022-10-11, most recent update 2023-02-22
@@ -185,8 +185,8 @@ no proper canonical picture yet but have [a wip blender model](deer/deersona.ble
 
 and a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
 
-![feral deer with the above traits minus glasses](deer/furaffinity base 42146255.png)
+![feral deer with the above traits minus glasses](deer/furaffinity base 42146255.png){: class="copyrighted" }
 
 and a [picrew](https://picrew.me/image_maker/104106) by [oatmeaio](https://linktr.ee/oatmeaio) (hooves instead of paws because pretty):
 
-![all-pink anthro deer with glasses winking at the viewer](deer/picrew 104106.png)
+![all-pink anthro deer with glasses winking at the viewer](deer/picrew 104106.png){: class="copyrighted" }

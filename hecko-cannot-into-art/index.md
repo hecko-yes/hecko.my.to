@@ -63,6 +63,7 @@ coming back to electriclizardfren, he says:
 > [...]
 > I didn't even focus on being good
 > I've done all this stuff because I thought it was fun, it made me happy and it still does
+{: class="not-mine" }
 
 which i just don't have the inherent motivation to do that
 in fact i instinctively *dislike* drawing *because* i suck at it and How do i Fix that Please Tell Me (but with specific actionable instructions instead of "simply Don't Be Like That™" because that doesn't help or "it's okay to suck at first" because i already know that intellectually but my brain refuses to accept it)
