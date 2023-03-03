@@ -268,13 +268,14 @@ some applied more consistently than others
 - [`paging`](https://en.wikipedia.com/wiki/Pager) (= pinging)
 - `$5 says`
 - `amend`
-- `genre`/`flavor` (instead of `type`)
+- `genre`/`flavor`/`brand` (instead of `type`)
 - `courtesy of`
-- `tad`
+- `a tad`
 - `some` (after a verb, instead of `a bit`)
 - `que` (spanish for `what`, i use it as an interjection)
 - `a [few/couple] more for the road`
 - `you go girl`
+- `thoughts on` (instead of `do you wanna`)
 
 ## acronyms
 
