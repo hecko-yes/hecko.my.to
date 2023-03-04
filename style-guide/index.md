@@ -323,6 +323,14 @@ some applied more consistently than others
 - i haven't actually done it much but i've had the idea to refer to the left/right sides of an image as `west`/`east`, so that it's not confused for the character's left/right
 - in speech i sometimes pronounce <c> as /ts/ (like in polish) where others would do /s/, e.g. in `cis`
 - `[]` for placeholders, e.g. `if you're a []loid fan please talk to me`
+- if there's 2 options that people fight over then i might make up a 3rd, kinda to make fun of it
+	- `/gɪf/` or `/dʒɪf/`? how about `/χɪf/`
+	- `color` or `colour`? how about `coloure`
+	- `autistic` or `with autism`? how about `be-autism'd`
+
+# deprecated
+
+i used to capitalize the name [`Ralsei`](https://deltarune.fandom.com/wiki/Ralsei) and all pronouns referring to ~~Him~~ him, due to a running gag in the [ralsei bot](https://ralsei.chlod.net/) discord server that he's a god
 
 # other languages
 
