@@ -181,7 +181,7 @@ glasses? collar? skirt? ~~thigh-highs?~~ (nah because they'd cover up the hoofsi
 
 no proper canonical picture yet but have [a wip blender model](deer/deersona.blend):
 
-![anthro deer with paws and feral hooves, the yellow areas are around the jaw and around the legs (like pants), saturated yellow is for short hair that wraps around the back to join with neck fluff, the hands are somewhat paw-like, the nose and beans and hooves are red and shiny like lipstick; not shown is a small-but-plump tail](deer/blender_F2N8v3mU5A.png)
+![anthro deer with paws and feral hooves, the yellow areas are around the jaw and around the legs (like pants), saturated yellow is for short hair that wraps around the back to join with neck fluff, the hands are somewhat paw-like, the nose and beans and hooves are red and shiny like lipstick, the tail is short and plump and yellow with a pink tip](deer/blender_TRKeh2X0qs.png)
 
 and a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
 
