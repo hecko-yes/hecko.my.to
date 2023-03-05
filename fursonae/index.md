@@ -171,8 +171,7 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 
 probably my first non-cuddlemaxxed character
 
-pink body, very·hot-pink beans and hooves, light-yellow [countershading](https://en.wikipedia.org/wiki/Countershading) and inside of ears, yellow eyes
-neck fluff would be nice, though i'm not sure what color
+pink body, very·hot-pink beans and hooves, light-yellow [countershading](https://en.wikipedia.org/wiki/Countershading) and inside of ears (and ear fluff probably), yellow eyes and neck fluff
 plush maybe? not necessarily for cuddle purposes, i just feel it'd be neat (though idk if useful hands would fit it well)
 i usually do plain colors but maybe this time i could/should do some sort of spots? freckles at least?
 probably both anthro and feral forms; anthro probably gets paws (maybe cat paws so it can be a [bappy](https://www.urbandictionary.com/define.php?term=Bappers) mew [deer](https://en.wiktionary.org/wiki/happy_New_Year#English))
