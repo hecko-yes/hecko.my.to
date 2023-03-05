@@ -22,7 +22,7 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 ## translations
 
 - [TOADD] soweli Kisa, a translation of [kisa the cat](https://en.wikipedia.org/wiki/Kisa_the_Cat)
-- [nanpa je ka](nanpa-je-ka/){: class="copyrighted" }, my first ever longform translation (posted at 2020-11-26); original is [burger king foot lettuce](https://www.youtube.com/watch?v=9PWjqgM_CU8)
+- [nanpa je ka](nanpa-je-ka/){:.copyrighted}, my first ever longform translation (posted at 2020-11-26); original is [burger king foot lettuce](https://www.youtube.com/watch?v=9PWjqgM_CU8)
 
 # writing systems
 
