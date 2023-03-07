@@ -10,6 +10,7 @@ list of pages that i plan to make:
 - fancier home page
 - (currently not very) extensive [about me](/about/)
 	- favorite things (maybe favorite oc traits)
+- [accounts](/accounts/)
 - [personal style guide](/style-guide/)
 - [list of my fursonæ](/fursonae/)
 - [list of creative commons memes](/gnu-slash-memes/)
