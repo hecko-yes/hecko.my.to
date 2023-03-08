@@ -225,8 +225,9 @@ some applied more consistently than others
 | --: | :-- |
 | \*phobic (as in prejudiced) | anti-\* |
 | america (as in usa) | the us |
-| art (as in 2d) | illustration(s), drawing(s), picture(s), ... |
+| art (as in visual) | illustration(s), drawing(s), picture(s), ... |
 | furry (as in humanoid animal) | anthro |
+| google (as in verb) | look up |
 | lol (as in league of legends) | league |
 | real name (as in not internet name) | legal name |
 | singlet (as in not [plural](https://morethanone.info)) | singular |
