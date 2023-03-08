@@ -1,5 +1,6 @@
 ---
 color: "brown"
+copyrighted: true
 ---
 
 note: this was my first ever longform translation, made a mere 2 weeks after i had started learning; there are many mistakes, and even the "fixed" version has quirks that i avoid nowadays
