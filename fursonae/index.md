@@ -189,3 +189,7 @@ and a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://ww
 and a [picrew](https://picrew.me/image_maker/104106) by [oatmeaio](https://linktr.ee/oatmeaio) (hooves instead of paws because pretty):
 
 ![all-pink anthro deer with glasses winking at the viewer](deer/picrew 104106.png){:.copyrighted}
+
+and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://instagram.com/treez0n/):
+
+![this one has some countershading (white instead of yellow due to palette limitations), also red gloves and big tail](deer/picrew 1742063.png){:.copyrighted}
