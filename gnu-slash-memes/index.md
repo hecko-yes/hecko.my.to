@@ -56,6 +56,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 
 | name | license | notes |
 | :- | :- | :- |
+| [bruh sound effect #1](https://freesound.org/people/Autellaem/sounds/534387/) | 0 | not the original but still good imo |
 | [minecraft oof sound](https://freesound.org/people/thecheeseman/sounds/44429/) | by |
 | [text2speech.org](https://www.text2speech.org/) | 0? | `Female US` is the voice of remote from [bfb](https://www.youtube.com/@BFDI), `Male US` and `Male US (Scottish accent)` were used by e.g. [timotainment](https://www.youtube.com/@Timotainment); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
 
