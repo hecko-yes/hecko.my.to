@@ -6,6 +6,9 @@ color: "green"
 1. 
 {:toc}
 
+# by me
+![](IMG_20191003_121300_7.png)
+
 # by brionna (wife)
 ![](fox_despair.png)
 
