@@ -166,6 +166,7 @@ some applied more consistently than others
 | [inb4](https://knowyourmeme.com/memes/inb4--2) | inb5 |
 | interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
+| it's | iss |
 | my | me (rarely) |
 | news | mews (rarely) |
 | newspaper | [newspapre](https://www.youtube.com/watch?v=haInQ2gNQKU&t=18s) |
