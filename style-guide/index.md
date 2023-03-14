@@ -307,6 +307,7 @@ some applied more consistently than others
 - :flushed: (😳)
 - :eyes: (👀)
 - :triumph: (😤)
+- :pleading_face: (🥺)
 - `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
 - `¯\_(ツ)_/¯` (famous shrug emoticon)
 
