@@ -209,6 +209,7 @@ some applied more consistently than others
 | do you | d'you (important distinction) |
 | i don't know | iunno, dunno, idk (rarely) |
 | i'm | am |
+| it was | 'twas |
 | it's | 's, 'tis |
 | nope | nop |
 | oh | o |
