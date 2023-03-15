@@ -211,6 +211,7 @@ some applied more consistently than others
 | i'm | am |
 | it was | 'twas |
 | it's | 's, 'tis |
+| need to be | need |
 | nope | nop |
 | oh | o |
 | pretty (as in quite) | p |
