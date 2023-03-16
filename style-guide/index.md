@@ -125,6 +125,8 @@ if `don't` can be a thing then why not `y'all'dn't've` (= `you all would not hav
 if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
 somewhat relevant is forcing local patterns, such as alliteration (e.g. `special spoon spection` (from "section")) or pluralization (`i don't want 2 bottles i want 1 bottles`)
 
+extrapolating metaphors is fun, e.g. `they call me a jack of all trades but i feel more like a 9`
+
 ## regionality
 
 generally american english but i feel like e.g. `labelled` looks better than `labeled`
@@ -334,6 +336,7 @@ some applied more consistently than others
 	- `color` or `colour`? how about `coloure`
 	- `autistic` or `with autism`? how about `be-autism'd`
 - sed replacement syntax instead of asterisks, e.g. `spike is best pony | s/spike/gummy/` (discord actually supports editing with this which makes it take a bit more effort to actually send it, i usually do a backslash before the first slash to avoid it)
+- never `farther`, only `further`
 
 # deprecated
 
