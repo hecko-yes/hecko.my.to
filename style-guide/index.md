@@ -337,6 +337,7 @@ some applied more consistently than others
 	- `autistic` or `with autism`? how about `be-autism'd`
 - sed replacement syntax instead of asterisks, e.g. `spike is best pony | s/spike/gummy/` (discord actually supports editing with this which makes it take a bit more effort to actually send it, i usually do a backslash before the first slash to avoid it)
 - never `farther`, only `further`
+- `-` at the start of a line for a,, sudden start i wanna say, e.g. `-oh actually`
 
 # deprecated
 
