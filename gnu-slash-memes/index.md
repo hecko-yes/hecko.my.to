@@ -58,6 +58,12 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | :- | :- | :- |
 | [bruh sound effect #1](https://freesound.org/people/Autellaem/sounds/534387/) | 0 | not the original but still good imo |
 | [various minecraft sounds](https://www.minecraft.net/en-us/attribution/sound) | 0/by | [here's](https://freesound.org/people/thecheeseman/sounds/44429/) the old oof sound |
+
+# speech
+
+| name | license | notes |
+| :- | :- | :- |
+| [the missile knows where it is at all times](https://www.youtube.com/watch?v=bZe5J8SVCYQ) | 0? | knowyourmeme [says](https://knowyourmeme.com/memes/the-missile-knows-where-it-is) it's from a us air force training video, so assuming it's a government work it'd be public-domain |
 | [text2speech.org](https://www.text2speech.org/) | 0? | `Female US` is the voice of remote from [bfb](https://www.youtube.com/@BFDI), `Male US` and `Male US (Scottish accent)` were used by e.g. [timotainment](https://www.youtube.com/@Timotainment); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
 
 # videos
