@@ -44,7 +44,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 
 | name | license | notes |
 | :- | :- | :- |
-| [music by patricia taxxon](https://patriciataxxon.bandcamp.com/) | by-sa | best known for [sd_bbb](https://patriciataxxon.bandcamp.com/track/sd-bbb) aka [EEEAAAOOO](https://youtu.be/v1K4EAXe2oo) (technically the video must be by-sa too but it's not explicitly stated to be such so eh) |
+| [music by patricia taxxon](https://patriciataxxon.bandcamp.com/) | by-sa | best known for [sd_bbb](https://patriciataxxon.bandcamp.com/track/sd-bbb) aka [EEEAAAOOO](https://youtu.be/v1K4EAXe2oo) (technically the video must be by-sa too but it's not explicitly stated to be such so eh); you might wanna watch out for samples from copyrighted music (sometimes noted in the lyrics) |
 | [music by kevin macleod](https://incompetech.com/music/royalty-free/music.html) | by | there used to be a way to see the most popular songs but it seems to be gone now; [`carefree`](https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037) is the infamous royalty-free ukulele song |
 | [chocolate rain](https://www.youtube.com/watch?v=EwTZ2xpQwpA) | by-nc-nd |
 | [lud and schlatt's musical emporium](https://www.youtube.com/@ludandschlattsmusicalempor6746) | by | of most interest are the [animal crossing](https://www.youtube.com/watch?v=44MCworZf78) and [wii shop channel](https://www.youtube.com/watch?v=Y-6Plfn1yHg&t=21s) soundalikes |
