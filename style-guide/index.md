@@ -157,6 +157,7 @@ some applied more consistently than others
 | comfortable | comforble |
 | computer | compute, computational |
 | [conlang](https://en.wiktionary.org/wiki/conlang#English) | [clong](https://www.reddit.com/r/conlangscirclejerk/comments/tmg1eh/what_the_fuck_is_a_clong/), [conglang, conlangue](https://youtu.be/3aUx7ajQrys) |
+| damn (alone / "damn that's cool") | dayum |
 | damn ("the whole damn thing") | damb |
 | delete | dete |
 | emoji | emoj, emojo, emojum |
