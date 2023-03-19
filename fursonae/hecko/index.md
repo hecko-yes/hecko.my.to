@@ -8,6 +8,8 @@ color: "green"
 
 # by me
 ![](IMG_20191003_121300_7.png)
+![](hecko stock icon.png){:style="max-width: 400px;"}
+([svg](hecko stock icon.svg), [adobe illustrator](hecko stock icon.ai))
 
 # by brionna (wife)
 ![](fox_despair.png){:.copyrighted}
