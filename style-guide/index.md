@@ -146,6 +146,7 @@ some applied more consistently than others
 | \*er, \*or | \*eur (a la `auteur`) |
 | \*k | \*que (rarely) |
 | a | an (rarely) |
+| angry | angy, angery (rarely) |
 | animal | aminal |
 | anyway | anyhoo |
 | boxes | [boxen](https://youtu.be/GXJjZjl6Y_4) (i already covered mispluralizations but this one's special to me) |
@@ -315,6 +316,7 @@ some applied more consistently than others
 - :pleading_face: (🥺)
 - `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
 - `¯\_(ツ)_/¯` (famous shrug emoticon)
+- `>:` (angy like `>:(` but mouthless)
 
 # uncategorized things
 
