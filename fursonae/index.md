@@ -92,9 +92,11 @@ mostly just an attempt to sculpt something in blender
 
 ![](geck/geck.png)
 
-# [ponies](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_is_Magic)
+# ponies
 
-# helping hoof
+of specifically the [mlp](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_is_Magic) variety
+
+## helping hoof
 2021-05-28
 
 yes the name is cringy but i couldn't think of a better one, i don't use that name often anyway
