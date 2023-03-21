@@ -131,6 +131,7 @@ extrapolating metaphors is fun, e.g. `they call me a jack of all trades but i fe
 
 generally american english but i feel like e.g. `labelled` looks better than `labeled`
 usually [24-hour time](https://en.wikipedia.org/wiki/24-hour_clock) except when it feels wrong or ambiguous, in which case 12-hour time without a space before the period name (e.g. `4:20am`)
+for dates i do year-month-day, as in [iso-8601](https://xkcd.com/1179/) (or rather [rfc-3339](https://ijmacd.github.io/rfc3339-iso8601/))
 
 # word replacements
 
