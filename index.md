@@ -19,6 +19,7 @@ list of pages that i plan to make:
 	- gender?
 	- [hecko cannot into art](/hecko-cannot-into-art/) (very venty)
 - [toki pona things](/toki-pona/)
+- [about my cc0 licensing](/cc0/)
 
 for now here's a johnvertisement™
 
