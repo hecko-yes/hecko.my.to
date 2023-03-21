@@ -41,6 +41,7 @@ youtube copyright claims are a thing i guess but i'd have to dox myself and all 
 
 for three: i think most people who would credit with cc-by would credit with cc0 too when practical (see: [minecraft sound attributions](https://www.minecraft.net/en-us/attribution/sound))
 and i'd rather not force myself on them, e.g. if someone were to make a song that's a mishmash of samples (a la [marble soda](https://www.youtube.com/watch?v=qAeybdD5UoQ)) it would be impractical to credit a hundred separate artists wherever the song's used
+[here's](https://dancohen.org/2013/11/26/cc0-by/) a similar idea in the context of of datasets
 
 for four: did you know [cc-by has an anti-drm clause](https://opensource.stackexchange.com/questions/175/can-i-redistribute-cc-by-works-in-drm-protected-app-stores)? which yeah that's based but it's a real problem for ios developers (at least real enough that [oga-by](https://opengameart.org/content/oga-by-30-faq) exists)
 in a similar vein cc0 is actually unsuitable for code because [it doesn't give patent rights](https://opensource.stackexchange.com/questions/133/how-could-using-code-released-under-cc0-infringe-on-the-authors-patents)
