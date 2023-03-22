@@ -113,6 +113,7 @@ i sometimes go sesquipedalian, either for comedic effect or because i genuinely 
 
 - i use `one` instead of generic `you` because it makes more sense to me (though i'm having trouble getting used to doing it and end up writing `you` first before changing it)
 - when marking for possession, i add `'s` even after words that already end in `s` (e.g. [`tails's tools`](https://www.youtube.com/watch?v=v15HWmwxuZo)), unless they're plural
+- i'm specific about my negation placement (sometimes), distinguishing between e.g. `not supposed to` (where doing the thing might be fine) and `supposed not to` (where doing the thing is explicitly not fine)
 
 ## leftism
 
