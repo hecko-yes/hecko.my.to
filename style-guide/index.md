@@ -320,6 +320,16 @@ some applied more consistently than others
 - `¯\_(ツ)_/¯` (famous shrug emoticon)
 - `>:` (angy like `>:(` but mouthless)
 
+# pronunciation
+
+(this section uses the [international phonetic alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) to notate pronunciation)
+
+my target accent is american-ish but since i tend to pronounce vowels like in polish it ends up being kinda british
+
+i like pronouncing <c> as /ts/ (like in polish), distinguishing between e.g. <cis> and <sis>
+
+i jokingly pronounce <gif> with an overenunciated /χ/, and seriously with a /g/
+
 # uncategorized things
 
 - repetition of things, e.g. `hmhmhm`
