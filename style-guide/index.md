@@ -165,6 +165,7 @@ some applied more consistently than others
 | delete | dete |
 | emoji | emoj, emojo, emojum |
 | gaming | game ing |
+| gi\* | ji\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
 | god | dog |
 | gray | græy |
 | hecking | heckign |
@@ -194,7 +195,6 @@ some applied more consistently than others
 | --: | :-- |
 | discord | disk( )orb |
 | disney | [didney](https://knowyourmeme.com/memes/didney-worl) |
-| gi\* | ji\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
 | linux | linuck |
 | microsoft | microdollarsignoft |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
