@@ -194,7 +194,7 @@ some applied more consistently than others
 | --: | :-- |
 | discord | disk( )orb |
 | disney | [didney](https://knowyourmeme.com/memes/didney-worl) |
-| g\* | j\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
+| gi\* | ji\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
 | linux | linuck |
 | microsoft | microdollarsignoft |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
@@ -301,7 +301,7 @@ some applied more consistently than others
 - [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
 - [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
 - [:orwell:](https://i.ibb.co/C26jX7M/orwellbig.png)
-- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png) ( don't have it as a hotkey yet so i just write `:tro:` as text)
+- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png) (i don't have it as a hotkey yet so i just write `:tro:` as text, which i imagine as a very low-res trollface)
 - :sob: (😭)
 - :skull: (💀)
 - :pensive: (😔)
