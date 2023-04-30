@@ -377,7 +377,7 @@ example:
 {:lang="tok"}
 
 i (usually) *don't* use `meli`/`mije`/`tonsi`, `oko`, `epiku`, or `puwa` (i think of `ko` as mostly meaning "squish" and would rather have a nimisin for "powder")
-i do use `namako`, `kin`, `kipisi`, `monsuta` `leko`, `n`, `majuna`, `linluwi`, `kiki`, `taki`, and `te`/`to` (but mostly just `te` as a sort of headnoun, e.g. `te "kipisi" li pona`)
+i do use `namako`, `kin`, `kipisi`, `monsuta`, `leko`, `n`, `majuna`, `linluwi`, `kiki`, `taki`, and `te`/`to` (but mostly just `te` as a sort of headnoun, e.g. `te "kipisi" li pona`)
 
 i *don't* use `tawa` as "for", as in `mi pali tawa pona jan` → "i work for the good of humanity"
 i also don't use `pali` as a generic verb, but rather only "work (a job)" and "create"; for "i do something" i do `mi ijo (e ijo)`
