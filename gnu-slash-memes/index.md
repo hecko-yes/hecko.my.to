@@ -38,7 +38,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | [galaxy brain template recreation](https://secretlab.institute/2021/02/15/cc-0-licensed-galaxy-brain-images/) | by | it says cc0 but it uses cc-by content |
 | [awesome face](https://commons.wikimedia.org/wiki/File:Awesome_face.svg) | by-sa |
 | [it ain't much but it's honest work](https://commons.wikimedia.org/wiki/File:Farmer_meme_with_apostrophe.jpg) | 0 | us government work; [captionless version](https://commons.wikimedia.org/wiki/File:Ohio_farmer_David_Brandt.jpg) |
-| [xkcd](https://xkcd.com/) | by-nc | "there's an xkcd for everything", at least in terms of hard sciences; the categories in [explainxkcd](https://www.explainxkcd.com/) might be of use when searching |
+| [xkcd](https://xkcd.com/) | by-nc | "there's an xkcd for everything", at least in terms of hard sciences; the categories in [explainxkcd](https://www.explainxkcd.com/) might be of use when searching; [the "citation needed" comic](https://commons.wikimedia.org/wiki/File:Webcomic_xkcd_-_Wikipedian_protester.png) and [a couple others](https://commons.wikimedia.org/wiki/Category:Individual_xkcd_comics) are also available as by or by-sa |
 
 # music
 
@@ -58,6 +58,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | :- | :- | :- |
 | [bruh sound effect #1](https://freesound.org/people/Autellaem/sounds/534387/) | 0 | not the original but still good imo |
 | [various minecraft sounds](https://www.minecraft.net/en-us/attribution/sound) | 0/by | [here's](https://freesound.org/people/thecheeseman/sounds/44429/) the old oof sound |
+| [dialup noise](https://freesound.org/people/Jlew/sounds/16475/) |
 
 # speech
 
@@ -70,7 +71,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 
 | name | license | notes |
 | :- | :- | :- |
-| [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by | |
+| [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by |
 
 # other
 
