@@ -181,6 +181,7 @@ some applied more consistently than others
 | potato(es) | potat(s), potate(s), tater(s) |
 | pretty (as in cute) | prebby |
 | ram | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
+| sleep\* | eep\*
 | smh | smhead |
 | thanks | thank, thancc, thanque |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
