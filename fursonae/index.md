@@ -26,13 +26,13 @@ general traits:
 
 **[gallery!](hecko/)**
 
-my main character, [tails the fox](https://en.wikipedia.org/wiki/Tails_(character)) but pure white and one small tail, sometimes with a glowing blue eye a la [sans](https://undertale.fandom.com/wiki/Sans), sometimes with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing
+my main character, pure white snoutless fox with one small tail, sometimes with a glowing blue eye a la [sans](https://undertale.fandom.com/wiki/Sans), sometimes with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing
 in some iterations he can "clone" himself (have multiple bodies) and/or turn into a four-legged fox
 
 started out like so:
-1. a long time ago i used to use images of tails as profile pictures
-2. i wanted to have a funny sans version of tails for my discord avatar and i stumbled upon a cursed mess that i'm not sure if i still have
-3. i added Ralsei features to it (2018-11-28)
+1. a long time ago i used to use images of [tails the fox](https://en.wikipedia.org/wiki/Tails_(character)) as profile pictures
+2. i wanted to have a funny sans version of him for my discord avatar and i stumbled upon a cursed mess that i'm not sure if i still have
+3. i added ralsei features to it (2018-11-28)
 	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png){:.copyrighted}
 4. angel drew it for some reason (2019-09-15)
 	![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){:.copyrighted style="max-width: 400px;"}
