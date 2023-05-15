@@ -26,7 +26,7 @@ general traits:
 
 **[gallery!](hecko/)**
 
-my main character, pure white snoutless fox with one small tail, sometimes with a glowing blue eye a la [sans](https://undertale.fandom.com/wiki/Sans), sometimes with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing
+my main character, pure white snoutless fox (tail size undefined), rarely with a glowing blue eye a la [sans](https://undertale.fandom.com/wiki/Sans), originally with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing
 in some iterations he can "clone" himself (have multiple bodies) and/or turn into a four-legged fox
 
 started out like so:
