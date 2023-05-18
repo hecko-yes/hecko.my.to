@@ -97,23 +97,25 @@ i like sometimes replacing directions like `top right` with the corresponding ar
 
 ## casualness
 
-technically unnecessary filler, so like y'know the uh,, yeah
-every so often i wanna stop using it but then i don't
-no textspeak abbreviations though, except [specific ones](#abbreviations) (and acronyms like `tbh`, `mfw`, etc)
+- technically-unnecessary filler, so like y'know the uh,, yeah )every so often i wanna stop using it but then i don't)
+- i often quote memes instead of speaking normally, which might partly be due to autism idk
 
-a corollary is that i often quote memes instead of speaking normally, which might partly be due to autism idk
+no textspeak abbreviations though, except [specific ones](#abbreviations) (and acronyms like `tbh`, `mfw`, etc)
 
 ## uncasualness
 
-i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing (which doesn't mean i'll use the complex word correctly)
-
-`2 (two)` is funny
+- i sometimes go sesquipedalian, either for comedic effect or because i genuinely don't know the simple word for the given thing (which doesn't mean i'll use the complex word correctly)
+- `2 (two)` is funny
 
 ## pedantry
 
 - i use `one` instead of generic `you` because it makes more sense to me (though i'm having trouble getting used to doing it and end up writing `you` first before changing it)
 - when marking for possession, i add `'s` even after words that already end in `s` (e.g. [`tails's tools`](https://www.youtube.com/watch?v=v15HWmwxuZo)), unless they're plural
 - i'm specific about my negation placement (sometimes), distinguishing between e.g. `not supposed to` (where doing the thing might be fine) and `supposed not to` (where doing the thing is explicitly not fine)
+
+## unpedantry
+
+- incorrect articles/pluralization, e.g. `a goats` or even `an goats`
 
 ## leftism
 
@@ -122,11 +124,10 @@ i sometimes go sesquipedalian, either for comedic effect or because i genuinely 
 
 ## extrapolation
 
-if `don't` can be a thing then why not `y'all'dn't've` (= `you all would not have`)
-if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
-somewhat relevant is forcing local patterns, such as alliteration (e.g. `special spoon spection` (from "section")) or pluralization (`i don't want 2 bottles i want 1 bottles`)
-
-extrapolating metaphors is fun, e.g. `they call me a jack of all trades but i feel more like a 9`
+- if `don't` can be a thing then why not `y'all'dn't've` (= `you all would not have`)
+- if the plural of `octopus` is `octopi` then for `corpus` i'll do `corpi` and you can't stop me (not in serious writing though)
+- somewhat relevant is forcing local patterns, such as alliteration (e.g. `special spoon spection` (from "section")) or pluralization (`i don't want 2 bottles i want 1 bottles`)
+- extrapolating metaphors is fun, e.g. `they call me a jack of all trades but i feel more like a 9`
 
 ## regionality
 
