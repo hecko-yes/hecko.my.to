@@ -390,5 +390,7 @@ i also enjoy modifying preverbs and prepositions with things other than `ala`, h
 i usually don't tokiponize names except sometimes really well-known ones, like `ma Pasiju` for brazil above, `ma Mewika` for the us (though i prefer `ma Juwese`), `toki Inli` for english, `ilo Siko` for discord i guess,
 i like putting them in sitelen·pona-esque cartouches, e.g. `ilo [GitHub]`, supposedly so that i can disambiguate `toki pona` from `toki [pona]` but mostly it's just quirky
 
+`kin la` ("also,") becomes just `kin`, for symmetry with `taso`
+
 i use `pona` only as "good" and `wile` only as "want" and i Will rant about this
 i also think `pilin` might be a preverb but eh
