@@ -371,7 +371,7 @@ also very insistent about potatoes being `ziemniaki` not `kartofle`
 ## toki pona
 
 sentences on the same line are split with an interpunct with spaces on either side
-in semi-formal writing, interpuncts are also added at the *start and end* of the line, vaguely resembling an indent and also because symmetry is nice
+in semi-formal writing, interpuncts are also added at the *start and end* of the line (for æsthetic symmetry), disambiguating automatic mid-sentence line breaks from intentional ones
 commas around `la` and after `taso` are not used, but the function of a semicolon after `ni` is fulfilled by an arrow pointing right; arrows can also point left to function as a backwards semicolon of sorts
 example:
 
@@ -387,7 +387,8 @@ i also don't use `pali` as a generic verb, but rather only "work (a job)" and "c
 i enjoy transitive preposition phrases, e.g. `mi tawa ma Pasiju e sina` = `mi tawa e sina tawa ma Pasiju`
 i also enjoy modifying preverbs and prepositions with things other than `ala`, hyphenating them for clarity, e.g. `mi sona-wawa toki pona` = `sona mi pi toki pona li wawa`
 
-i usually don't tokiponize names except really well-known ones, like `ma Pasiju` for brazil above, `ma Mewika` for the us (though i prefer `ma Juwese`), `toki Inli` for english, `ilo Siko` for discord i guess,
+i usually don't tokiponize names except sometimes really well-known ones, like `ma Pasiju` for brazil above, `ma Mewika` for the us (though i prefer `ma Juwese`), `toki Inli` for english, `ilo Siko` for discord i guess,
+i like putting them in sitelen·pona-esque cartouches, e.g. `ilo [GitHub]`, supposedly so that i can disambiguate `toki pona` from `toki [pona]` but mostly it's just quirky
 
 i use `pona` only as "good" and `wile` only as "want" and i Will rant about this
 i also think `pilin` might be a preverb but eh
