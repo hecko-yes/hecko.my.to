@@ -79,6 +79,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | :- | :- | :- |
 | [scp wiki](https://scp-wiki.wikidot.com/) | by-sa | with the notable exception of scp-173's former visage (nicknamed `peanut`) |
 | [the works of nicky case](https://ncase.me/) | 0 | as a furry i'm biased toward [adventures with anxiety](https://ncase.me/anxiety/) and [femboy hooters](https://www.youtube.com/watch?v=J9La5ErKGss) (nsfw) |
+| [reimagine :the game: soundtrack](https://freemusicarchive.org/music/Peter_Gresser/Reimagine_The_Game) | 0 | related to the above because the game was made by nicky, though the music wasn't |
 | [1984 by george orwell](https://george-orwell.org/1984/) | pd\* | *except* in the us where it's copyrighted until 2044 |
 | [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) |
 
