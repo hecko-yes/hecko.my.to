@@ -185,6 +185,7 @@ some applied more consistently than others
 | sleep\* | eep\*
 | smh | smhead |
 | thanks | thank, thancc, thanque |
+| tiny | tiney |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
 | website | webbed sight |
 | who | whom |
