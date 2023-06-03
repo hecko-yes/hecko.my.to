@@ -21,12 +21,22 @@ general traits:
 - usually idealized bodies, as in no biological trappings like sweating or having to eat or even sleep
 - 5-fingered hands (if any) with opposable thumbs, though i may change my mind because that's not a lot of room for thick beans and cat paws are cute
 
+# ghost fox
+2018-08-12
+
+not really a fursona but it is the first animal sorta-character i remember making
+made for a shitposty collaborative comic thing, where the first action by someone other than me was to kill my character (hence ghost)
+
+![fox-eared humanoid stickman waves and says "Hi"](ghost-fox/IMG_20180812_212917.png)
+![same creature, now a ghost, saying "m" in very stretched comic sans](ghost-fox/IMG_20180813_094114.png)
+
 # hecko
 2018-11-28
 
 **[gallery!](hecko/)**
 
-my main character, pure white snoutless fox (tail size undefined), rarely with a glowing blue eye a la [sans](https://undertale.fandom.com/wiki/Sans), originally with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing
+my main character, scruffy pure-white snoutless fox (tail size undefined)
+originally with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing and [sans](https://undertale.fandom.com/wiki/Sans)'s glowing blue eye but nowadays not really
 in some iterations he can "clone" himself (have multiple bodies) and/or turn into a four-legged fox
 
 started out like so:
@@ -34,8 +44,8 @@ started out like so:
 2. i wanted to have a funny sans version of him for my discord avatar and i stumbled upon a cursed mess that i'm not sure if i still have
 3. i added ralsei features to it (2018-11-28)
 	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png){:.copyrighted}
-4. angel drew it for some reason (2019-09-15)
-	![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){:.copyrighted style="max-width: 400px;"}
+4. electriclizardfren drew it for some reason (2019-09-15)
+	![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){:.copyrighted style="width: 400px; max-width: 100%;"}
 5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
 	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
 6. now it's my fursona i guess
@@ -177,7 +187,7 @@ pink body, very·hot-pink beans and hooves, light-yellow [countershading](https:
 plush maybe? not necessarily for cuddle purposes, i just feel it'd be neat (though idk if useful hands would fit it well)
 i usually do plain colors but maybe this time i could/should do some sort of spots? freckles at least?
 probably both anthro and feral forms; anthro probably gets paws (maybe cat paws so it can be a [bappy](https://www.urbandictionary.com/define.php?term=Bappers) mew [deer](https://en.wiktionary.org/wiki/happy_New_Year#English))
-male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way)
+male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.com/wiki/Noelle) stole them~~ (actually because i feel they'd get in the way, also i have been informed female reindeer have antlers too)
 glasses? collar? skirt? ~~thigh-highs?~~ (nah because they'd cover up the hoofsies)
 
 no proper canonical picture yet but have [a wip blender model](deer/deersona.blend) (main deviations: no ear fluff, no spots, fingers are thinner than i'd like them to be, beans are weird):
