@@ -9,10 +9,10 @@ excerpt: "an index of memes, memeables, and pop culture items, under public lice
 
 an index of memes, memeables, and pop culture items, under public licenses such as [creative commons](https://creativecommons.org/) or in the [public domain](https://en.wikipedia.org/wiki/Public_domain)
 
-[ctrl+f](https://www.takeflyte.com/what-the-ctrl-f) is your friend here
+**most of the time this doesn't matter** because youtube has contracts for most of the world's music and the other companies know better than to sue random memesters for giving them free marketing
+**but** if you're publishing something commercially (or if your teacher insists on properly licensed material for your slideshow) and you wanna put a haha funny in it then this might be helpful
 
-most of the time this doesn't matter because youtube has contracts for most of the world's music and all the other companies know better than to sue random memesters for giving them free marketing
-but if you're publishing something commercially (or if your teacher insists on properly licensed material for your slideshow) and you wanna put a haha funny in it then this might be helpful
+[ctrl+f](https://www.takeflyte.com/what-the-ctrl-f) is your friend here
 
 a quick rundown of how the license column works:
 - [`pd`](https://creativecommons.org/publicdomain/mark/1.0/) (public domain) means it's too old for copyright so do Literally Whatever; this may vary depending on your country
@@ -21,9 +21,10 @@ a quick rundown of how the license column works:
 - [`sa`](https://creativecommons.org/licenses/by-sa/4.0/) means if you publish edits of it (or things synced to it if music) you have to release them under the same license
 - [`nd`](https://creativecommons.org/licenses/by-nd/4.0/) means don't you dare publish edits of it
 - [`nc`](https://creativecommons.org/licenses/by-nc/4.0/) means non-commercial
+- `id` means it's only for individuals (or sometimes co-ops, small businesses, etc), sometimes de facto so by being [explicitly informal](https://www.boringcactus.com/2021/09/29/anti-license-manifesto.html); sure it kinda goes against the point of the list but not entirely i don't think
 - `*` means there's a catch because copyright is often not as shrimple as that
 
-very incomplete as of current; if you have any suggestions then contact is appreciated
+very lacking as of current; if you have any suggestions then contact is appreciated
 
 **see also:**
 - [the `internet memes` category on wikimedia commons](https://commons.wikimedia.org/wiki/Category:Internet_memes)
@@ -82,6 +83,7 @@ very incomplete as of current; if you have any suggestions then contact is appre
 | [reimagine :the game: soundtrack](https://freemusicarchive.org/music/Peter_Gresser/Reimagine_The_Game) | 0 | related to the above because the game was made by nicky, though the music wasn't |
 | [1984 by george orwell](https://george-orwell.org/1984/) | pd\* | *except* in the us where it's copyrighted until 2044 |
 | [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) |
+| [i wanna be the guy](https://kayin.moe/iwbtg/) | id | per [faq 2.4](https://kayin.moe/iwbtg/faq.html) |
 
 # non-meme freebies
 
