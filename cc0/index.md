@@ -18,10 +18,10 @@ tl;dr: pretty much anything
 | use your things? | **yes** |
 | commercially? | **yes** |
 | edit them? | **yes** |
-| without credit? | **yes** (but i do appreciate credit) |
 | for nazi things? | **yes** (but fuck you) |
-| with *me* credited? | uhhhh **not sure** honestly |
-| post them to spotify/etc? | **no** (but it's because [they want you to own it](https://freepd.com/#:~:text=Can%20I%20put,local%20copyright%20attorney.)) |
+| without credit? | **yes** (but i do appreciate credit) |
+| with *false* credit? | uhhhh **not sure** honestly |
+| post them to spotify/etc? | **no** (but it's because [they want you to be the owner](https://freepd.com/#:~:text=Can%20I%20put,local%20copyright%20attorney.)) |
 
 # however
 
