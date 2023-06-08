@@ -23,6 +23,7 @@ a quick rundown of how the license column works:
 - [`nc`](https://creativecommons.org/licenses/by-nc/4.0/) means non-commercial
 - `id` means it's only for individuals (or sometimes co-ops, small businesses, etc), sometimes de facto so by being [explicitly informal](https://www.boringcactus.com/2021/09/29/anti-license-manifesto.html); sure it kinda goes against the point of the list but not entirely i don't think
 - `*` means there's a catch because copyright is often not as shrimple as that
+- `?` means i'm kinda sure but not *entirely* sure so if you need utter safety then avoid it (and if you have information then tell me)
 
 very lacking as of current; if you have any suggestions then contact is appreciated
 
@@ -34,6 +35,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 
 | name | license | notes |
 | :- | :- | :- |
+| [crypton vocaloid illustrations](https://piapro.net/intl/en_for_creators.html) | by-nc | specifically: hatsune miku, kagamine rin and len, megurine luka, kaito, and meiko |
 | [historic tale construction kit](http://htck.github.io/bayeux/) | pd? | i mean i *assume* it's public-domain since the [source material](https://en.wikipedia.org/wiki/Bayeux_Tapestry) is, unless cutting characters out of it is copyrightable |
 | [bluemoji](https://bluemoji.io/) | by | aka that one blue smiley with puffed-up cheeks laughing about spreading misinformation on the internet |
 | [galaxy brain template recreation](https://secretlab.institute/2021/02/15/cc-0-licensed-galaxy-brain-images/) | by | it says cc0 but it uses cc-by content |
@@ -52,14 +54,15 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [little women (1933) theme song](https://www.youtube.com/watch?v=dLaiV5QoRtI) | pd | famously remixed in the [opening cutscene of hotel mario (1994)](https://www.youtube.com/watch?v=jra4ZxGA-ww) |
 | [undertale shop theme soundalike](https://opengameart.org/content/its-not-undertale) | 0\* | it might be that the samples are copyrighted but if toby fox could get away with yoinking them from the internet you probably can too |
 | [mitchie m - freely tomorrow (feat. hatsune miku)](https://commons.wikimedia.org/wiki/File:Freely_Tomorrow.ogg) | by\* | kind of a technicality, because the attribution marking was removed but cc-by is irrevocable |
+| [ievan polkka] | pd | not the vocaloid version mind you, just the lyrics and notes, and i'm not aware of any freely-licensed recording so you might have to make it yourself |
 
 # sfx
 
 | name | license | notes |
 | :- | :- | :- |
 | [bruh sound effect #1](https://freesound.org/people/Autellaem/sounds/534387/) | 0 | not the original but still good imo |
-| [various minecraft sounds](https://www.minecraft.net/en-us/attribution/sound) | 0/by | [here's](https://freesound.org/people/thecheeseman/sounds/44429/) the old oof sound |
-| [dialup noise](https://freesound.org/people/Jlew/sounds/16475/) |
+| [various minecraft sounds](https://www.minecraft.net/en-us/attribution/sound) | 0/by | [here's](https://freesound.org/people/thecheeseman/sounds/44429/) the old hurt sound |
+| [dialup noise](https://freesound.org/people/Jlew/sounds/16475/) | by | (though personally i don't think the uploader has copyright on it so maybe pd?) |
 
 # speech
 
