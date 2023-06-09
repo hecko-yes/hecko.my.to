@@ -38,10 +38,12 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [crypton vocaloid illustrations](https://piapro.net/intl/en_for_creators.html) | by-nc | specifically: hatsune miku, kagamine rin and len, megurine luka, kaito, and meiko |
 | [historic tale construction kit](http://htck.github.io/bayeux/) | pd? | i mean i *assume* it's public-domain since the [source material](https://en.wikipedia.org/wiki/Bayeux_Tapestry) is, unless cutting characters out of it is copyrightable |
 | [bluemoji](https://bluemoji.io/) | by | aka that one blue smiley with puffed-up cheeks laughing about spreading misinformation on the internet |
+| [twemoji](https://github.com/jdecked/twemoji) | by | used on twitter and discord; gallery [here](https://emojipedia.org/twitter/) |
 | [galaxy brain template recreation](https://secretlab.institute/2021/02/15/cc-0-licensed-galaxy-brain-images/) | by | it says cc0 but it uses cc-by content |
 | [awesome face](https://commons.wikimedia.org/wiki/File:Awesome_face.svg) | by-sa |
 | [it ain't much but it's honest work](https://commons.wikimedia.org/wiki/File:Farmer_meme_with_apostrophe.jpg) | 0 | us government work; [captionless version](https://commons.wikimedia.org/wiki/File:Ohio_farmer_David_Brandt.jpg) |
 | [xkcd](https://xkcd.com/) | by-nc | "there's an xkcd for everything", at least in terms of hard sciences; the categories in [explainxkcd](https://www.explainxkcd.com/) might be of use when searching; [the "citation needed" comic](https://commons.wikimedia.org/wiki/File:Webcomic_xkcd_-_Wikipedian_protester.png) and [a couple others](https://commons.wikimedia.org/wiki/Category:Individual_xkcd_comics) are also available as by or by-sa |
+| [celeste box art](https://commons.wikimedia.org/wiki/File:Celeste_box_art_full.png) | by-sa | cutouts and a few extras [here](https://commons.wikimedia.org/wiki/Category:Celeste_(video_game)) |
 
 # music
 
