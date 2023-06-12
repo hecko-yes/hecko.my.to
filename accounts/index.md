@@ -12,7 +12,7 @@ the hecko is elsewhere on the internet no way
 
 ## checked actively
 
-- discord - hecko#8977
+- discord - hecko_yes
 - email - hecko period yes swirly g mail period commercial
 - matrix - [sobsz:matrix.org](https://matrix.to/#/@sobsz:matrix.org){:rel="me"}
 - reddit - [Sobsz](https://www.reddit.com/user/Sobsz){:rel="me"}
