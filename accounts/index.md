@@ -12,7 +12,7 @@ the hecko is elsewhere on the internet no way
 
 ## checked actively
 
-- discord - .hecko
+- discord - .hecko (note the period)
 - email - hecko period yes swirly g mail period commercial
 - matrix - [sobsz:matrix.org](https://matrix.to/#/@sobsz:matrix.org){:rel="me"}
 - reddit - [Sobsz](https://www.reddit.com/user/Sobsz){:rel="me"}
@@ -41,6 +41,7 @@ the hecko is elsewhere on the internet no way
 - fimfiction - [hecko](https://www.fimfiction.net/user/335946/hecko){:rel="me"}
 - github - [Sobsz](https://github.com/Sobsz){:rel="me"}
 - keybase - [sobsz](https://keybase.io/sobsz){:rel="me"} (not used anymore)
+- miraheze - [.hecko](https://meta.miraheze.org/wiki/User:.hecko){:rel="me"}
 - neocities - [sobsz](https://sobsz.neocities.org/){:rel="me"} (superseded by this very website)
 - tatoeba - [hecko](https://tatoeba.org/en/user/profile/hecko){:rel="me"}
 - wikimedia - [Sobsz](https://meta.wikimedia.org/wiki/User:Sobsz){:rel="me"}
