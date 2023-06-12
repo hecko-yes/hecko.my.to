@@ -4,7 +4,7 @@ color: "orange"
 excerpt: "omg hiii,,,"
 ---
 
-this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), hecko_yes on discord, <a rel="me" href="https://fluffcord.social/@hecko">@fluffcord.social</a> on fediverse)
+this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), `.hecko` on discord, <a rel="me" href="https://fluffcord.social/@hecko">@fluffcord.social</a> on fediverse)
 
 list of pages that i plan to make:
 - fancier home page
