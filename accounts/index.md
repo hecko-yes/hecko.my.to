@@ -37,6 +37,7 @@ the hecko is elsewhere on the internet no way
 
 # other
 
+- artfight - [hecko_yes](https://artfight.net/~hecko_yes){:rel="me"} (need an account to view it, also no arts on there)
 - derpibooru - [hecko](https://derpibooru.org/profiles/hecko){:rel="me"}
 - fimfiction - [hecko](https://www.fimfiction.net/user/335946/hecko){:rel="me"}
 - github - [Sobsz](https://github.com/Sobsz){:rel="me"}
