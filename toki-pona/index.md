@@ -17,12 +17,13 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 
 ## original
 
-- [akesi li wile lon nena](http://utala.pona.la/lipu-lili/akesi-li-wile-lon-nena.html), a very short story
+- [akesi li wile lon nena](akesi-li-wile-lon-nena/) (2022-06-14), a very short 5-word-per-sentence story that somehow got 3rd place in [a contest](https://utala.pona.la/lipu-lili/); also available in [sitelen pona](akesi-li-wile-lon-nena/sitelen-pona/) (formatted by jan Lakuse) and i think it looks nicer that way
+- [nasin nanpa mute li lon](https://lipukule.org/post/2021/09/21/nasin-nanpa-mute-li-lon/) (<2021-09-21), in which i nerd about number systems
 
 ## translations
 
-- [TOADD] soweli Kisa, a translation of [kisa the cat](https://en.wikipedia.org/wiki/Kisa_the_Cat)
-- [nanpa je ka](nanpa-je-ka/), my first ever longform translation (posted at 2020-11-26); original is [burger king foot lettuce](https://www.youtube.com/watch?v=9PWjqgM_CU8)
+- [soweli Kisa](soweli-kisa/) (2022-10-28 - 2022-12-21), a translation of [kisa the cat](https://en.wikipedia.org/wiki/Kisa_the_Cat), proofread by waso Keli (but still kinda eh)
+- [nanpa je ka](nanpa-je-ka/) (2020-11-26), my first ever longform translation, of [burger king foot lettuce](https://www.youtube.com/watch?v=9PWjqgM_CU8)
 
 # writing systems
 
