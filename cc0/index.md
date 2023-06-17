@@ -46,8 +46,9 @@ and i'd rather not force myself on them, e.g. if someone were to make a song tha
 
 ## did you know [cc-by has an anti-drm clause](https://opensource.stackexchange.com/questions/175/can-i-redistribute-cc-by-works-in-drm-protected-app-stores)
 which yeah that's based but it's a real problem for ios developers (at least real enough that [oga-by](https://opengameart.org/content/oga-by-30-faq) exists)
-in a similar vein cc0 is actually unsuitable for code because [it doesn't give patent rights](https://opensource.stackexchange.com/questions/133/how-could-using-code-released-under-cc0-infringe-on-the-authors-patents)
+,,though in a similar vein cc0 is unsuitable for code because [it doesn't give patent rights](https://opensource.stackexchange.com/questions/133/how-could-using-code-released-under-cc0-infringe-on-the-authors-patents)
 there's a fork called [cc_-1](https://carado.moe/cc_-1.html) (which is a bit weird in its phrasing) but i often just quadruple-license under cc0/[unlicense](https://unlicense.org/)/[0bsd](https://opensource.org/license/0bsd/)/[wtfpl](http://www.wtfpl.net/) because it's funny
+<small>it might also be the case that [copyright law makes it impossible for any license at all to be irrevocable](https://en.wikisource.org/wiki/Shrinking_the_Commons:_Termination_of_Copyright_Licenses_and_Transfers_for_the_Benefit_of_the_Public) but shhh</small>
 
 ## is anything bad even gonna happen
 [nicky case](https://ncase.me/) is way more popular than me and cc0's all her stuff and i don't think there's any notable misuse of it
