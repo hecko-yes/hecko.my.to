@@ -44,6 +44,7 @@ the hecko is elsewhere on the internet no way
 - keybase - [sobsz](https://keybase.io/sobsz){:rel="me"} (not used anymore)
 - miraheze - [.hecko](https://meta.miraheze.org/wiki/User:.hecko){:rel="me"}
 - neocities - [sobsz](https://sobsz.neocities.org/){:rel="me"} (superseded by this very website)
+- stackoverflow - [hecko (7142032)](https://stackoverflow.com/users/7142032/hecko){:rel="me"}
 - tatoeba - [hecko](https://tatoeba.org/en/user/profile/hecko){:rel="me"}
 - wikimedia - [Sobsz](https://meta.wikimedia.org/wiki/User:Sobsz){:rel="me"}
 - youtube - [hecko-yes](https://www.youtube.com/channel/UCfwoJszjdfe2p6YY0FpXFYA){:rel="me"}
