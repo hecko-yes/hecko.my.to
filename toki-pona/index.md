@@ -22,8 +22,15 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 
 ## translations
 
-- [soweli Kisa](soweli-kisa/) (2022-10-28 - 2022-12-21), a translation of [kisa the cat](https://en.wikipedia.org/wiki/Kisa_the_Cat), proofread by waso Keli (but still kinda eh)
-- [nanpa je ka](nanpa-je-ka/) (2020-11-26), my first ever longform translation, of [burger king foot lettuce](https://www.youtube.com/watch?v=9PWjqgM_CU8)
+- [soweli Kisa](soweli-kisa/) (2022-10-28 - 2022-12-21) - of [kisa the cat](https://en.wikipedia.org/wiki/Kisa_the_Cat), proofread by waso Keli (but still kinda eh)
+- [nanpa je ka](nanpa-je-ka/) (2020-11-26) - of [burger king foot lettuce](https://www.youtube.com/watch?v=9PWjqgM_CU8), my first ever longform translation
+
+### storyweaver
+
+cc-by children's books
+
+- [o pona e ijo pakala](https://storyweaver.org.in/stories/442898-o-pona-e-ijo-pakala) (2022-05-13) - of [a stitch in time](https://storyweaver.org.in/stories/49732-a-stitch-in-time), proofread by jan Ke Tami
+- [soweli poka pi soweli lili](https://storyweaver.org.in/stories/374174-soweli-poka-pi-soweli-lili) (2021-12-19) - of [a friend for little goat](https://storyweaver.org.in/stories/27877-a-friend-for-little-goat), proofread by jan Ke Tami
 
 # writing systems
 
