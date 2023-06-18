@@ -138,6 +138,22 @@ i do like it
 
 ![pone with bright teal body, dark teal countershading and hoof stripes and eyes, acid green spiky mane and wings and tail](ponies/emerald snap sprite big.png){:.copyrighted}
 
+# plushies
+
+made for a now-inactive deltarune roleplay, part of an implied set of dozens (of common species that aren't already represented in deltarune)
+
+## topaz
+2022-07-18
+
+![anthro owl in ruby coat](bonus/topaz avatar.png)
+
+## saffron
+2022-11-04 - 2022-11-10
+
+![smug deer in blue shirt](bonus/saffron avatar.png)
+
+![same deer but not smug, now blue and in green shirt](bonus/topaz avatar.png)
+
 # otter
 2022-08-22
 
@@ -178,7 +194,6 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 ![an alternate coloring scheme, where instead of stripes there are solid fields of neon: a thick strip going down from the neck to the crotch and continuing into the tail (with another strip on the other side of said tail), and the "feet" of the hooves are neon too; ears and face are still neon](creature/blender_9kagAKd291.png)
 
 # deer
-
 2023-02-22 (at like 3am)
 
 probably my first non-cuddlemaxxed character
