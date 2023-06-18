@@ -140,19 +140,22 @@ i do like it
 
 # plushies
 
-made for a now-inactive deltarune roleplay, part of an implied set of dozens (of common species that aren't already represented in deltarune)
+made for a now-inactive [deltarune](https://en.wikipedia.org/Deltarune) roleplay, part of an implied set of dozens (of common species that aren't already represented in deltarune)
 
 ## topaz
 2022-07-18
+
+magic geek, has turned into a sort of phoenix once
 
 ![anthro owl in ruby coat](bonus/topaz avatar.png)
 
 ## saffron
 2022-11-04 - 2022-11-10
 
-![smug deer in blue shirt](bonus/saffron avatar.png)
+started out normal, became smug in an effort to outsmug the main villain, immediately regretted it and became snowdrop instead to have people not hate him
 
-![same deer but not smug, now blue and in green shirt](bonus/topaz avatar.png)
+![smug deer in blue shirt](bonus/saffron avatar.png)
+![same deer but not smug, now blue and in green shirt](bonus/snowdrop avatar.png)
 
 # otter
 2022-08-22
