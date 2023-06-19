@@ -138,6 +138,9 @@ i do like it
 
 ![pone with bright teal body, dark teal countershading and hoof stripes and eyes, acid green spiky mane and wings and tail](ponies/emerald snap sprite big.png){:.copyrighted}
 
+also has a pic made for funkin' is magic using [this base by bbpanzu](https://twitter.com/bbpnz213/status/1670682977230114816) but it's rushed and not very good
+![same pone facing away from viewer, talking to somepony](emerald snap funkin' is magic cropped.png){:.copyrighted}
+
 # plushies
 
 made for a now-inactive [deltarune](https://en.wikipedia.org/Deltarune) roleplay, part of an implied set of dozens (of common species that aren't already represented in deltarune)
