@@ -22,7 +22,7 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 
 ## translations
 
-- [soweli Kisa](soweli-kisa/) (2022-10-28 - 2022-12-21) - of [kisa the cat](https://en.wikipedia.org/wiki/Kisa_the_Cat), proofread by waso Keli (but still kinda eh)
+- [soweli Kisa](soweli-kisa/) (2022-10-28) - of [kisa the cat](https://en.wikipedia.org/wiki/Kisa_the_Cat), proofread by waso Keli on 2022-12-21 and jan Tepo on 2023-06-19
 - [nanpa je ka](nanpa-je-ka/) (2020-11-26) - of [burger king foot lettuce](https://www.youtube.com/watch?v=9PWjqgM_CU8), my first ever longform translation
 
 ### storyweaver
