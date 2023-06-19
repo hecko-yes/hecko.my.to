@@ -18,6 +18,7 @@ color: "green"
 ![](Untitled1158_20190725090403.png){:.copyrighted}
 ![](Untitled96_20190915093604_cropped.png){:.copyrighted}
 ![](Untitled915_20190615050825.png){:.copyrighted}
+![](Untitled570_20201024074920.png){:.copyrighted}
 ![](Untitled1058_20220629152323.png){:.copyrighted}
 ![](Untitled1058_20220629152855.png){:.copyrighted}
 
