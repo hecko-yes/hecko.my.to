@@ -142,7 +142,7 @@ a:hover, a:active {
 a:not([href^="/"]):not([href^="#"]):not([href^="."]):after {
 	content: "🡭";
 	font-size: 60%;
-	vertical-align: top;
+	vertical-align: super;
 }
 
 blockquote {
