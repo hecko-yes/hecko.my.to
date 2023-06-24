@@ -139,6 +139,12 @@ a:hover, a:active {
 	text-decoration: underline;
 }
 
+a:not([href^="/"]):not([href^="#"]):not([href^="."]):after {
+	content: "🡭";
+	font-size: 60%;
+	vertical-align: top;
+}
+
 blockquote {
 	margin: $textmargin 0;
 	padding: 6px $padding 6px ($padding - 3px);
