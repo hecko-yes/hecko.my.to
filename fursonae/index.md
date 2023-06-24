@@ -190,8 +190,6 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 
 [have a .blend file](creature/another fursona test.blend) (3.4, messy, unrigged)
 
-**note**: the images below are out of date, namely the ears are now half the size of that pictured
-
 ![t-posing anthro creature; most of its body is a dark slightly-purple blue, but there are some stripes on the limbs and a heart pattern on the chest that are a shiny neon magenta-to-cyan gradient (which also occurs on its eyes and snout and blush lines); big goat ears half as long as the creature is tall with neon on the underside, thick limbs (regular arms and stubby hoof legs), neck fluff, almost body-size tail behind it (the inner half is neon and the outer is blue)](creature/blender_SaduRfyIKK.png)
 ![orthogonal front view](creature/blender_8C6WVPyxX6.png)
 ![orthogonal side view, showing a cartoony dashed blush, some chub in the front, the spiraliness of the tail, and the profile of the hooves](creature/blender_EKAOTtskK5.png)
