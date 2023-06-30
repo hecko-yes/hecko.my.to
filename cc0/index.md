@@ -3,12 +3,12 @@ color: "teal"
 excerpt: "why i license things the way i do"
 ---
 
-1. 
-{:toc}
-
 this website, and much of the stuff i make in general, is licensed under [cc0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 which is less a license and more a [public domain](https://en.wikipedia.org/wiki/Public_domain) dedication with a fallback where that's not possible (because lawmakers didn't predict this level of ~~masochism~~ altruism)
 so here's info on that (or you can read [the official faq](https://wiki.creativecommons.org/wiki/CC0_FAQ))
+
+1. 
+{:toc}
 
 # what can i do
 tl;dr: pretty much anything
