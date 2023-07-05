@@ -9,8 +9,9 @@ excerpt: "the characters that i've made, for various degrees of \"made\""
 
 the characters that i've made, for various degrees of "made"
 generally all of these are canonically he/they/etc like me (except [helping hoof](#helping-hoof) which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them and also don't mind pronouns in general)
-you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire, as per [cc0](https://creativecommons.org/publicdomain/zero/1.0/) (though note that other people's art featured here isn't under that)
-kinda funny since a fursona is supposed to represent me yet i keep making characters that i'd want to hug and one can't really hug oneself properly can one (though i suppose [the fox](#hecko) has clones and [the creature](#creature) can wrap itself up in its tail)
+you-the-reader hereby have my permission to draw/remix/steal/etc any of these if you so desire, as per [cc0](https://creativecommons.org/publicdomain/zero/1.0/) (though note that other people's art featured here isn't under that, and also if you ship them with others my partner probably won't like it)
+
+kinda funny that even though a fursona is supposed to represent me i instead keep making characters that i'd want to hug, and one can't really hug oneself properly can one (though i suppose [the fox](#hecko) has clones and [the creature](#creature) can wrap itself up in its tail)
 
 current favorite is probably [emerald snap](#emerald-snap)
 
@@ -18,8 +19,8 @@ general traits:
 - either braver than me or exaggeratedly shy and self-deprecating
 - extremely cuddly, will hug the heck out of you for eons if you let them
 - voice could be similar to [timber puppers's ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E) and [tyler scowcroft's ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA), or perhaps [wynton yang's ralsei](https://www.youtube.com/watch?v=6Vfc61BjhUQ) and [sibylline sounds' bookshop skunk](https://www.youtube.com/watch?v=osJmMstb7_E) [fetish cw for their other videos]
-- usually idealized bodies, as in no biological trappings like sweating or having to eat or even sleep
-- 5-fingered hands (if any) with opposable thumbs, though i may change my mind because that's not a lot of room for thick beans and cat paws are cute
+- usually idealized bodies, as in no biological trappings like sweating or having to eat or sleep or beinng harmable (also they don't have bones)
+- 5 fingers (if any) with opposable thumbs
 
 # ghost fox
 2018-08-12
@@ -144,6 +145,7 @@ also has a pic made for funkin' is magic using [this base by bbpanzu](https://tw
 # plushies
 
 made for a now-inactive [deltarune](https://en.wikipedia.org/Deltarune) roleplay, part of an implied set of dozens (of common species that aren't already represented in deltarune)
+they/them, sometimes it/its
 
 ## topaz
 2022-07-18
@@ -229,8 +231,8 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 floaty is not its name, it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon)) (once i get around to rigging it)
 4 feet tall, probably no fluff just marshmallow squish
 the yellow bits glow
-the hand beans
-it can wear face masks to express emotions like owo
+the hand beans stick out
+despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
 
 some attributes i'm still unsure of, e.g. whether it should have a tail, what the front symbol should be (heart feels too generic but idk any other fitting ones), whether i should make the feet have toes or just keep them as blobs, etc
 also sorry for the thumbs being bad
