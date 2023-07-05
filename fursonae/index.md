@@ -233,13 +233,14 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 floaty is not its name, it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon)) (once i get around to rigging it)
 4 feet tall, probably no fluff just marshmallow squish
 the yellow bits glow
+the hand beans
 it can wear face masks to express emotions like owo
 
-some attributes i'm still unsure of, e.g. whether it should have a tail, what the front symbol should be (heart feels too generic but idk any other fitting ones)
+some attributes i'm still unsure of, e.g. whether it should have a tail, what the front symbol should be (heart feels too generic but idk any other fitting ones), whether i should make the feet have toes or just keep them as blobs, etc
 also sorry for the thumbs being bad
 [.blend file](floaty/floaty sona.blend) (3.5)
 
-![white chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
+![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
 ![face close-up](floaty/floaty sona face.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
