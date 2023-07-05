@@ -212,19 +212,15 @@ male-ish but no antlers ~~because [noelle deltarune](https://deltarune.fandom.co
 glasses? collar? skirt? ~~thigh-highs?~~ (nah because they'd cover up the hoofsies)
 
 no proper canonical picture yet but have [a wip blender model](deer/deersona.blend) (main deviations: no ear fluff, no spots, fingers are thinner than i'd like them to be, beans are weird):
-
 ![anthro deer with paws and feral hooves, the yellow areas are around the jaw and around the legs (like pants), saturated yellow is for short hair that wraps around the back to join with neck fluff, the hands are somewhat paw-like, the nose and beans and hooves are red and shiny like lipstick, the tail is short and plump and yellow on the bottom](deer/blender_CNBAEX0BVs.png)
 
 and a [base](https://www.furaffinity.net/view/42146255/) by [mizusky](https://www.furaffinity.net/user/mizusky/):
-
 ![feral deer with the above traits minus glasses](deer/furaffinity base 42146255.png){:.copyrighted}
 
 and a [picrew](https://picrew.me/image_maker/104106) by [oatmeaio](https://linktr.ee/oatmeaio) (hooves instead of paws because pretty):
-
 ![all-pink anthro deer with glasses winking at the viewer](deer/picrew 104106.png){:.copyrighted}
 
 and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://instagram.com/treez0n/):
-
 ![this one has some countershading (white instead of yellow due to palette limitations), also red gloves and big tail](deer/picrew 1742063.png){:.copyrighted}
 
 # floaty
