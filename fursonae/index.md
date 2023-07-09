@@ -31,10 +31,10 @@ made for a shitposty collaborative comic thing, where the first action by someon
 ![fox-eared humanoid stickman waves and says "Hi"](ghost-fox/IMG_20180812_212917.png)
 ![same creature, now a ghost, saying "m" in very stretched comic sans](ghost-fox/IMG_20180813_094114.png)
 
-# hecko
+# fox
 2018-11-28
 
-**[gallery!](hecko/)**
+**[gallery!](fox/)**
 
 my main character, scruffy pure-white snoutless fox (tail size undefined)
 originally with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing and [sans](https://undertale.fandom.com/wiki/Sans)'s glowing blue eye but nowadays not really
@@ -44,16 +44,16 @@ started out like so:
 1. a long time ago i used to use images of [tails the fox](https://en.wikipedia.org/wiki/Tails_(character)) as profile pictures
 2. i wanted to have a funny sans version of him for my discord avatar and i stumbled upon a cursed mess that i'm not sure if i still have
 3. i added ralsei features to it (2018-11-28)
-	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](hecko/hecko pfp.png){:.copyrighted}
+	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](fox/fox pfp.png){:.copyrighted}
 4. electriclizardfren drew it for some reason (2019-09-15)
-	![full-body drawing of the above, very high quality, there are even little cat paws for hands](hecko/Untitled96_20190915093604_cropped.png){:.copyrighted style="width: 400px; max-width: 100%;"}
+	![full-body drawing of the above, very high quality, there are even little cat paws for hands](fox/Untitled96_20190915093604_cropped.png){:.copyrighted style="width: 400px; max-width: 100%;"}
 5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
-	![pixelated sprite of him sticking his tongue out and blushing](hecko/dpb.png)
+	![pixelated sprite of him sticking his tongue out and blushing](fox/dpb.png)
 6. now it's my fursona i guess
 
 also has a pony version
 
-![hecko as a pony made with pony.town](hecko/hecko pony sprite big.png){:.copyrighted}
+![the fox as a pony made with pony.town](fox/hecko pony sprite big.png){:.copyrighted}
 
 # wesley
 2018-12-26
