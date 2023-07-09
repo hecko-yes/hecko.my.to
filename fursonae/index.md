@@ -110,19 +110,17 @@ of specifically the [mlp](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendsh
 ## helping hoof
 2021-05-28
 
-yes the name is cringy but i couldn't think of a better one, i don't use that name often anyway
+yes the name is cringe but i couldn't think of a better one, i don't use the name often anyway
 
-white synthetic honse made of a marshmallow-like material with a grid outdent, a bit smaller than usual, wearing a collar
+white synthetic honse made of a marshmallow-like material with a grid pattern\*, optionally a bit smaller than usual, wearing a collar
 has both wings and horn because why not
-a possible lore is that it was a robot-esque thing (hence more it/its) made to serve and that the collar keeps it obedient, and/or when you tap the collar gem it flashes and listens for commands like a virtual assistant; another possible lore was that it says the collar does so but really it just likes to do stuff for people
+a possible lore is that it was a robot-esque thing (hence more it/its) made to serve and that the collar keeps it obedient, and/or when you tap the collar gem it flashes and listens for commands like a virtual assistant; another possible lore is that it says the collar does so but really it just likes to do stuff for people
 
-i have a 3d mockup but it was before i added hair so try to imagine a combination of the upcoming 2 pictures
-
-![](ponies/synth pony 3d maker assisted mockup.png){:.copyrighted}
+\*unfortunately i don't have a picture with both grid and hair so try to mentally put the first 2 images together
 ![](ponies/synth pony sprite big.png){:.copyrighted}
+![](ponies/synth pony 3d maker assisted mockup.png){:.copyrighted}
 
 here's another hairless pic of it in [classicube](https://classicube.net/)
-
 ![](ponies/ClassiCube_xxO6i7Z6me.png)
 
 ## bashful byte
@@ -239,6 +237,5 @@ also sorry for the thumbs being bad
 [.blend file](floaty/floaty sona.blend) (3.5)
 
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
-![face close-up](floaty/floaty sona face.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
