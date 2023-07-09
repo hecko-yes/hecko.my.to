@@ -91,6 +91,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [1984 by george orwell](https://george-orwell.org/1984/) | pd\* | *except* in the us where it's copyrighted until 2044 |
 | [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) |
 | [i wanna be the guy](https://kayin.moe/iwbtg/) | id | per [faq 2.4](https://kayin.moe/iwbtg/faq.html) |
+\ [friday night funkin'](https://ninja-muffin24.itch.io/funkin) | id | per readme: "Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game. Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO." |
 
 # non-meme freebies
 
