@@ -245,12 +245,13 @@ some applied more consistently than others
 | real name (as in not internet name) | legal name |
 | singlet (as in not [plural](https://morethanone.info)) | singular |
 
-## actual replacements
+## assorted replacements
 
 | word | replacement |
 | --: | :-- |
 | -one, -body | -pony |
 | butt | bum |
+| hdd | spinny drive |
 | on the \* hand | on the \* hoof |
 | pirate (as in to download paid media for free) | yar har, yarhar |
 | what the hell | [what the hay](https://www.youtube.com/watch?v=tA5IJi5yJC0) (sometimes) |
