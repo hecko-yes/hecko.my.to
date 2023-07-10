@@ -81,6 +81,14 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by | [also on commons](https://meta.wikimedia.org/wiki/File:Its-okay-to-not-like-things.webm) for easier downloading |
 | [me at the zoo](https://www.youtube.com/watch?v=jNQXAC9IVRw)| by\* | [commons](https://commons.wikimedia.org/wiki/File:Me_at_the_zoo.webm)  says it was once tagged as by but isn't anymore but the license is irrevocable |
 
+# games
+
+| name | license | notes |
+| :- | :- | :- |
+| [i wanna be the guy](https://kayin.moe/iwbtg/) | id | per [faq 2.4](https://kayin.moe/iwbtg/faq.html) |
+| [friday night funkin'](https://ninja-muffin24.itch.io/funkin) | id | per readme: "Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game. Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO." |
+| [touhou](https://touhou-project.news/) | id | [guidelines](https://touhou-project.news/guidelines_en/) |
+
 # other
 
 | name | license | notes |
@@ -90,8 +98,6 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [reimagine :the game: soundtrack](https://freemusicarchive.org/music/Peter_Gresser/Reimagine_The_Game) | 0 | related to the above because the game was made by nicky, though the music wasn't |
 | [1984 by george orwell](https://george-orwell.org/1984/) | pd\* | *except* in the us where it's copyrighted until 2044 |
 | [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) |
-| [i wanna be the guy](https://kayin.moe/iwbtg/) | id | per [faq 2.4](https://kayin.moe/iwbtg/faq.html) |
-\ [friday night funkin'](https://ninja-muffin24.itch.io/funkin) | id | per readme: "Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game. Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO." |
 
 # non-meme freebies
 
