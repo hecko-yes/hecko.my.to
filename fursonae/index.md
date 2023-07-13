@@ -21,7 +21,7 @@ general traits:
 - can pass out from too much cuteness (with a not very high threshold)
 - voice could be similar to [timber puppers's ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E) and [tyler scowcroft's ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA), or perhaps [wynton yang's ralsei](https://www.youtube.com/watch?v=6Vfc61BjhUQ) and [sibylline sounds' bookshop skunk](https://www.youtube.com/watch?v=osJmMstb7_E) [fetish cw for their other videos]
 - usually idealized toony bodies, as in no organs or bones or biological trappings like sweating or having to eat or sleep or being harmable
-- 5 fingers (if any) with opposable thumbs
+- preferably 5 fingers (if any) with opposable thumbs
 
 # ghost fox
 2018-08-12
