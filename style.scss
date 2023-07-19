@@ -139,7 +139,7 @@ a:hover, a:active {
 	text-decoration: underline;
 }
 
-a:not([href^="/"]):not([href^="#"]):not([href^="."]):after {
+a[href*=":"]:not(.plain-link):after {
 	content: "•";
 }
 

@@ -100,11 +100,11 @@ cc-by children's books
 
 <div id="sike-pona-box" markdown="0">
 	<div style="margin: 0; text-align: left; flex-grow: 1; flex-basis: 0;">
-		<a href="https://sike.pona.la/jan/jan Kita/prev.html">←&nbsp;prev</a>
+		<a href="https://sike.pona.la/jan/jan Kita/prev.html" class="plain-link">←&nbsp;prev</a>
 	</div>
 	<div id="sike-pona-cycler-wrapper">
 		<div id="sike-pona-cycler">
-			<a href="https://sike.pona.la/" style="line-height: 1.5;">
+			<a href="https://sike.pona.la/" style="line-height: 1.5;" class="plain-link">
 				<div style="margin: 0;">the circle of good</div>
 				<div style="margin: 0;">cool sphere</div>
 				<div style="margin: 0;">friendly ring</div>
@@ -115,7 +115,7 @@ cc-by children's books
 		</div>
 	</div>
 	<div style="margin: 0; text-align: right; flex-grow: 1; flex-basis: 0;">
-		<a href="https://sike.pona.la/jan/jan Kita/next.html">next&nbsp;→</a>
+		<a href="https://sike.pona.la/jan/jan Kita/next.html" class="plain-link">next&nbsp;→</a>
 	</div>
 </div>
 
