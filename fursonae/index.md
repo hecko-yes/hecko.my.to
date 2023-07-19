@@ -227,7 +227,7 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 2023-06-23 - 2023-07-04
 
 floaty is not its name, it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon)) (once i get around to rigging it)
-4 feet tall, probably no fluff just marshmallow squish
+~~4 feet tall~~ short-average human height, probably no fluff just marshmallow squish
 the yellow bits glow
 the hand beans stick out
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
@@ -235,6 +235,11 @@ despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v
 some attributes i'm still unsure of, e.g. whether it should have a tail, what the front symbol should be (heart feels too generic but idk any other fitting ones), whether i should make the feet have toes or just keep them as blobs, etc
 also sorry for the thumbs being bad
 [.blend file](floaty/floaty sona.blend) (3.5)
+
+potential changes i haven't applied to the reference yet:
+- sparkles in wings (and maybe eyes?)
+- headphones (in which case the ears move to the human position)
+- big holographic tail? maybe make wings holo too?
 
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
