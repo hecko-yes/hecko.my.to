@@ -80,6 +80,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | :- | :- | :- |
 | [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by | [also on commons](https://meta.wikimedia.org/wiki/File:Its-okay-to-not-like-things.webm) for easier downloading |
 | [me at the zoo](https://www.youtube.com/watch?v=jNQXAC9IVRw)| by\* | [commons](https://commons.wikimedia.org/wiki/File:Me_at_the_zoo.webm)  says it was once tagged as by but isn't anymore but the license is irrevocable |
+| [jocat](https://www.youtube.com/@JoCat) | by | [since 2021-04-08](https://www.youtube.com/watch?v=TOTB9naQfko); note that many of his videos contain copyrighted stuff |
 
 # games
 
