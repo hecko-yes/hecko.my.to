@@ -59,7 +59,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | ievan polkka | pd | not the vocaloid version mind you, just the lyrics and notes, and i'm not aware of any freely-licensed recording (except i guess [this by-sa thing](https://commons.wikimedia.org/wiki/File:Ievan_Polkka_short_parody.ogg)) so you might have to make it yourself |
 | [korobeiniki](https://commons.wikimedia.org/wiki/File:Korobeiniki.mid) | pd | also known as the tetris theme; the link is to a midi, [here's](https://commons.wikimedia.org/wiki/File:Korobeiniki.ogg) an mp3 rendering of it; [here's](https://opengameart.org/content/twister-tetris) a cc0 synth cover |
 
-# sfx
+# sounds
 
 | name | license | notes |
 | :- | :- | :- |
@@ -79,7 +79,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | name | license | notes |
 | :- | :- | :- |
 | [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by | [also on commons](https://meta.wikimedia.org/wiki/File:Its-okay-to-not-like-things.webm) for easier downloading |
-| [me at the zoo](https://www.youtube.com/watch?v=jNQXAC9IVRw)| by\* | [commons](https://commons.wikimedia.org/wiki/File:Me_at_the_zoo.webm)  says it was once tagged as by but isn't anymore but the license is irrevocable |
+| [me at the zoo](https://www.youtube.com/watch?v=jNQXAC9IVRw)| by\* | [commons](https://commons.wikimedia.org/wiki/File:Me_at_the_zoo.webm) says it was once tagged as by but isn't anymore but the license is irrevocable |
 | [jocat](https://www.youtube.com/@JoCat) | by | [since 2021-04-08](https://www.youtube.com/watch?v=TOTB9naQfko); note that many of his videos contain copyrighted stuff |
 
 # games
