@@ -321,6 +321,7 @@ some applied more consistently than others
 - :eyes: (👀)
 - :triumph: (😤)
 - :pleading_face: (🥺)
+- :pray: (🙏)
 - `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
 - `¯\_(ツ)_/¯` (famous shrug emoticon)
 - `>:` (angy like `>:(` but mouthless)
