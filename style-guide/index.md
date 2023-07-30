@@ -292,6 +292,7 @@ some applied more consistently than others
 - `a [few/couple] more for the road`
 - `you go girl`
 - `thoughts on` (instead of `do you wanna`)
+- [`cannot into`](https://www.polandballwiki.com/wiki/Poland_cannot_into_space)
 
 ## acronyms
 
