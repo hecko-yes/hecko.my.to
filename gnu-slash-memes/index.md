@@ -58,6 +58,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [mitchie m - freely tomorrow (feat. hatsune miku)](https://commons.wikimedia.org/wiki/File:Freely_Tomorrow.ogg) | by\* | technicality because the attribution marking was removed but cc-by is irrevocable |
 | ievan polkka | pd | not the vocaloid version mind you, just the lyrics and notes, and i'm not aware of any freely-licensed recording (except i guess [this by-sa thing](https://commons.wikimedia.org/wiki/File:Ievan_Polkka_short_parody.ogg)) so you might have to make it yourself |
 | [korobeiniki](https://commons.wikimedia.org/wiki/File:Korobeiniki.mid) | pd | also known as the tetris theme; the link is to a midi, [here's](https://commons.wikimedia.org/wiki/File:Korobeiniki.ogg) an mp3 rendering of it; [here's](https://opengameart.org/content/twister-tetris) a cc0 synth cover |
+| [king gizzard and the lizard wizard - polygondwanaland](https://commons.wikimedia.org/wiki/Category:Polygondwanaland) | 0? | "This album is FREE. Free as in, free. Free to download and if you wish, free to make copies. Make tapes, make CD’s, make records...We do not own this record. You do. Go forth, share, enjoy." |
 
 # sounds
 
