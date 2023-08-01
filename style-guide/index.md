@@ -188,6 +188,7 @@ some applied more consistently than others
 | thanks | thank, thancc, thanque |
 | tiny | tiney |
 | titty | [tity](https://knowyourmeme.com/photos/2203172-deltarune) |
+| tragedy | tradegy |
 | website | webbed sight |
 | who | whom |
 | woah | woag |
