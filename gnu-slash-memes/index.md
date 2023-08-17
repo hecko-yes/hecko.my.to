@@ -67,6 +67,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [bruh sound effect #1](https://freesound.org/people/Autellaem/sounds/534387/) | 0 | not the original but still good imo |
 | [various minecraft sounds](https://www.minecraft.net/en-us/attribution/sound) | 0/by | [here's](https://freesound.org/people/thecheeseman/sounds/44429/) the old hurt sound |
 | [dialup noise](https://freesound.org/people/Jlew/sounds/16475/) | by | (though personally i don't think the uploader has copyright on it so maybe pd?) |
+| [wilhelm scream](https://freesound.org/people/craigsmith/sounds/675810/) | pd |
 
 # speech
 
