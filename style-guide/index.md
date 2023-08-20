@@ -34,7 +34,7 @@ multiple commas (2 by default, can even be 1 sometimes) are used as [ellipses](h
 
 ## quotation marks
 
-my brain likes to interpret quotation marks as [scare quotes](https://en.wikipedia.org/wiki/Scare_quotes) even when they're not, so instead i tend to use backticks (`` ` ``), which due to [markdown](https://en.wikipedia.org/wiki/Markdown) makes the text look like code in places like reddit and discord and this website
+my brain likes to interpret quotation marks as [scare quotes](https://en.wikipedia.org/wiki/Scare_quotes) even when they're not, so instead i (used to) tend to use backticks (`` ` ``), which due to [markdown](https://en.wikipedia.org/wiki/Markdown) makes the text look like code in places like reddit and discord and this website
 this only applies sometimes, depending on rules that i'm not sure of yet
 when i intend to do scare quotes i often multiply them a bunch, e.g. `"""""dubious"""""`
 when discussing other languages (e.g. toki pona), i use backticks to quote that language and fall back to quotation marks for english, with angle quotes (`«»`) used for yet other languages
@@ -162,13 +162,14 @@ some applied more consistently than others
 | comfortable | comforble |
 | computer | compute, computational |
 | [conlang](https://en.wiktionary.org/wiki/conlang#English) | [clong](https://www.reddit.com/r/conlangscirclejerk/comments/tmg1eh/what_the_fuck_is_a_clong/), [conglang, conlangue](https://youtu.be/3aUx7ajQrys) |
-| damn (alone / "damn that's cool") | dayum |
-| damn ("the whole damn thing") | damb |
+| damn (adjective/adverb) | damb |
+| damn (interjection) | dayum |
 | delete | dete |
 | emoji | emoj, emojo, emojum |
 | gaming | game ing |
-| gi\* | ji\* (e.g. [`jithub`](https://github.com/), [`jimp`])(https://www.gimp.org/) |
+| gi\* (in software names, e.g. github, gimp) | ji\* |
 | god | dog |
+| good morning | goob [morbing](https://en.wikipedia.org/wiki/Morbius_(film)), goob borbibg |
 | gray | græy |
 | hecking | heckign |
 | hello | henlo |
@@ -182,8 +183,8 @@ some applied more consistently than others
 | non(-)binary | nonbiney, non(-)binanry (rarely) |
 | potato(es) | potat(s), potate(s), tater(s) |
 | pretty (as in cute) | prebby |
-| ram | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
-| sleep\* | eep\*
+| ram (as in computer) | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
+| sleep\* | [eep\*](https://knowyourmeme.com/memes/eepy) |
 | smh | smhead |
 | thanks | thank, thancc, thanque |
 | tiny | tiney |
