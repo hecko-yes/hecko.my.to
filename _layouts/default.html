@@ -8,17 +8,25 @@
 {%- capture root -%}{%- for i in crumbs -%}../{%- endfor -%}{%- endcapture -%}
 {%- assign color_name = page.color | default: "default" -%}
 {%- assign color = site.data.colors | where: "name", color_name | map: "hex" | default: color_name -%}
+{%- capture crumbs_title -%}
+	{%- for crumb in crumbs -%}
+		{%- if forloop.first -%}{%- continue -%}{%- endif -%}
+		{%- assign crumb_url = crumbs | slice: 0, forloop.index | join: "/" | append: "/" -%}
+		{%- assign crumb_fallback = crumb | replace: "-", " " -%}
+		{{- site.pages | where: "url", crumb_url | map: "title" | first | default: crumb_fallback | replace: '"', '&quot;' }} › {% endfor -%}
+	{{- title -}}
+{%- endcapture -%}
 <!doctype html>
 <html lang="en" prefix="og: https://ogp.me/ns#">
 	<head>
 		<meta charset="UTF-8">
-		<title>{{ title }} - {{ site.title }}</title>
+		<title>{{ crumbs_title }} - {{ site.title }}</title>
 		<link href="{{ root }}style.css" rel="stylesheet" type="text/css" media="all">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@hecko_yes">
 		<meta name="twitter:creator" content="@hecko_yes">
-		<meta property="og:title" content="{{ title | replace: '"', '&quot;' }}">
+		<meta property="og:title" content="{{ crumbs_title | replace: '"', '&quot;' }}">
 		<meta property="og:type" content="website">
 		<meta property="og:url" content="{{ page.url | absolute_url }}">
 		<meta property="og:site_name" content="{{ site.title | replace: '"', '&quot;' }}">
