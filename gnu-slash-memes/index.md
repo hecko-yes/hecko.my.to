@@ -97,6 +97,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | name | license | notes |
 | :- | :- | :- |
 | [scp wiki](https://scp-wiki.wikidot.com/) | by-sa | with the notable exception of scp-173's former visage (nicknamed `peanut`) |
+| [scratch](https://scratch.mit.edu/) | by-sa | 2.0 per [terms of service](https://scratch.mit.edu/terms_of_use), though watch out for third-party content that remains copyrighted |
 | [the works of nicky case](https://ncase.me/) | 0 | as a furry i'm biased toward [adventures with anxiety](https://ncase.me/anxiety/) and [femboy hooters](https://www.youtube.com/watch?v=J9La5ErKGss) (nsfw) |
 | [reimagine :the game: soundtrack](https://freemusicarchive.org/music/Peter_Gresser/Reimagine_The_Game) | 0 | related to the above because the game was made by nicky, though the music wasn't |
 | [1984 by george orwell](https://george-orwell.org/1984/) | pd\* | *except* in the us where it's copyrighted until 2044 |
