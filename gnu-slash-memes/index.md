@@ -74,7 +74,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | name | license | notes |
 | :- | :- | :- |
 | [the missile knows where it is at all times](https://www.youtube.com/watch?v=bZe5J8SVCYQ) | pd | knowyourmeme [says](https://knowyourmeme.com/memes/the-missile-knows-where-it-is) it's from a us air force training video, so assuming it's a government work it'd be public-domain |
-| [text2speech.org](https://www.text2speech.org/) | 0? | `Female US` is the voice of remote from [bfb](https://www.youtube.com/@BFDI), `Male US` and `Male US (Scottish accent)` were used by e.g. [timotainment](https://www.youtube.com/@Timotainment); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
+| [text2speech.org](https://www.text2speech.org/) | 0? | `Female US` is the voice of remote from [bfdi:bfb](https://www.youtube.com/@BFDI), `Male US` and `Male US (Scottish accent)` were used by e.g. [timotainment](https://www.youtube.com/@Timotainment) (the latter is now also the voice of tv in bfdi:tpot); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
 
 # videos
 
@@ -82,7 +82,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | :- | :- | :- |
 | [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by | [also on commons](https://meta.wikimedia.org/wiki/File:Its-okay-to-not-like-things.webm) for easier downloading |
 | [me at the zoo](https://www.youtube.com/watch?v=jNQXAC9IVRw)| by\* | [commons](https://commons.wikimedia.org/wiki/File:Me_at_the_zoo.webm) says it was once tagged as by but isn't anymore but the license is irrevocable |
-| [jocat](https://www.youtube.com/@JoCat) | by | [since 2021-04-08](https://www.youtube.com/watch?v=TOTB9naQfko); note that many of his videos contain copyrighted stuff |
+| [jocat](https://www.youtube.com/@JoCat) | by\* | [since 2021-04-08](https://www.youtube.com/watch?v=TOTB9naQfko); note that many of his videos contain copyrighted stuff; unsure if intentional |
 
 # games
 
