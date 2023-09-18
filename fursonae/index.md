@@ -240,6 +240,7 @@ potential changes i haven't applied to the reference yet:
 - sparkles in wings (and maybe eyes?)
 - headphones (in which case the ears move to the human position)
 - big holographic tail? maybe make wings holo too?
+- attach the wings to the body, i find it hard to depict them as floating from most angles
 
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
