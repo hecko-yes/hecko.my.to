@@ -77,7 +77,7 @@ vaguely tried learning german, russian, esperanto, and spanish; gave up each tim
 ## mindblock
 
 sometimes my brain decides it Can't do something and refuses to try, even when there are consequences
-extremely specific instructions help i think, but people tend to be unwilling to provide such
+extremely specific step-by-step instructions might help with that (especially with explanations as to why they are what they are), but people tend to be unwilling to provide such
 
 ## emotion issues
 
@@ -91,19 +91,21 @@ it's probably depression, or perhaps dissociation
 
 ## [arithmomania](https://en.wikipedia.org/wiki/Arithmomania)
 
-i wouldn't call it a *mania*, more of a habit than anything
+or well not really *mania*, though it does happen often
 counting the lines in a long post for example, scrolling by eights or tens
 if i see something that has numbers i'll often add up the digits
 when i do something directional (e.g. blink with my left eye) i might feel the need to balance it out using the [thue-morse sequence](https://en.wikipedia.org/wiki/Thue%E2%80%93Morse_sequence) (lrrl rllr rllr lrrl, repeat fractally)
-for lines or short phrases i might try to fit them into a grid and take note of the non-space characters, e.g.: 
-1.	`this is odd` splits into `this| is |odd ` which has uneven space distribution so it's displeasing
-2.	thus i'll add a space in front and get ` thi|s is| odd`, which is better but has spaces at the start and repeats the blank-char-char-char arrangement twice
-3.	after some shuffling i might end up with `is this odd` which splits into `is t|his |odd `, still repeats so i'd prefer something like `i am| mon|key ` or `a co|ol b|ird `
+
+for lines or short phrases i might try to fit them into a grid and take note of the non-space characters, e.g.:
+1.	"this is odd" splits into `this|.is.|odd.` which has uneven space distribution so it's displeasing
+2.	thus i'll add a space in front and get `.thi|s.is|.odd`, which is better but has spaces at the start and repeats the blank-char-char-char arrangement twice
+3.	after some shuffling i might end up with "is this odd" which splits into `is.t|his.|odd.`, that still has a repeat arrangement though so i'd prefer something like `i.am|.mon|key.` or `a.co|ol.b|ird.`
 
 ## mimicry
 
 i can and will quote memes verbatim, whether textually or verbally
 and get mildly annoyed when someone else subtly misquotes them (don't worry y'all it's not actually wrong i'm just picky)
+less verbatim·ly i sometimes say things not because i mean them but because they sound right ([gpt](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) moment) 
 
 # interests
 
@@ -117,6 +119,10 @@ mostly small bespoke python scripts (i really like [list comprehensions](https:/
 a common part of [youtube poops](https://en.wikipedia.org/wiki/YouTube_poop), and my personal favorite
 iunno i just like the texture of chopped-up audio, and while ai voice cloning is cool (and i have done it) it just hits differently
 even better when it's autotuned into a ytpmv
+
+## language restrictions
+
+[avoiding the letter `e`](https://reddit.com/r/AVoid5), [speaking using only a hundred-something words](https://en.wikipedia.org/wiki/Toki_Pona), 
 
 ## drawing?
 
@@ -132,14 +138,17 @@ what my touch-starved ass thinks would bring it comfort
 
 squeeze me, lay on me, bring some friends over, [compress me into a zip file](https://twitter.com/mgracereyn/status/1506816355416227842)
 mostly just lay on me though, especially if you're a large quadruped
+
 apparently this is an autism thing, so much so they [invented an autist squisher](https://en.wikipedia.org/wiki/Hug_machine)
-in fantasy scenarios it can and will get more extreme, [here's a bit of a weird example](https://www.furaffinity.net/view/47408337/) **(note that the artist's other images are weirder)**
+though also when i was like 10 my family had a thing where we'd lay on each other and call it a sandwich, maybe that's what made me like it?
+
+in fantasy scenarios it can and will get more extreme, [here's a bit of a weird example](https://www.furaffinity.net/view/47408337/) **(note that the artist's other images are kinda objectionable)**
 
 ## squishiness
 
 in contrast to fluffiness, which i do enjoy but am very picky about (plus i just tend to prefer this)
 i just wanna smother my face in a big marshmallowy dragon belly (or huge squishy tail) is that weird (yes)
-that or push down on a furry's pawpads or a pony's hoof
+that or fidget with a toony anthro's pawpads or a pony's hoof
 you'll notice most of my [fursonæ](/fursonae/) have no hard bits anywhere (sometimes not even bones), this is why
 
 ## cold water
