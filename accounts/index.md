@@ -27,11 +27,12 @@ the hecko is elsewhere on the internet no way
 
 ## hubs
 
-- steam - [sobsz](https://steamcommunity.com/id/sobsz){:rel="me"}
+- itch.io - [hecko-yes](https://hecko-yes.itch.io/){:rel="me"}
+- steam - [hecko_yes](https://steamcommunity.com/id/hecko_yes){:rel="me"}
 
 ## individual games
 
-- interference - [hecko](https://www.playinterference.com/players/hecko){:rel="me"}
+- interference - [hecko](https://www.playinterference.com/players/hecko){:rel="me"} (pretty active)
 - lichess - [Sobsz](https://lichess.org/@/Sobsz){:rel="me"} (no good at it though)
 - osu - [Sobsz](https://osu.ppy.sh/users/7557974){:rel="me"}
 
@@ -46,5 +47,6 @@ the hecko is elsewhere on the internet no way
 - neocities - [sobsz](https://sobsz.neocities.org/){:rel="me"} (superseded by this very website)
 - stackoverflow - [hecko (7142032)](https://stackoverflow.com/users/7142032/hecko){:rel="me"}
 - tatoeba - [hecko](https://tatoeba.org/en/user/profile/hecko){:rel="me"}
+- twitch - [hecko_yes](https://www.twitch.tv/hecko_yes){:rel="me"}
 - wikimedia - [Sobsz](https://meta.wikimedia.org/wiki/User:Sobsz){:rel="me"}
 - youtube - [hecko-yes](https://www.youtube.com/channel/UCfwoJszjdfe2p6YY0FpXFYA){:rel="me"}
