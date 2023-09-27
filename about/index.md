@@ -76,8 +76,15 @@ vaguely tried learning german, russian, esperanto, and spanish; gave up each tim
 
 ## mindblock
 
-sometimes my brain decides it Can't do something and refuses to try, even when there are consequences
+sometimes my brain decides it Can't do something and refuses to try, even when there are consequences to not doing it
 extremely specific step-by-step instructions might help with that (especially with explanations as to why they are what they are), but people tend to be unwilling to provide such
+though even then i'll probably think i'm doing it wrong oops
+
+things i want to get into but haven't because of (at least) the above:
+- social deduction games
+- writing
+- tabletop rpg·s
+- [creaturing](https://cohost.org/hecko/post/2089141-notes-on-quest-for)
 
 ## emotion issues
 
@@ -105,7 +112,13 @@ for lines or short phrases i might try to fit them into a grid and take note of 
 
 i can and will quote memes verbatim, whether textually or verbally
 and get mildly annoyed when someone else subtly misquotes them (don't worry y'all it's not actually wrong i'm just picky)
-less verbatim·ly i sometimes say things not because i mean them but because they sound right ([gpt](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) moment) 
+less verbatim·ly i sometimes say things not because i mean them but because they sound right ([gpt](https://en.wikipedia.org/wiki/Generative_pre-trained_transformer) moment)
+
+## grinding
+
+for some reason i just like doing repetitive things with incremental progress, or at least the idea thereof!
+examples include: [distributed proofreading](https://www.pgdp.net/), [mozilla common voice](https://commonvoice.mozilla.org/), digging out a chunk in minecraft
+heck i'm the type of person to play [nationstates](https://www.nationstates.net/) purely for the training cards
 
 # interests
 
@@ -142,14 +155,25 @@ mostly just lay on me though, especially if you're a large quadruped
 apparently this is an autism thing, so much so they [invented an autist squisher](https://en.wikipedia.org/wiki/Hug_machine)
 though also when i was like 10 my family had a thing where we'd lay on each other and call it a sandwich, maybe that's what made me like it?
 
-in fantasy scenarios it can and will get more extreme, [here's a bit of a weird example](https://www.furaffinity.net/view/47408337/) **(note that the artist's other images are kinda objectionable)**
+in imaginary scenarios it can and will get more extreme
+an oddly persistent and specific fantasy is to be squeezed between a pair of buff 8-foot-tall werewolves (platonically), hugging each other super tightly
+another is being physics-disregardingly compressed into tiny sizes, which uhhh:
+<details>
+<summary markdown="span">links to image examples **[weird and maybe nsfw, viewer beware]**</summary>
+- [cube](https://www.furaffinity.net/view/50770781/)
+- [house](https://www.furaffinity.net/view/47408337/)
+- [plush suit](https://www.furaffinity.net/view/52096734/)
+	- somewhat relatedly, [hammerspace](https://www.furaffinity.net/view/31941477/) (requires furaffinity account)
+</details>
 
 ## squishiness
 
 in contrast to fluffiness, which i do enjoy but am very picky about (plus i just tend to prefer this)
 i just wanna smother my face in a big marshmallowy dragon belly (or huge squishy tail) is that weird (yes)
 that or fidget with a toony anthro's pawpads or a pony's hoof
+
 you'll notice most of my [fursonæ](/fursonae/) have no hard bits anywhere (sometimes not even bones), this is why
+i also tend to assume all drawn creatures are squishy unless there's evidence otherwise (and sometimes [in spite of](https://scifi.stackexchange.com/questions/122744/do-my-little-pony-friendship-is-magic-ponies-have-coats))
 
 ## cold water
 

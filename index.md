@@ -6,18 +6,18 @@ excerpt: "omg hiii,,,"
 
 this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), `.hecko` on discord, <a rel="me" href="https://fluffcord.social/@hecko">@fluffcord.social</a> on fediverse)
 
-list of pages that i plan to make:
-- fancier home page
-- (currently not very) extensive [about me](/about/)
+list of pages:
+- home page (which i want to make fancier eventually)
+- [about me](/about/)
 	- favorite things (maybe favorite oc traits)
 - [accounts](/accounts/)
 - [personal style guide](/style-guide/)
 - [list of my fursonæ](/fursonae/)
 - [list of creative commons memes](/gnu-slash-memes/)
-- rants folder
+- rants
 	- existentialism
-	- gender?
-	- [hecko cannot into art](/hecko-cannot-into-art/) (very venty)
+	- gender? [species?](https://cohost.org/hecko/post/2089141-notes-on-quest-for)
+	- [hecko cannot into art](/hecko-cannot-into-art/) (very venty and outdated, i'm actually kinda happy with my drawings now)
 - [toki pona things](/toki-pona/)
 - [about my cc0 licensing](/cc0/)
 
