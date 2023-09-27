@@ -11,6 +11,8 @@ it also uses [a humorous number system](https://sona.pona.la/wiki/nasin_nanpa_al
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 
+see also [jan witami's short video take on it](https://www.youtube.com/watch?v=eDYH-aFpkW8)
+
 # fixed version
 
 nanpa je ka
