@@ -86,6 +86,11 @@ things i want to get into but haven't because of (at least) the above:
 - tabletop rpg·s
 - [creaturing](https://cohost.org/hecko/post/2089141-notes-on-quest-for)
 
+## self-strictness
+
+i sometimes give myself standards that i don't expect anyone else to follow (vaguely like [postel's law](https://en.wikipedia.org/wiki/Robustness_principle))
+or is it just that i'm a pushover
+
 ## emotion issues
 
 i don't think i feel much? at the very least i know i can feel:
