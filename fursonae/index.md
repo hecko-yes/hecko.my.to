@@ -240,6 +240,7 @@ potential changes i haven't applied to the reference yet:
 - sparkles in wings (and maybe eyes?)
 - headphones (in which case the ears move to the human position)
 - big tail? holographic? maybe make wings holo too?
+- more wing-shaped wings
 - attach the wings to the body, i find it hard to depict them as floating from most angles
 - maybe even a mouth?
 
