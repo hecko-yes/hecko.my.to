@@ -253,6 +253,7 @@ some applied more consistently than others
 | --: | :-- |
 | -one, -body | -pony |
 | butt | bum |
+| criterion | criterium (extrapolating from `criteria`, feels intuitive enough that i didn't realize it wasn't the canonical form) |
 | hdd | spinny drive |
 | on the \* hand | on the \* hoof |
 | pirate (as in to download paid media for free) | yar har, yarhar |
