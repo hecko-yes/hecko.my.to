@@ -12,7 +12,7 @@ the hecko is elsewhere on the internet no way
 
 ## checked actively
 
-- discord - .hecko (note the period)
+- discord - `.hecko` (note the period)
 - email - hecko period yes swirly g mail period commercial
 - matrix - [sobsz:matrix.org](https://matrix.to/#/@sobsz:matrix.org){:rel="me"}
 - reddit - [Sobsz](https://www.reddit.com/user/Sobsz){:rel="me"}
@@ -28,6 +28,7 @@ the hecko is elsewhere on the internet no way
 ## hubs
 
 - itch.io - [hecko-yes](https://hecko-yes.itch.io/){:rel="me"}
+- roblox - [Sobsz](https://www.roblox.com/users/124271832/profile){:rel="me"}
 - steam - [hecko_yes](https://steamcommunity.com/id/hecko_yes){:rel="me"}
 
 ## individual games
