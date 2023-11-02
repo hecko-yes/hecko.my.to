@@ -248,6 +248,6 @@ potential changes i haven't applied to the reference yet:
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
 
-art by [@TheMenagerie@cohost.org](https://cohost.org/TheMenagerie):
+art by [@The-Menagerie@cohost.org](https://cohost.org/The-Menagerie):
 
-![floaty doing the mrbeast rap battle pose, looking at you and showing off its beans](floaty/floaty_beast by the menagerie.png)
+![floaty doing the mrbeast rap battle pose (looking at you and showing off its beans kinda)](floaty/floaty_beast by the menagerie.png)
