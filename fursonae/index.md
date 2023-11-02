@@ -247,3 +247,7 @@ potential changes i haven't applied to the reference yet:
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
+
+art by [@TheMenagerie@cohost.org](https://cohost.org/TheMenagerie):
+
+![floaty doing the mrbeast rap battle pose, looking at you and showing off its beans](floaty/floaty_beast by the menagerie.png)
