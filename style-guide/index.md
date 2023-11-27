@@ -34,20 +34,20 @@ multiple commas (2 by default, can even be 1 sometimes) are used as [ellipses](h
 
 ## quotation marks
 
-my brain likes to interpret quotation marks as [scare quotes](https://en.wikipedia.org/wiki/Scare_quotes) even when they're not, so instead i (used to) tend to use backticks (`` ` ``), which due to [markdown](https://en.wikipedia.org/wiki/Markdown) makes the text look like code in places like reddit and discord and this website
-this only applies sometimes, depending on rules that i'm not sure of yet
+my brain likes to interpret quotation marks as [scare quotes](https://en.wikipedia.org/wiki/Scare_quotes) even when they're not, so instead i used to tend to use backticks (`` ` ``), which due to [markdown](https://en.wikipedia.org/wiki/Markdown) makes the text look like code in places like reddit and discord and this website
+this doesn't really happen anymore but i'll keep it on this page because why not
 when i intend to do scare quotes i often multiply them a bunch, e.g. `"""""dubious"""""`
-when discussing other languages (e.g. toki pona), i use backticks to quote that language and fall back to quotation marks for english, with angle quotes (`«»`) used for yet other languages
+when discussing other languages (e.g. toki pona), i use backticks to quote that language and quotation marks for english, with angle quotes (`«»`) used for tertiary languages
 
-when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look kinda ugly, e.g. `They said "Let's go.".`)
+when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look a bit weird, e.g. `They said "Let's go.".`)
 
 ## apostrophe
 
-very important, almost never omitted, unlike some other chatteurs
+very important, almost never omitted (unlike most other lowercase users)
 
 ## asterisk
 
-the usual usage is for rp, a la `*nuzzles u*`, which usually turns into italics
+the usual usage is for [roleplay](#in-roleplay), a la `*nuzzles u*`, which usually turns into italics
 when using it for corrections i do `*you're` instead of the `you're*` that many seem to do, because the latter implies that there's a footnote attached to *it* rather than it *being* the footnote
 
 ## slash
@@ -88,6 +88,13 @@ a trademark sign can mark that a given word/phrase has a,, special meaning i gue
 on pc i have [wincompose](http://wincompose.info/), on android i have gboard and emoji
 most common is `↑` which i use to refer to the previous message (where others use `^`)
 i like sometimes replacing directions like `top right` with the corresponding arrows (`↗`)
+
+## in roleplay
+
+- *italics* (or \*asterisks\* if no markdown) for actions and emphasis ()
+- (parentheses) for in-character asides
+- [square brackets] for thoughts/telepathy
+- {curly braces} for out-of-character
 
 # grammar
 
