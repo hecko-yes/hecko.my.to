@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/sobsz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hecko.my.to
+  * I am sobsz (https://keybase.io/sobsz) on keybase.
+  * I have a public key with fingerprint 8729 D437 E89E D50D 7679  77C0 65B8 13CD 7D0A EC55
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012095ba0d732d0d0a837a67f573e7ab6abb63f7aa82d10f7d93dcba61bbe96be1a50a",
+      "fingerprint": "8729d437e89ed50d767977c065b813cd7d0aec55",
+      "host": "keybase.io",
+      "key_id": "65b813cd7d0aec55",
+      "kid": "01015c73106b04756d625793af5e9d502601b970fd5a009ede19365407146d2d9dcb0a",
+      "uid": "65297d1f4e384f419d87ddb80aefdb19",
+      "username": "sobsz"
+    },
+    "service": {
+      "hostname": "hecko.my.to",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1702823184,
+  "expire_in": 157680000,
+  "prev": "095646569c38432b3f39dcb37de90665ccc830a28e1eb599d45e3126c8c0e841",
+  "seqno": 58,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ/UFRVFN4VEFhiQIFiqhF8WqQi3vf7PQonxkFQokaFQGTa3nv3vt0H
+sm/dXRYXI3TXEflRmZBQDo1jATPL6DQ1GWMogeiU5CpUzCA6TlFm4A9GJsDA6D0G
+/+v+c+ee853zfd+5py8yyGAyos6YK5Wmu3nG/p7GMgOqConeh4kq9GCp+7AStHCh
+3RA5XeYSBWKpGMAJwNOiACBLEhBAIHAkKzCsTLMkYgWREUSRIWVWEDgC4kBmIU9C
+SRQYXBQRz4gIF2ggYMmYrNgsyGF3KDaX1pZjCR5SJIs4HkFaa86wPMtKgKFFDicl
+yGpESKJprdCqOvUKTZwoOFGKomox7WFekPc/+Ce6AU5LLIkDRgQUSzOQIWiWJwWZ
+RrzGSDAAF3kWyJAWANBEIJwnGZoCLE4xkIC8ZmJBd9kiD8GzEJcpRHKUTOE85FgI
+RU5jlaGI8zrQiRw2oRRpaKcqOiuwymRMC7kVCelT1W0spq1IKlFTSj0pLt2L3aG6
+VEndrSdcLrszVS90eew6shyJ5sUeZlGxQW2GWoUbOZyKasNScQ0puRS9Kc4CgiNI
+nKOSMbTXrjiQWdERNMtwQDs6D3Lrg+FphmJohpc0JyQhkjKpeyVZiHjAMLQkSRwJ
+BIJDOBJpXvslGpE4wUicBBBH4Zjuao9NxVJpTtMpWHS/isUmuMocCKvs7SkKNhhN
+hqUhS/TlMpjCo5+s3Lf+aIMP5uCDxRnrhkI/HN6882aTf8K9rNOzNP10Q5v7hHL2
+wMVNFyPz4g525yTF7j+BK3Ftcf4qa8WqK9cLsi2F03/fT2jtfidg/+rLDxrfVx+O
+5M3Uj8/dDZCzmz0r7t1S3y463jfy1utJ4x3VGa+EHarzVKW3enO3FJfXD21NOzsT
+f87XYmyeatpRm5hwMDz62NjpaxvWj5gf/LOtoHpDQoE84N873Xscxh0Nnz91xL/j
+B5g/OvlzWte5z3Krbodbix4H/emYqnkjP6NsbMWbGTkXfEsOcCHLoptrP0+TezLL
+gyMKr94YeXXwYd+pVgUk1D/qjwfe5YEKS0eoPD8XNhDfPhy0qYFcGb8zmy53rJ61
+/kSVh44/deejmHjfaNMXgX9rY9fWjLeYvPaowJ4zA6u6jO8NfbO+ayi8JfiS7zsm
+f3plYV1DZOytT7YPcd68rGe3j5TOTVNMe++MKVfcWLfrUP2j/XL6zO9Jn1q+Pmn/
+Mcbb7FizLTiLsn6/8fztQcPkczPtGcb5gcnqrF/6s450jAoPGrj5sNBjdWM9V4sj
+gtf+MVsz8fRrSV2/3Zs88xIZkXPdMbkuYeJdd1Lar1Nr/L6KROPjTA5tSYzJfaHa
+nu253Fk2P/hXIPuwK2+5sXErVn+++MWP27yh1KWozOmukzk3o260xj1fG5tbXWC9
+031t+OX7l0ufubDrP5PpuxM=
+=6fze
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sobsz
+
+==================================================================
