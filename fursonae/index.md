@@ -224,17 +224,12 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 ![this one has some countershading (white instead of yellow due to palette limitations), also red gloves and big tail](deer/picrew 1742063.png){:.copyrighted}
 
 # floaty
-2023-06-23 - 2023-07-04
+2023-06-23 - 2023-07-04, main as of 2024-01-07
 
-floaty is not its name, it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon)) (once i get around to rigging it)
-~~4 feet tall~~ short-average human height, probably no fluff just marshmallow squish
-the yellow bits glow
-the hand beans stick out
+~~floaty is not its name~~ (it is its name now), it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
+4 feet tall, probably no fluff just marshmallow squish
+the yellow bits glow, the hand beans stick out quite a bit
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
-
-some attributes i'm still unsure of, e.g. whether it should have a tail, what the front symbol should be (heart feels too generic but idk any other fitting ones), whether i should make the feet have toes or just keep them as blobs, etc
-also sorry for the thumbs being bad
-[.blend file](floaty/floaty sona.blend) (3.5)
 
 potential changes i haven't applied to the reference yet:
 - sparkles in wings (and maybe eyes?)
@@ -244,10 +239,16 @@ potential changes i haven't applied to the reference yet:
 - attach the wings to the body, i find it hard to depict them as floating from most angles
 - maybe even a mouth?
 
+[.blend file](floaty/floaty sona.blend) (3.5)
+
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
 
+now as a [public vrchat avatar!](https://vrchat.com/home/avatar/avtr_2edfaf3f-90ee-4b39-bf69-7e326042dbf5) ([source files](https://github.com/Sobsz/floaty))
+
+![t-posing in front of a background](floaty/floaty vrchat thumbnail.png)
+
 art by [@The-Menagerie@cohost.org](https://cohost.org/The-Menagerie):
 
-![floaty doing the mrbeast rap battle pose (looking at you and showing off its beans kinda)](floaty/floaty_beast by the menagerie.png)
+![floaty doing the mrbeast rap battle pose (looking at you and showing off its beans kinda)](floaty/floaty_beast by the menagerie.png){:.copyrighted}
