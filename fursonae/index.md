@@ -117,8 +117,8 @@ has both wings and horn because why not
 a possible lore is that it was a robot-esque thing (hence more it/its) made to serve and that the collar keeps it obedient, and/or when you tap the collar gem it flashes and listens for commands like a virtual assistant; another possible lore is that it says the collar does so but really it just likes to do stuff for people
 
 \*unfortunately i don't have a picture with both grid and hair so try to mentally put the first 2 images together
-![](ponies/synth pony sprite big.png){:.copyrighted}
-![](ponies/synth pony 3d maker assisted mockup.png){:.copyrighted}
+![](ponies/helping hoof sprite big.png){:.copyrighted}
+![](ponies/helping hoof 3d maker assisted mockup.png){:.copyrighted}
 
 here's another hairless pic of it in [classicube](https://classicube.net/)
 ![](ponies/ClassiCube_xxO6i7Z6me.png)
