@@ -28,8 +28,8 @@ a quick rundown of how the license column works:
 very lacking as of current; if you have any suggestions then contact is appreciated
 
 **see also:**
-- [the `internet memes` category on wikimedia commons](https://commons.wikimedia.org/wiki/Category:Internet_memes)
-- some works on [newgrounds](https://www.newgrounds.com/) and a few on [deviantart](https://www.deviantart.com/) (no way to search by license afaik)
+- [the "Internet memes" category on wikimedia commons](https://commons.wikimedia.org/wiki/Category:Internet_memes)
+- some works on [newgrounds](https://www.newgrounds.com/) (license search only on music) and a few on [deviantart](https://www.deviantart.com/) (no reliable license search at all afaik)
 
 # images
 
@@ -44,20 +44,22 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [it ain't much but it's honest work](https://commons.wikimedia.org/wiki/File:Farmer_meme_with_apostrophe.jpg) | 0 | us government work; [captionless version](https://commons.wikimedia.org/wiki/File:Ohio_farmer_David_Brandt.jpg) |
 | [xkcd](https://xkcd.com/) | by-nc | "there's an xkcd for everything", at least in terms of hard sciences; the categories in [explainxkcd](https://www.explainxkcd.com/) might be of use when searching; [the "citation needed" comic](https://commons.wikimedia.org/wiki/File:Webcomic_xkcd_-_Wikipedian_protester.png) and [a couple others](https://commons.wikimedia.org/wiki/Category:Individual_xkcd_comics) are also available as by or by-sa |
 | [celeste box art](https://commons.wikimedia.org/wiki/File:Celeste_box_art_full.png) | by-sa | cutouts and a few extras [here](https://commons.wikimedia.org/wiki/Category:Celeste_(video_game)) |
+| [illuminati eye (eye of providence)](https://commons.wikimedia.org/wiki/File:Illuminati_triangle_eye.png) | pd | it's on united states dollars; the popular version was either vectorized or had a threshold filter applied to it |
 
 # music
 
 | name | license | notes |
 | :- | :- | :- |
 | [music by patricia taxxon](https://patriciataxxon.bandcamp.com/) | by-sa | best known for [sd_bbb](https://patriciataxxon.bandcamp.com/track/sd-bbb) aka [EEEAAAOOO](https://youtu.be/v1K4EAXe2oo) (technically the video must be by-sa too but it's not explicitly stated to be such so eh); you might wanna watch out for samples from copyrighted music (sometimes noted in the lyrics) |
-| [music by kevin macleod](https://incompetech.com/music/royalty-free/music.html) | by | there used to be a way to see the most popular songs but it seems to be gone now; [`carefree`](https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037) is the infamous royalty-free ukulele song |
-| [chocolate rain](https://www.youtube.com/watch?v=EwTZ2xpQwpA) | by-nc-nd |
-| [lud and schlatt's musical emporium](https://www.youtube.com/@ludandschlattsmusicalempor6746) | by | of most interest are the [animal crossing](https://www.youtube.com/watch?v=44MCworZf78) and [wii shop channel](https://www.youtube.com/watch?v=Y-6Plfn1yHg&t=21s) soundalikes |
+| [music by kevin macleod](https://incompetech.com/music/royalty-free/music.html) | by | there used to be a way to see the most popular songs but it seems to be gone now; "[carefree](https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037)" is the infamous royalty-free ukulele song |
+| [music by tom lehrer](https://tomlehrersongs.com/) | 0 | known for e.g. "New Math" |
+| [tay zonday - chocolate rain](https://www.youtube.com/watch?v=EwTZ2xpQwpA) | by-nc-nd |
+| [lud and schlatt's musical emporium](https://www.youtube.com/@ludandschlattsmusicalempor6746) | by | of most interest are the [animal crossing](https://www.youtube.com/watch?v=44MCworZf78) and [wii shop channel](https://www.youtube.com/watch?v=Y-6Plfn1yHg) soundalikes |
 | [little women (1933) theme song](https://www.youtube.com/watch?v=dLaiV5QoRtI) | pd | famously remixed in the [opening cutscene of hotel mario (1994)](https://www.youtube.com/watch?v=jra4ZxGA-ww) |
-| [undertale shop theme soundalike](https://opengameart.org/content/its-not-undertale) | 0\* | it might be that the samples are copyrighted but if toby fox could get away with yoinking them from the internet you probably can too |
+| [undertale shop theme soundalike](https://opengameart.org/content/its-not-undertale) | 0\* | it might be that the samples are copyrighted, but if toby fox could get away with yoinking them from the internet then you probably can too |
 | [mitchie m - freely tomorrow (feat. hatsune miku)](https://commons.wikimedia.org/wiki/File:Freely_Tomorrow.ogg) | by\* | technicality because the attribution marking was removed but cc-by is irrevocable |
 | ievan polkka | pd | not the vocaloid version mind you, just the lyrics and notes, and i'm not aware of any freely-licensed recording (except i guess [this by-sa thing](https://commons.wikimedia.org/wiki/File:Ievan_Polkka_short_parody.ogg)) so you might have to make it yourself |
-| [korobeiniki](https://commons.wikimedia.org/wiki/File:Korobeiniki.mid) | pd | also known as the tetris theme; the link is to a midi, [here's](https://commons.wikimedia.org/wiki/File:Korobeiniki.ogg) an mp3 rendering of it; [here's](https://opengameart.org/content/twister-tetris) a cc0 synth cover |
+| [korobeiniki](https://commons.wikimedia.org/wiki/File:Korobeiniki.mid) | pd\* | also known as the tetris theme; the link is to a midi, [here's](https://commons.wikimedia.org/wiki/File:Korobeiniki.ogg) an mp3 rendering of it; [here's](https://opengameart.org/content/twister-tetris) a cc0 synth cover; the melody is [trademarked](https://tsdr.uspto.gov/#caseNumber=77037539&caseType=SERIAL_NO&searchType=statusSearch) so you'll have to make it clear you're not affiliated with tetris holding llc |
 | [king gizzard and the lizard wizard - polygondwanaland](https://commons.wikimedia.org/wiki/Category:Polygondwanaland) | 0? | "This album is FREE. Free as in, free. Free to download and if you wish, free to make copies. Make tapes, make CD’s, make records...We do not own this record. You do. Go forth, share, enjoy." |
 
 # sounds
@@ -74,7 +76,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | name | license | notes |
 | :- | :- | :- |
 | [the missile knows where it is at all times](https://www.youtube.com/watch?v=bZe5J8SVCYQ) | pd | knowyourmeme [says](https://knowyourmeme.com/memes/the-missile-knows-where-it-is) it's from a us air force training video, so assuming it's a government work it'd be public-domain |
-| [text2speech.org](https://www.text2speech.org/) | 0? | `Female US` is the voice of remote from [bfdi:bfb](https://www.youtube.com/@BFDI), `Male US` and `Male US (Scottish accent)` were used by e.g. [timotainment](https://www.youtube.com/@Timotainment) (the latter is now also the voice of tv in bfdi:tpot); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
+| [text2speech.org](https://www.text2speech.org/) | 0? | "Female US" is the voice of remote from [bfdi:bfb](https://www.youtube.com/@BFDI), "Male US" and "Male US (Scottish accent)" were used by e.g. [timotainment](https://www.youtube.com/@Timotainment) (the latter is now also the voice of tv in bfdi:tpot); it's theoretically downloadable [here](http://www.festvox.org/flite/download.html) but you need to compile it |
 
 # videos
 
@@ -96,7 +98,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 
 | name | license | notes |
 | :- | :- | :- |
-| [scp wiki](https://scp-wiki.wikidot.com/) | by-sa | with the notable exception of scp-173's former visage (nicknamed `peanut`) |
+| [scp wiki](https://scp-wiki.wikidot.com/) | by-sa | with the notable exception of scp-173's former visage (nicknamed "Peanut") |
 | [scratch](https://scratch.mit.edu/) | by-sa | 2.0 per [terms of service](https://scratch.mit.edu/terms_of_use), though watch out for third-party content that remains copyrighted |
 | [the works of nicky case](https://ncase.me/) | 0 | as a furry i'm biased toward [adventures with anxiety](https://ncase.me/anxiety/) and [femboy hooters](https://www.youtube.com/watch?v=J9La5ErKGss) (nsfw) |
 | [reimagine :the game: soundtrack](https://freemusicarchive.org/music/Peter_Gresser/Reimagine_The_Game) | 0 | related to the above because the game was made by nicky, though the music wasn't |
