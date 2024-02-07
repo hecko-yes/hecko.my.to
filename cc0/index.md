@@ -20,13 +20,14 @@ tl;dr: pretty much anything
 | edit them? | **yes** |
 | for nazi things? | **yes** (but fuck you) |
 | without credit? | **yes** (but i do appreciate credit) |
+| train a neural network on them? | **yes** (and please tell me about it) |
 | with *false* credit? | uhhhh **not sure** honestly |
 | post them to spotify/etc? | **no** (but it's because [they want you to be the owner](https://freepd.com/#:~:text=Can%20I%20put,local%20copyright%20attorney.)) |
 
 # however
 
 this website sometimes contains things that can't be cc0'd, e.g. translations of other people's works or fan-art
-it should be clear from context when that's the case, or if you're a context-incapable scraper you can look for the `copyrighted` html class
+it should be clear from context when that's the case, or if you're a context-incapable scraper you can look for the `.copyrighted` html class
 
 # why so permissive
 
@@ -47,9 +48,9 @@ and i'd rather not force myself on them, e.g. if someone were to make a song tha
 ## did you know [cc-by has an anti-drm clause](https://opensource.stackexchange.com/questions/175/can-i-redistribute-cc-by-works-in-drm-protected-app-stores)
 which yeah that's based but it's a real problem for ios developers (at least real enough that [oga-by](https://opengameart.org/content/oga-by-30-faq) exists)
 ,,though in a similar vein cc0 is unsuitable for code because [it doesn't give patent rights](https://opensource.stackexchange.com/questions/133/how-could-using-code-released-under-cc0-infringe-on-the-authors-patents)
-there's a fork called [cc_-1](https://carado.moe/cc_-1.html) (which is a bit weird in its phrasing) but i often just quadruple-license under cc0/[unlicense](https://unlicense.org/)/[0bsd](https://opensource.org/license/0bsd/)/[wtfpl](http://www.wtfpl.net/) because it's funny
+there's a fork called [cc_-1](https://carado.moe/cc_-1.html) (which is a bit weird in its phrasing), while every so often i quadruple-license under cc0/[unlicense](https://unlicense.org/)/[0bsd](https://opensource.org/license/0bsd/)/[wtfpl](http://www.wtfpl.net/) because it's funny
 <small>it might also be the case that [copyright law makes it impossible for any license at all to be irrevocable](https://en.wikisource.org/wiki/Shrinking_the_Commons:_Termination_of_Copyright_Licenses_and_Transfers_for_the_Benefit_of_the_Public) but shhh</small>
 
 ## is anything bad even gonna happen
-[nicky case](https://ncase.me/) is way more popular than me and cc0's all her stuff and i don't think there's any notable misuse of it
+[nicky case](https://ncase.me/) is way more popular than me and cc0·s all her stuff and i don't think there's any notable misuse of it
 also this sounds iffy but perhaps: if others sell my stuff then that just tells me there's a market for me to do it *and* i can perhaps get some publicity from calling them out (not like "hey they stole my stuff" just "hey this stuff is free elsewhere")
