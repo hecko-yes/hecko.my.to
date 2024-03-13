@@ -153,11 +153,11 @@ some applied more consistently than others
 | --: | :-- |
 | \*a | \*er/\*ess |
 | \*ae\* | \*æ\* |
-| \*ed | em\*ed (rarely), \*eded (rarelier) |
+| \*ed | (rarely) em\*ed, (rarelier) \*eded |
 | \*er, \*or | \*eur (a la `auteur`) |
 | \*k | \*que (rarely) |
-| a | an (rarely) |
-| angry | angy, angery (rarely) |
+| a | (rarely) an |
+| angry | angy, (rarely) angery |
 | animal | aminal |
 | anyway | anyhoo |
 | boxes | [boxen](https://youtu.be/GXJjZjl6Y_4) (i already covered mispluralizations but this one's special to me) |
@@ -172,6 +172,7 @@ some applied more consistently than others
 | damn (adjective/adverb) | damb |
 | damn (interjection) | dayum |
 | delete | dete |
+| ears | earce |
 | emoji | emoj, emojo, emojum |
 | gaming | game ing |
 | gi\* (in software names, e.g. github, gimp) | ji\* |
@@ -180,6 +181,7 @@ some applied more consistently than others
 | gray | græy |
 | hecking | heckign |
 | hello | henlo |
+| horse | honse, horce, (rarely) homse |
 | [inb4](https://knowyourmeme.com/memes/inb4--2) | inb5 |
 | interesting | inchresting, injrezding (spoken only) |
 | internet | interweb |
@@ -187,7 +189,8 @@ some applied more consistently than others
 | my | me (rarely) |
 | news | mews (rarely) |
 | newspaper | [newspapre](https://www.youtube.com/watch?v=haInQ2gNQKU&t=18s) |
-| non(-)binary | nonbiney, non(-)binanry (rarely) |
+| non(-)binary | nonbiney, (rarely) non(-)binanry |
+| pony | poney |
 | potato(es) | potat(s), potate(s), tater(s) |
 | pretty (as in cute) | prebby |
 | ram (as in computer) | [dedotated wam](https://www.youtube.com/watch?v=_pVNvSuA2mM) |
@@ -212,7 +215,7 @@ some applied more consistently than others
 | microsoft | microdollarsignoft |
 | pokémon | pokèmon (note the grave instead of acute), pokèmen (plural) |
 | tetris | tetrum, tetroid |
-| toki pona | tonky, tonky ponky (rarely) |
+| toki pona | tonky, (rarely) tonky ponky |
 | windows | window |
 
 ## abbreviations
@@ -240,11 +243,13 @@ some applied more consistently than others
 | today i learned | til |
 | unfortunately | unforchly |
 | what (standalone) | wha, wh, ? |
+| yeah | ya, ye, yea, yeh |
 
 ## Making Sense™
 
 | word | replacement |
 | --: | :-- |
+| \*phobe (as in prejudiced) | \*miser (not always) |
 | \*phobic (as in prejudiced) | anti-\* |
 | america (as in usa) | the us |
 | art (as in visual) | illustration(s), drawing(s), picture(s), ... |
@@ -265,7 +270,7 @@ some applied more consistently than others
 | hivemind (as in one mind, many bodies, e.g. [my fox sona](/fursonae#fox)) | [multipresence](https://powerlisting.fandom.com/wiki/Multipresence) (makes it clearer that there only ever is and was a single mind) |
 | on the \* hand | on the \* hoof |
 | pirate (as in to download paid media for free) | yar har, yarhar |
-| what the hell | [what the hay](https://www.youtube.com/watch?v=tA5IJi5yJC0) (sometimes) |
+| what the hell | (sometimes) [what the hay](https://www.youtube.com/watch?v=tA5IJi5yJC0) |
 | years ago | [yonks](https://en.wiktionary.org/wiki/yonks) ago |
 
 # neologisms
