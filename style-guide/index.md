@@ -233,6 +233,7 @@ some applied more consistently than others
 | i'm | am |
 | it was | 'twas |
 | it's | 's, 'tis |
+| need to | needa |
 | need to be | need |
 | nope | nop |
 | oh | o |
@@ -309,10 +310,11 @@ some applied more consistently than others
 - `you go girl`
 - `thoughts on` (instead of `do you wanna`)
 - [`cannot into`](https://www.polandballwiki.com/wiki/Poland_cannot_into_space)
+- `and and and` / `or or or`
 
 ## acronyms
 
-- `mf` - motherfucking (but i never use the full version)
+- `mf` - motherfucking (but i rarely use the full version)
 - `ngl` - not gonna lie
 - `afai[k/r/ct]` - as far as i [know / remember / can tell]
 - `iirc` - if i recall correctly
