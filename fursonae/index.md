@@ -227,7 +227,8 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 2023-06-23 - 2023-07-04, main as of 2024-01-07
 
 ~~floaty is not its name~~ (it is its name now), it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
-4 feet tall, probably no fluff just marshmallow squish
+1.3m (= 4'4") minus ears
+probably no fluff just marshmallow squish
 the yellow bits glow, the hand beans stick out quite a bit
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
 
