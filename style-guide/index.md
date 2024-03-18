@@ -255,6 +255,7 @@ some applied more consistently than others
 | america (as in usa) | the us |
 | art (as in visual) | illustration(s), drawing(s), picture(s), ... |
 | furry (as in humanoid animal) | anthro |
+| good (as in response to "how are you") | the usual |
 | google (as in verb) | look up |
 | lol (as in league of legends) | league |
 | real name (as in not internet name) | legal name |
