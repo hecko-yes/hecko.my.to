@@ -45,6 +45,8 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [xkcd](https://xkcd.com/) | by-nc | "there's an xkcd for everything", at least in terms of hard sciences; the categories in [explainxkcd](https://www.explainxkcd.com/) might be of use when searching; [the "citation needed" comic](https://commons.wikimedia.org/wiki/File:Webcomic_xkcd_-_Wikipedian_protester.png) and [a couple others](https://commons.wikimedia.org/wiki/Category:Individual_xkcd_comics) are also available as by or by-sa |
 | [celeste box art](https://commons.wikimedia.org/wiki/File:Celeste_box_art_full.png) | by-sa | cutouts and a few extras [here](https://commons.wikimedia.org/wiki/Category:Celeste_(video_game)) |
 | [illuminati eye (eye of providence)](https://commons.wikimedia.org/wiki/File:Illuminati_triangle_eye.png) | pd | it's on united states dollars; the popular version was either vectorized or had a threshold filter applied to it |
+| [studio ghibli screencaps](https://www.ghibli.jp/info/013409/) | id | "freely within the scope of common sense" ([per](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html)) |
+| [freedom planet press kit](https://commons.wikimedia.org/wiki/Category:Freedom_Planet) | by-sa | especially [freedom planet 2](https://commons.wikimedia.org/wiki/Category:Freedom_Planet_2); mostly screenshots, some isolated character art |
 
 # music
 
