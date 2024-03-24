@@ -269,7 +269,7 @@ some applied more consistently than others
 | butt | bum |
 | criterion | criterium (extrapolating from `criteria`, feels intuitive enough that i didn't realize it wasn't the canonical form) |
 | hdd | spinny drive |
-| hivemind (as in one mind, many bodies, e.g. [my fox sona](/fursonae#fox)) | [multipresence](https://powerlisting.fandom.com/wiki/Multipresence) (makes it clearer that there only ever is and was a single mind) |
+| hivemind (as in one mind, many bodies, e.g. [my fox sona](/fursonae#fox)) | [multipresence](https://powerlisting.fandom.com/wiki/Multipresence) (makes it clearer that there only is and ever was a single mind) |
 | on the \* hand | on the \* hoof |
 | pirate (as in to download paid media for free) | yar har, yarhar |
 | what the hell | (sometimes) [what the hay](https://www.youtube.com/watch?v=tA5IJi5yJC0) |
@@ -312,6 +312,7 @@ some applied more consistently than others
 - `thoughts on` (instead of `do you wanna`)
 - [`cannot into`](https://www.polandballwiki.com/wiki/Poland_cannot_into_space)
 - `and and and` / `or or or`
+- `would you be willing to`
 
 ## acronyms
 
