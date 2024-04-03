@@ -7,7 +7,7 @@ excerpt: "how 2 write like me"
 {:toc}
 
 how 2 write like me
-thought up independently of but encouraged by the existence of [marijn van hoorn's style guide](https://satyrs.eu/styleguide/) as well as [chridd's list of neologisms](https://chridd.nfshost.com/made-up-words/)
+thought up independently of but encouraged by the existence of [xanthe's style guide](https://satyrs.eu/styleguide/) as well as [chridd's list of neologisms](https://chridd.nfshost.com/made-up-words/)
 if this interests you then so may [jan Misali's punctuation analysis](https://www.seximal.net/punctuation)
 
 # markup
