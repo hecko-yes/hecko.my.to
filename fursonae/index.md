@@ -228,11 +228,12 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 
 ~~floaty is not its name~~ (it is its name now), it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
 1.3m (= 4'4") minus ears
-probably no fluff just marshmallow squish
+probably no fluff, just marshmallow squish
 the yellow bits glow, the hand beans stick out quite a bit
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
 
 potential changes i haven't applied to the reference yet:
+- **heart-shaped main pawpads on hands** (this one's applied to the vrchat avatar but not the old reference, and not visible in the preview for the former)
 - sparkles in wings (and maybe eyes?)
 - headphones (in which case the ears move to the human position)
 - big tail? holographic? maybe make wings holo too?
@@ -240,15 +241,15 @@ potential changes i haven't applied to the reference yet:
 - attach the wings to the body, i find it hard to depict them as floating from most angles
 - maybe even a mouth?
 
-[.blend file](floaty/floaty sona.blend) (3.5)
+now as a [public vrchat avatar!](https://vrchat.com/home/avatar/avtr_2edfaf3f-90ee-4b39-bf69-7e326042dbf5) ([source files](https://github.com/Sobsz/floaty))
+
+![see next image for detailed description; t-posing in front of a dark purple background](floaty/floaty vrchat thumbnail.png)
+
+angles of somewhat outdated original model, [.blend file](floaty/floaty sona.blend) (3.5)
 
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
-
-now as a [public vrchat avatar!](https://vrchat.com/home/avatar/avtr_2edfaf3f-90ee-4b39-bf69-7e326042dbf5) ([source files](https://github.com/Sobsz/floaty))
-
-![t-posing in front of a background](floaty/floaty vrchat thumbnail.png)
 
 art by [@The-Menagerie@cohost.org](https://cohost.org/The-Menagerie):
 
