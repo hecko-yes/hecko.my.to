@@ -3,7 +3,7 @@ title: hecko
 theme:
 
 include:
-  - .well_known
+  - .well-known
   - _assets
 
 kramdown:
