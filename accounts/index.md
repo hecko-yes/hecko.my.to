@@ -14,20 +14,21 @@ the hecko is elsewhere on the internet no way
 
 - discord - `.hecko` (note the period)
 - email - hecko period yes swirly g mail period commercial
-- matrix - [sobsz:matrix.org](https://matrix.to/#/@sobsz:matrix.org){:rel="me"}
 - reddit - [Sobsz](https://www.reddit.com/user/Sobsz){:rel="me"}
 - twitter - [hecko_yes](https://twitter.com/hecko_yes){:rel="me"}
 
 ## not checked actively
 
 - cohost - [hecko](https://cohost.org/hecko){:rel="me"}
-- fediverse - [hecko@fluffcord.social](https://fluffcord.social/@hecko){:rel="me"}
+- fediverse - [hecko@fluffcord.social](https://fluffcord.social/@hecko){:rel="me"} (currently down)
+- matrix - [sobsz:matrix.org](https://matrix.to/#/@sobsz:matrix.org){:rel="me"}
 
 # gaming
 
 ## hubs
 
 - itch.io - [hecko-yes](https://hecko-yes.itch.io/){:rel="me"}
+- retroachievements - [hecko](https://retroachievements.org/user/hecko){:rel="me"}
 - roblox - [Sobsz](https://www.roblox.com/users/124271832/profile){:rel="me"}
 - steam - [hecko_yes](https://steamcommunity.com/id/hecko_yes){:rel="me"}
 

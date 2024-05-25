@@ -4,13 +4,13 @@ color: "orange"
 excerpt: "omg hiii,,,"
 ---
 
-this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), `.hecko` on discord, <a rel="me" href="https://fluffcord.social/@hecko">@fluffcord.social</a> on fediverse)
+this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), `.hecko` on discord (see the rest at "accounts" above)
 
 list of pages:
 - home page (which i want to make fancier eventually)
 - [about me](/about/)
 	- favorite things (maybe favorite oc traits)
-- [accounts](/accounts/)
+- [accounts](/accounts/){:rel="me"}
 - [personal style guide](/style-guide/)
 - [list of my fursonæ](/fursonae/)
 - [list of creative commons memes](/gnu-slash-memes/)
