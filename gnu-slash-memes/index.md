@@ -47,6 +47,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [illuminati eye (eye of providence)](https://commons.wikimedia.org/wiki/File:Illuminati_triangle_eye.png) | pd | it's on united states dollars; the popular version was either vectorized or had a threshold filter applied to it |
 | [studio ghibli screencaps](https://www.ghibli.jp/info/013409/) | id | "freely within the scope of common sense" ([per](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html)) |
 | [freedom planet press kit](https://commons.wikimedia.org/wiki/Category:Freedom_Planet) | by-sa | especially [freedom planet 2](https://commons.wikimedia.org/wiki/Category:Freedom_Planet_2); mostly screenshots, some isolated character art |
+| [wuffle comics](https://wufflecomics.tumblr.com/) | 0 | furry comic series running from 2012 to 2017; [also on commons](https://commons.wikimedia.org/wiki/Category:Wuffle_(comic)) |
 
 # music
 
@@ -95,6 +96,8 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [i wanna be the guy](https://kayin.moe/iwbtg/) | id | per [faq 2.4](https://kayin.moe/iwbtg/faq.html) |
 | [friday night funkin'](https://ninja-muffin24.itch.io/funkin) | id | per readme: "Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game. Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO." |
 | [touhou](https://touhou-project.news/) | id | [guidelines](https://touhou-project.news/guidelines_en/) |
+| [glitch](https://www.glitchthegame.com/public-domain-game-art/) | 0 | defunct; the source content is in adobe flash format, you might prefer [svg](https://opengameart.org/content/glitch-svgs) or [png](https://opengameart.org/content/glitch-pngs) |
+| [duelyst](https://github.com/open-duelyst/duelyst) | 0 | defunct; [assets](https://github.com/open-duelyst/duelyst/tree/main/app/resources) |
 
 # other
 
