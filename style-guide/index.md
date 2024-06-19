@@ -69,6 +69,11 @@ used with `@` for marking topics: `@[long animals] weasels are pretty underrated
 
 sometimes used for: [queen deltarune's secondary typing quirk](https://hushbugger.github.io/drdia/#ch2%20city08:14)
 
+## tilde
+
+used at the start of a word to mean "about/roughly", e.g. `~every` means "pretty much every"
+used at the end of a word for a singsongy tone that one might associate with intimacy~
+
 ## interpunct
 
 the interpunct (`·`) is so cool that it gets a special shortcut on my keyboard, [altgr](https://en.wikipedia.org/wiki/AltGr) + `.` (and you can do it too with [autohotkey™](https://autohotkey.com/))
