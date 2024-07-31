@@ -36,8 +36,8 @@ and i like messing with language, hence neopronouns (though fae/faer feels a bit
 
 <details>
 <summary markdown="span">gender: **male?**</summary>
-definitely not female, but other than that i'm not sure how much i care about my maleness
-i like calling myself "boy" sometimes, e.g. "guess i'm your delivery boy"
+definitely not female, but other than that i'm not sure how much i care about my maleness<br>
+i like calling myself "boy" sometimes, e.g. "guess i'm your delivery boy"<br>
 i sometimes say "male/none, whichever you think is less unusual", based on an unfounded theory of mine that: many people who call themselves cis (including me) actually don't have much of a gender (or don't care much about it), so while just calling myself "genderless" would be more accurate it'd also cause me to be perceived by many as more unusual than i really am
 </details>
 

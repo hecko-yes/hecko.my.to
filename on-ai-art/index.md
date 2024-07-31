@@ -222,18 +222,18 @@ and i don't like that, i want to create things and have it matter
 
 <details>
 <summary markdown="span">this one's extra crisis-of-faith so beware</summary>
-people do find it useful, e.g. simon willison uses it for [little side projects](https://simonwillison.net/2024/Jul/14/pycon/#pycon-2024.043.jpeg) that wouldn't be worth an hour of unfun documentation hunting
+people do find it useful, e.g. simon willison uses it for [little side projects](https://simonwillison.net/2024/Jul/14/pycon/#pycon-2024.043.jpeg) that wouldn't be worth an hour of unfun documentation hunting<br>
 who am i to deny them it? just because i personally didn't feel like advancing? just because i want to feel useful?
 
-[one person's craft is another's chore](#one-person's-craft-is-another's-chore), so let the crafters craft and the chore·ers automate!
-and if they can't take joy in the act of creation and feel like they need to "matter" or "be the best", well that's on them
+[one person's craft is another's chore](#one-person's-craft-is-another's-chore), so let the crafters craft and the chore·ers automate!<br>
+and if they can't take joy in the act of creation and feel like they need to "matter" or "be the best", well that's on them<br>
 i mean heck i still would like someone to just tell me what the deal is with my gender, even though that's typically a journey one's meant to go on (personally i don't know where to even start)
 
-sure, [a better world](#the-world-i-wish-we-had) would have less or no need for generative models, but we live in a society and many people don't have the time or motivation to learn to draw but want things drawn regardless
+sure, [a better world](#the-world-i-wish-we-had) would have less or no need for generative models, but we live in a society and many people don't have the time or motivation to learn to draw but want things drawn regardless<br>
 image generation gives them that, in the most practical way for this world
 
-we've been overdue for the Next Big Thing anyway
-what's the last truly new and broadly impactful technology? maybe smartphones but those are just small computers, so probably the internet which was ages ago
+we've been overdue for the Next Big Thing anyway<br>
+what's the last truly new and broadly impactful technology? maybe smartphones but those are just small computers, so probably the internet which was ages ago<br>
 the computer made copying trivial and that was largely good imo, maybe generative models making creation trivial could be good too
 </details>
 
