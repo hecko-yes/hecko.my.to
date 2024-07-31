@@ -257,6 +257,7 @@ some applied more consistently than others
 | --: | :-- |
 | \*phobe (as in prejudiced) | \*miser (not always) |
 | \*phobic (as in prejudiced) | anti-\* |
+| ai (as in big generative model trained on half the internet) | language model, chat model, generative model, genai |
 | america (as in usa) | the us |
 | art (as in visual) | illustration(s), drawing(s), picture(s), ... |
 | furry (as in humanoid animal) | anthro |

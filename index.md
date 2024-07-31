@@ -15,6 +15,7 @@ list of pages:
 - [list of my fursonæ](/fursonae/)
 - [list of creative commons memes](/gnu-slash-memes/)
 - rants
+	- (new!) [on ai\* art\*\*](/on-ai-art/)
 	- existentialism
 	- gender? [species?](https://cohost.org/hecko/post/2089141-notes-on-quest-for)
 	- [hecko cannot into art](/hecko-cannot-into-art/) (very venty and outdated, i'm actually kinda happy with my drawings now)
