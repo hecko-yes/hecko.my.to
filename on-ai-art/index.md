@@ -19,6 +19,8 @@ with that said, here are my thoughts on \*generated \*\*images, as someone compu
 2. i write like i'm very sure of myself but i genuinely do wish to be convinced i'm wrong (and it has happened on a few counts), **if you have solid evidence against anything here [please contact me](/accounts/)**
 	- i've been accused on writing like a supporter of generative models, and yeah much of what's here is also used as arguments by them; i don't write this because i endorse them, but because i genuinely believe they're right
 		- to put it another way: i'm not "fuck yeah, ai", i'm a bit "fuck ai", but mostly i'm "oh fuck, ai"
+3. just because this page focuses on artwork doesn't mean i'm not concerned about other consequences of large generative models, such as fakes (i hate that it's almost easier to generate a selfie than take one) or the possibility of superintelligence (maybe not with this paradigm but the next, or the one after that)
+4. if you're a [non-human](https://en.wikipedia.org/wiki/Otherkin) artist, apologies for excluding you with my language; if i ever find a snappy substitute for the word "human" everywhere i'll be sure to apply it
 
 # thesis statement
 
@@ -39,7 +41,7 @@ doesn't help that coding (my default creative pastime) and drawing (one i'd like
 the ways in which i could contribute to society are becoming obsolete, and any new ones i could learn don't have that much time left either
 i wish i had done them more while they mattered (and part of my current motivation for drawing is indeed "do it while it kinda matters")
 
-on another note: years ago, i got kinda indoctrinated into the rationalist [lesswrong](https://en.wikipedia.org/wiki/LessWrong) side of ai discourse, by (i kid you not) a [my little pony fanfic](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/FriendshipIsOptimal)
+on another note: years ago, i got kinda indoctrinated into the [lesswrong](https://en.wikipedia.org/wiki/LessWrong)-type rationalist side, by (i kid you not) a [my little pony fanfic](https://tvtropes.org/pmwiki/pmwiki.php/Fanfic/FriendshipIsOptimal)
 though instead of treating it as the cautionary tale it was intended to be, i began believing that an eternal hyperintelligent nanny is 1) coming 2) desirable
 i think a big chunk of it was that i didn't want to "bother" anyone, so having an unfeeling entity to be needy at sounded great
 that largely manifested as roleplaying my weird fantasies with language models, including a month-long subscription to novelai i barely used (the only $10 i've ever spent on generative models) and a year-long addiction to character.ai (because it was the first thing that Just Worked)
@@ -99,7 +101,7 @@ language models are in a bit more trouble, since the useful ones are generally h
 
 or at least, i don't see how they couldn't
 
-they're already better than any human at many things, e.g. learning speed, breadth of knowledge, creation speed and thus iteration speed, copyability of knowledge, etc
+they're already better than any human at many things, e.g. learning speed, breadth of knowledge, creation speed (and thus iteration speed), copyability (and thus hyper-personalization), etc
 data is a limiter, sure, but people keep coming up with ways to make them better without collecting more of it ([here's](https://huggingface.co/blog/introducing-csearch) someone using one weird trick to get much more coherent text from gpt-2, without training it a single bit more, 3 years after the model was made)
 
 and humans haven't gotten architecturally better for millions of years
@@ -117,12 +119,26 @@ most models do rely on mass internet scrapes, but some people are already trying
 some examples:
 - the [common canvas](https://huggingface.co/common-canvas) series is trained on creative commons data and claims to be on the level of stable diffusion 2 (does use a text encoder trained on internet scrapes though)
 - [mitsua diffusion one](https://huggingface.co/Mitsua/mitsua-diffusion-one) is trained on public-domain data and it's,, trying; if nothing else it generated pretty decent fox fur in the shape of an input text image when i tried it (this one also uses a scrape-trained text encoder but their next work-in-progress iteration is entirely cleanroom, plus it has some data from explicitly consenting artists)
-- [adobe firefly](https://www.adobe.com/products/firefly.html) and [getty images' thing](https://www.gettyimages.com/ai/generation/about), both trained on their stock libraries (though idk maybe some courts declare that permission insufficient)
+- [adobe firefly](https://www.adobe.com/products/firefly.html) and [getty images' thing](https://www.gettyimages.com/ai/generation/about), both trained on their stock libraries (though idk maybe some courts declare that permission insufficient, and [whoops](https://www.entrepreneur.com/business-news/adobes-firefly-ai-image-generator-partly-trained-with-ai/472622) firefly was partially trained on output from models)
 
-and there's work toward making models require less data, e.g. [MicroDiT](https://x.com/VSehwag_/status/1815729297606214013) which came out while i was writing this (july 20-31, 2024)
+and there's work toward making models require less data, e.g. [MicroDiT](https://x.com/VSehwag_/status/1815729297606214013) which came out while i was writing this (july 20-31, 2024, for the first public version)
 
 and if anything licensed-data models have the potential of being *verifiably* non-infringing, since you can see everything that the model could possibly "know" unlike with a human
-(though a specific enough prompt or enough manual selection could still be used to violate copyright, e.g. if i generate "cartoony mustached plumber wearing overalls and red hat with letter m" and reroll enough times i can get something sufficiently mario-like, and that'd be my fault because i know what a mario is)
+(though a specific enough prompt or enough manual selection could still be used to violate copyright, e.g. if i generate "cartoony mustached plumber wearing overalls and red hat with letter m" and reroll enough times i can get something sufficiently mario-like, and that'd be my fault because i'm the one who knows what a mario is)
+
+## authorship
+
+a common complaint i've seen is that image generator users will proclaim themselves to be "artists"
+and i do agree that for the most common use of "type something in, get an image, repeat". the role of the human is closer to that of a commissioner at best, and a stock image site browser at worst
+more advanced workflows blur the line, i'm not sure to what extent though 
+
+alright, suppose norms adjusted such that people stopped doing that
+honest people that is, those who admit they're using image generators, since those who are hiding it would hide it even harder if anything
+ok so maybe flawless detection of generated images? well first of all good luck with that, second people could still paint over them probably
+
+but most importantly to me: even if every single generated image was always tagged as such, that wouldn't stop them from competing on a material level
+one could filter them out, sure, and at least in the current world many people would (because the smallest possible effort will be the most abundant, and boy does image generation allow low effort)
+but what if they're genuinely high-quality? would most people [really care](#people-value-human-works) about the humanity?
 
 # arguments i don't find convincing
 
@@ -184,7 +200,7 @@ if that's so then neither do many artists, most of the time
 or at least in my filter bubble, full of memes and fanart and meme fanart
 and i don't want all of that to be obsolete either
 
-honestly i'm not sure if there exists *any* "truly original" artwork, not inspired by existing things (if you know of a counterexample then [please let me know](/accounts))
+honestly i'm not sure if there exists *any* "truly original" artwork, not inspired by existing things (if you know of a counterexample then [please let me know](/accounts/))
 
 ## "it uses so much energy"
 
@@ -202,14 +218,22 @@ and of course companies are gonna use as much as they can get their mitts on to 
 even good things can be overhyped
 i think i'm basing my beliefs on what i've seen actually done instead of what's advertised, but idk i may be wrong
 
+## "it couldn't have invented these styles by itself"
+
+sure, but most people don't invent most things either
+heck what about fan artists who mimic the original styles, often exactly (e.g. the my little pony fandom)?
+
+that and, maybe it would've if it was encouraged to
+if instead of outputting raw pixels it had to output brush strokes
+
 ## what arguments *do* i like then
 
 good question! unfortunately the only ones i can think of are relatively weak and subjective
 
 **[this is a work in progress]**
 
-- [this one](https://reddit.com/r/ArtistHate/comments/1e0ylt8/on_human_derivation_vs_machine_derivation/) (by vyletpony on andrew huang's video) about valuing documentable chains of inspiration
-- [this one](https://www.lesswrong.com/posts/yCDsGDyDguXgNwpkb/please-understand) about valuing humans understanding things
+- [this youtube comment](https://www.youtube.com/watch?v=FHOAeFkoVLw&lc=UgxIBVodBDqG9WmJSZR4AaABAg) about valuing documentable chains of inspiration
+- [this lesswrong post](https://www.lesswrong.com/posts/yCDsGDyDguXgNwpkb/please-understand) about valuing humans understanding things
 
 # end of an era
 
@@ -217,6 +241,9 @@ for the first time in history, it might genuinely be too late to start drawing
 i honestly think humans creating things might become obsolete within the next,, iunno dozen years
 just like copying things by hand is largely obsolete now
 and i don't like that, i want to create things and have it matter
+
+even creating ai is gonna be obsolete
+why lovingly tune a custom text-to-speech model when elevenlabs (trained on millions of hours of data) is easier and better in pretty much every way ([bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) woo)
 
 # am i the baddie?
 
@@ -243,7 +270,7 @@ i don't know! that's the worst part!
 mostly i'm just hoping progress hits a wall soon, but even then there's so much damage that has already been done
 
 honestly i just wish they hadn't gotten this good in the first place
-and now it feels too late, i now know what a gpu can do and i'm not gonna *un*know it
+and now it feels too late, i now know a gpu can do it better than me and i'm not gonna *un*know that
 and that's the main problem for me, knowing that i'm bested not by someone of my kind (whom i could at least hope to match some day) but by a few chips and a file the size of shrek
 
 ## what i wish for
@@ -265,7 +292,7 @@ here they are in ascending order of impossibility (according to my intuition):
 
 ## if i could turn back time
 
-some soft sci-fi, if you'll indulge me
+some quite unrealistic sci-fi, if you'll indulge me
 
 go back to 2021 or so, when models were still fun and not scary, and somehow magically freeze progress around there
 image generation is clearly recognizable as computer work (and often too misshapen and blobby to paint over), text generation produces neat babble and is even pretty useful as very expensive autocomplete, speech synthesis of famous characters gets the point across while remaining distinct (like sentence mixing but less fiddly)
@@ -311,11 +338,38 @@ and what if they reach human level like current models do? go up the food chain?
 ## some scarcity is good actually
 
 makes things feel special methinks
-even better if it's not made-up and arbitrary
-so why not scarcity of extra pretty pictures (and abundance of decently pretty ones)
+even better if it's not made-up and arbitrary (though banning image generation models after they've been shown to be possible does feel kinda made-up)
+so why not scarcity of pretty pictures? doesn't really harm anyone afaik
 
 ## will people even want to get into drawing
 
 e.g. [these creatures](https://ayviedoesthings.tumblr.com/post/755832742992871424/honestly-love-the-art-and-comics-you-create-being) only got into drawing because that was the best way to bring their ideas into life
 me too kinda
 will (most) people bother, if they can just ask a computer to do it for them?
+
+## does fair use cover training?
+
+**[disclaimer: i am not a lawyer, this is just my best guess]**
+
+a rundown through the [4 clauses](https://en.wikipedia.org/wiki/Fair_use#U.S._fair_use_factors):
+
+1. **Purpose and character of the use** - this is where commerciality is covered, but also transformativeness aka "whether a new work has a different purpose and character from an original work"; i think turning paintings into more paintings doesn't count there, though if one considers the model itself to be the work then idk
+2. **Nature of the copyrighted work** - if i'm reading this correctly then it's about whether it's e.g. the only extant photo of an important event, which the vast majority of the data isn't
+3. **Amount and substantiality** - this one's weird i'm gonna need bullet points
+	- the amount is usually "the entire portfolio of a jillion artists"
+	- the network is much smaller than the dataset so intuitively it shouldn't be able to memorize everything, but:
+		- turns out [it's possible to recognizably compress an image into 40 bytes](https://x.com/Ethan_smith_20/status/1801493585155526675)
+			- is 40 bytes copyrightable? ~~try using the smb1 mario sprite (12x16 pixels with a 2-bit palette = 48 bytes) and see where that gets you~~ (that might be more of a trademark thing i'm not sure)
+		- finetuning can cause blatant memorization, like with [midjourney v6](https://spectrum.ieee.org/midjourney-copyright)
+		- characters are copyrightable too (though focusing on that would be bad for fan artists)
+		- (that being said i feel like this is more of an avoidable gotcha than an inherent issue so idk)
+	- [it's possible to train a model on a random subset of the pixels](https://arxiv.org/pdf/2305.19256), but i don't think that's much different from just downscaling it and then using upscalers (which are at the very least less controversial and more transformative-like)
+		- though intuitively denoisers are uncontroversial too, yet stable diffusion is "just" a denoiser that got good enough at denoising to denoise pure noise
+4. **Effect upon work's value** - infinite on a class scale, though the model trainers could go "well we didn't train on artist names so no individual artist or work is being devalued so ha"
+
+tl;dr fair use *probably* shouldn't apply
+
+## training data is kinda like oil
+
+we've had heaps of it for ages and only recently started extracting it (training data overhang), so there have been easy wins of "just train harder" and there might not be such soon
+except running out of oil causes regression, whereas running out of training data stops one axis of progress

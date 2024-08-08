@@ -54,3 +54,9 @@ there's a fork called [cc_-1](https://carado.moe/cc_-1.html) (which is a bit wei
 ## is anything bad even gonna happen
 [nicky case](https://ncase.me/) is way more popular than me and cc0·s all her stuff and i don't think there's any notable misuse of it
 also this sounds iffy but perhaps: if others sell my stuff then that just tells me there's a market for me to do it *and* i can perhaps get some publicity from calling them out (not like "hey they stole my stuff" just "hey this stuff is free elsewhere")
+
+## wait aren't i [afraid of ai](/on-ai-art/)
+i wrote the "train a neural network" part before the realization hit me, now i'm honestly not sure
+currently tentatively keeping it because if someone bothers to ask me they're probably training a non-threateningly small network with sub-human capabilities, whereas the networks i'm worried about are generally trained without consent
+but that might change soon, and while i don't have many works to speak of uhh something something principle of the thing idk
+(also the organization that published the license [holds](https://creativecommons.org/2023/02/17/fair-use-training-generative-ai/) that training models constitutes fair use, that's not very relevant but i wanted to put it here)
