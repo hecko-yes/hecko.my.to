@@ -8,12 +8,13 @@ excerpt: "the characters that i've made, for various degrees of \"made\""
 {:toc}
 
 the characters that i've made, for various degrees of "made"
-generally all of these are canonically he/they/etc like me (except [helping hoof](#helping-hoof) which is more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them and also don't mind pronouns in general)
+generally all of these are canonically he/they/etc like me (except [helping hoof](#helping-hoof) and [floaty](#floaty) which are more it/its), *but* feel free to use other pronouns too (since i'm not super connected to them and also don't mind pronouns in general)
 you-the-reader hereby have my permission to draw / remix / steal / do *literally whatever* with any of these if you so desire, as per [cc0](https://creativecommons.org/publicdomain/zero/1.0/) (though note that other people's art featured here isn't under that, and also if you ship them with others my partner won't like it)
+not picky about colors for the record, though i quite like the [pico-8 extended palette](https://lospec.com/palette-list/pico-8-secret-palette)
 
-kinda funny that even though a fursona is supposed to represent me i instead keep making characters that i'd want to hug, and one can't really hug oneself properly can one (though i suppose [the fox](#hecko) has clones and [the creature](#creature) can wrap itself up in its tail)
+kinda funny that even though a fursona is supposed to represent me i instead keep making characters that i'd want to hug, and one can't really hug oneself properly can one (though i suppose [the fox](#fox) has clones and [the creature](#creature) can wrap itself up in its tail)
 
-current favorite is probably [emerald snap](#emerald-snap)
+**current main is [floaty](#floaty)**, distantly followed by [the fox](#fox) and [emerald snap](#emerald-snap)
 
 general traits:
 - either braver than me or exaggeratedly shy ~~and self-deprecating~~
@@ -21,7 +22,7 @@ general traits:
 - can pass out from too much cuteness (with a not very high threshold)
 - voice could be similar to [timber puppers's ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E) and [tyler scowcroft's ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA), or perhaps [wynton yang's ralsei](https://www.youtube.com/watch?v=6Vfc61BjhUQ) and [sibylline sounds' bookshop skunk](https://www.youtube.com/watch?v=osJmMstb7_E) [fetish cw for their other videos] and [schazer's winner (tpot)](https://www.youtube.com/watch?v=YG5M7Q26U2s)
 - usually idealized toony bodies, as in no organs or bones or biological trappings like sweating or having to eat or sleep or being harmable
-- preferably 5 fingers (if any) with opposable thumbs
+- preferably either 5 fingers with opposable thumbs or no fingers with magical dexterity (or the pseudo-thumb thing [amphimorphos](https://amphimorpho.carrd.co/#info) have going on)
 
 # ghost fox
 2018-08-12
@@ -89,6 +90,7 @@ and uhhh how about i just write from the ref sheet below
 	- nice cream guy
 	- you!
 
+[adobe illustrator source file](ignios/ignios just the image.ai) (character only), [photoshop source file](ignios/ignios ref sheet.psd) (full sheet, uses the fonts Monster Friend (not available anymore, replaced with [Monster Friend 2](https://www.behance.net/gallery/100106185/Monster-Friend-2)) and [Determination](https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font))
 ![a mildly creepy vector drawing of the goat, with the text above next to it](ignios/ignios ref sheet.png)
 
 exactly one fanart by discord user Lazy#6665:
@@ -226,28 +228,36 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 # floaty
 2023-06-23 - 2023-07-04, main as of 2024-01-07
 
-~~floaty is not its name~~ (it is its name now), it's just supposed to float like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
-1.3m (= 4'4") minus ears
-probably no fluff, just marshmallow squish ("meowshmallow", says brionna)
-the yellow bits glow, the hand beans stick out quite a bit
+cat (which stands for <u>c</u>at-<u>a</u>djacent <u>t</u>hing)
+floaty was a codename but is now just a name, inspired by it floating like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
+more it/its than most
+1.3m (= 4'3") minus ears
+
+no fur or bones or organs, just marshmallow squish all the way through ("meowshmallow", says brionna)
+and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is sweet lemon)
+the yellow bits glow, the pawpads are thick and squishy
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
 
+canonically self-made, as in an amateur designed a new body for itself and it lives in it now
+
 potential changes i haven't applied to the reference yet:
-- **heart-shaped main pawpads on hands** (this one's applied to the vrchat avatar but not the old reference, and not visible in the preview for the former)
+- mouth (drawn with it sometimes, depending on situation)
 - sparkles in wings (and maybe eyes?)
 - headphones (in which case the ears move to the human position)
-- big tail? holographic? maybe make wings holo too?
+- make the yellow bits holographic or otherwise non-solid?
 - more wing-shaped wings
-- attach the wings to the body, i find it hard to depict them as floating from most angles
-- maybe even a mouth?
+- multiple bodies like [the fox](#fox)
+
+[inkscape source file](ma toki pona vr group photo floaty.svg)
+![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and big squirrel-like tail and small detached teardrop-shaped wings, purple collar, hot pink inner ears and big heart symbol on chest and hand pawpads (main one is heart-shaped) and featureless foot paws; winking, wings fluttering, waving](floaty/ma toki pona vr group photo floaty.png){:style="width: 400px; max-width: 100%;"}
 
 now as a [public vrchat avatar!](https://vrchat.com/home/avatar/avtr_2edfaf3f-90ee-4b39-bf69-7e326042dbf5) ([source files](https://github.com/Sobsz/floaty))
 
-![see next image for detailed description; t-posing in front of a dark purple background](floaty/floaty vrchat thumbnail.png)
+![t-posing in front of a dark purple background](floaty/floaty vrchat thumbnail.png)
 
 angles of somewhat outdated original model, [.blend file](floaty/floaty sona.blend) (3.5)
 
-![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and small butterfly-like wings, purple collar, hot pink inner ears and big heart symbol in front and hand beans and featureless foot paws](floaty/floaty sona angle.png)
+![angled view](floaty/floaty sona angle.png)
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
 
