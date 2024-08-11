@@ -228,15 +228,16 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 # floaty
 2023-06-23 - 2023-07-04, main as of 2024-01-07
 
-cat (which stands for <u>c</u>at-<u>a</u>djacent <u>t</u>hing)
+cat but it stands for <u>c</u>at-<u>a</u>djacent <u>t</u>hing (as in it's a synthetic creature by nature and only æsthetically catlike)
 floaty was a codename but is now just a name, inspired by it floating like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
 more it/its than most
 1.3m (= 4'3") minus ears
 
 no fur or bones or organs, just marshmallow squish all the way through ("meowshmallow", says brionna)
-and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is sweet lemon)
+and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is gooey sweet lemon)
 the yellow bits glow, the pawpads are thick and squishy
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
+it often hovers at about average adult height to better interact with stuff made for humans, it can fly higher up when needed but probably not too much
 
 canonically self-made, as in an amateur designed a new body for itself and it lives in it now
 
