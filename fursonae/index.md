@@ -228,26 +228,29 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 # floaty
 2023-06-23 - 2023-07-04, main as of 2024-01-07
 
-cat but it stands for <u>c</u>at-<u>a</u>djacent <u>t</u>hing (as in it's a synthetic creature by nature and only æsthetically catlike)
+cat but it stands for <u>c</u>at-<u>a</u>djacent <u>t</u>hing (as in it's a synthetic creature by nature and only superficially catlike)
+other descriptors include: creature, thing, plushie-coded, meowshmallow (courtesy of brionna), [counterfeit cat](https://en.wikipedia.org/wiki/Counterfeit_Cat), ~~bootleg [hello kitty](https://en.wikipedia.org/wiki/Hello_Kitty),~~
 floaty was a codename but is now just a name, inspired by it floating like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
 more it/its than most
 1.3m (= 4'3") minus ears
 
-no fur or bones or organs, just marshmallow squish all the way through ("meowshmallow", says brionna)
-and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is gooey sweet lemon)
+no fur or bones or organs, just marshmallowy squish all the way through
+and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is gooey sweet lemon), and may be edible (though it regenerates immediately)
 the yellow bits glow, the pawpads are thick and squishy
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
 it often hovers at about average adult height to better interact with stuff made for humans, it can fly higher up when needed but probably not too much
 
-canonically self-made, as in an amateur designed a new body for itself and it lives in it now
+canonically self-made, as in an it's an amateur that designed a new body for itself (because the weakness of its flesh disgusted it) and it lives as it now
+made to be capable of roughly everything humans can do (e.g. it can drive a car if given a booster seat), and if there's a problem then feel free to handwave it (e.g. it can scratch things because something something voluntary matter compression at its fingertips, it can lick things because uhh it has a mouth now)
 
-potential changes i haven't applied to the reference yet:
-- mouth (drawn with it sometimes, depending on situation)
-- sparkles in wings (and maybe eyes?)
-- headphones (in which case the ears move to the human position)
-- make the yellow bits holographic or otherwise non-solid?
-- more wing-shaped wings
+potential changes i haven't applied to the reference yet (you may pick and choose at will):
+- mouth (drawn with it sometimes, depending on situation; inside is purple, for tongue i like yellow but that's not set in stone)
+- cat tail instead of squirrel tail (used when i don't feel like drawing a big tail or if the scene would be too cluttered)
+- sparkles in yellow bits
+- headphones (shaped like a neko headset for humans but the neko ears go on the real ones and that's where the speakers are; glowing based on the volume of whatever it's listening to)
+- make the wings holographic or otherwise non-solid?
 - multiple bodies like [the fox](#fox)
+- more wing-shaped wings (meh)
 
 [inkscape source file](ma toki pona vr group photo floaty.svg)
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and big squirrel-like tail and small detached teardrop-shaped wings, purple collar, hot pink inner ears and big heart symbol on chest and hand pawpads (main one is heart-shaped) and featureless foot paws; winking, wings fluttering, waving](floaty/ma toki pona vr group photo floaty.png){:style="width: 400px; max-width: 100%;"}
