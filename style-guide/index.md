@@ -359,7 +359,7 @@ some applied more consistently than others
 
 my target accent is american-ish but since i tend to pronounce vowels like in polish it ends up being kinda british
 
-i like pronouncing <c> as /ts/ (like in polish), distinguishing between e.g. <cis> and <sis>
+i like pronouncing <c> as /ts/ (like in polish), distinguishing between e.g. \<cis\> and \<sis\>
 
 i jokingly pronounce <gif> with an overenunciated /χ/, and seriously with a /g/
 

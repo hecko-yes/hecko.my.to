@@ -17,9 +17,7 @@ kinda funny that even though a fursona is supposed to represent me i instead kee
 **current main is [floaty](#floaty)**, distantly followed by [the fox](#fox) and [emerald snap](#emerald-snap)
 
 general traits:
-- either braver than me or exaggeratedly shy ~~and self-deprecating~~
-- extremely cuddly, will hug the heck out of you for eons if you let them
-- can pass out from too much cuteness (with a not very high threshold)
+- very cuddly, will hug the heck out of you for eons if you let them
 - voice could be similar to [timber puppers's ralsei](https://www.youtube.com/watch?v=MZiyMuvfi-E) and [tyler scowcroft's ring from ring fit adventure](https://www.youtube.com/watch?v=2ySV2xtEIGA), or perhaps [wynton yang's ralsei](https://www.youtube.com/watch?v=6Vfc61BjhUQ) and [sibylline sounds' bookshop skunk](https://www.youtube.com/watch?v=osJmMstb7_E) [fetish cw for their other videos] and [schazer's winner (tpot)](https://www.youtube.com/watch?v=YG5M7Q26U2s)
 - usually idealized toony bodies, as in no organs or bones or biological trappings like sweating or having to eat or sleep or being harmable
 - preferably either 5 fingers with opposable thumbs or no fingers with magical dexterity (or the pseudo-thumb thing [amphimorphos](https://amphimorpho.carrd.co/#info) have going on)
@@ -229,7 +227,7 @@ and [another](https://picrew.me/en/image_maker/1742063) by [treez0n](https://ins
 2023-06-23 - 2023-07-04, main as of 2024-01-07
 
 cat but it stands for <u>c</u>at-<u>a</u>djacent <u>t</u>hing (as in it's a synthetic creature by nature and only superficially catlike)
-other descriptors include: creature, thing, plushie-coded, meowshmallow (courtesy of brionna), [counterfeit cat](https://en.wikipedia.org/wiki/Counterfeit_Cat), ~~bootleg [hello kitty](https://en.wikipedia.org/wiki/Hello_Kitty),~~
+other terms include: creature, thing, entity, plushie-coded, meowshmallow (courtesy of brionna), fairy, [counterfeit cat](https://en.wikipedia.org/wiki/Counterfeit_Cat), ~~bootleg [hello kitty](https://en.wikipedia.org/wiki/Hello_Kitty),~~
 floaty was a codename but is now just a name, inspired by it floating like [mew](https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon))
 more it/its than most
 1.3m (= 4'3") minus ears
@@ -237,11 +235,14 @@ more it/its than most
 no fur or bones or organs, just marshmallowy squish all the way through
 and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is gooey sweet lemon), and may be edible (though it regenerates immediately)
 the yellow bits glow, the pawpads are thick and squishy
+the curl of the tail may be used for storage (and may be a pocket dimension)
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
-it often hovers at about average adult height to better interact with stuff made for humans, it can fly higher up when needed but probably not too much
+it often hovers at about average adult human height to better interact with stuff made for humans, it can fly higher up when needed but probably not too much
+[digital meow,,](https://www.youtube.com/watch?v=Ca00eaT7CzU)
 
-canonically self-made, as in an it's an amateur that designed a new body for itself (because the weakness of its flesh disgusted it) and it lives as it now
-made to be capable of roughly everything humans can do (e.g. it can drive a car if given a booster seat), and if there's a problem then feel free to handwave it (e.g. it can scratch things because something something voluntary matter compression at its fingertips, it can lick things because uhh it has a mouth now)
+canonically self-made, as in an it's an amateur (me!) who designed a new body for itself (because the weakness of its flesh disgusted it) and it lives as it now
+made to be compatible with human society (e.g. it can drive a car if given a booster seat), and if there's a problem then feel free to handwave it (e.g. it can scratch things because something something voluntary matter compression at its fingertips, it can lick things because uhh it has a mouth now)
+remarkably similar to [wesley](#wesley) despite the 4.5-year gap
 
 potential changes i haven't applied to the reference yet (you may pick and choose at will):
 - mouth (drawn with it sometimes, depending on situation; inside is purple, for tongue i like yellow but that's not set in stone)
@@ -253,7 +254,7 @@ potential changes i haven't applied to the reference yet (you may pick and choos
 - more wing-shaped wings (meh)
 
 [inkscape source file](ma toki pona vr group photo floaty.svg)
-![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and big squirrel-like tail and small detached teardrop-shaped wings, purple collar, hot pink inner ears and big heart symbol on chest and hand pawpads (main one is heart-shaped) and featureless foot paws; winking, wings fluttering, waving](floaty/ma toki pona vr group photo floaty.png){:style="width: 400px; max-width: 100%;"}
+![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and big squirrel-like tail and small detached teardrop-shaped wings (like on a cartoon bee), purple collar, hot pink inner ears and big heart symbol on chest and hand pawpads (main one is heart-shaped) and featureless foot paws; winking, wings fluttering, waving](floaty/ma toki pona vr group photo floaty.png){:style="width: 400px; max-width: 100%;"}
 
 now as a [public vrchat avatar!](https://vrchat.com/home/avatar/avtr_2edfaf3f-90ee-4b39-bf69-7e326042dbf5) ([source files](https://github.com/Sobsz/floaty))
 

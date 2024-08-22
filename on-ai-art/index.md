@@ -55,8 +55,10 @@ so that's "desirable" down but i do still currently believe "likely", or at the 
 
 and i feel like people are underestimating it
 
-i mean just in 2018 the best we had was cleverbot (which btw did actually only pattern-match and copy its training data verbatim)
+in terms of language: just in 2018 the best we had was cleverbot (which btw did actually only pattern-match and copy its training data verbatim)
 and now in 2024 the turing test is pretty much *solved* (if you weren't trained to recognize the chatgpt tone of voice you likely wouldn't be able to tell, also character.ai), and people somehow aren't impressed
+you can now Just Ask a computer to do something, *anything*, in plain english, and it'll often Just Do it! before language models you couldn't even try really
+before then almost everything had to be programmed in explicitly, whereas now even if you assume a model can only do what it was trained on it's still impressive that a) it can make use of plain english data b) it can recombine it in so many ways
 
 people are focusing on smaller and smaller flaws
 a couple years ago it was "ha this image model can't generate hands", now it's "ha this video model can't generate hands" or "ha this image model can't generate 20 people at once"
@@ -109,6 +111,9 @@ we got better education and all, sure, but models benefit from that too
 meanwhile our brains have been the same size and architecture for generations, whereas models are unconstrained and free to evolve
 and they don't need food or breaks or inspiration or a humane working environment, just a computer and electricity
 
+oh but human + computer will always be better than just computer right? like [centaur chess](https://en.wikipedia.org/wiki/Advanced_chess)? [wrong](https://gwern.net/note/note#advanced-chess-obituary)
+if there's something a human can do to improve generated output, you'd best believe that's what they'll train new models to do
+
 # things that are not my main objection
 
 as in, if they were fixed i would still be unhappy
@@ -139,6 +144,10 @@ ok so maybe flawless detection of generated images? well first of all good luck 
 but most importantly to me: even if every single generated image was always tagged as such, that wouldn't stop them from competing on a material level
 one could filter them out, sure, and at least in the current world many people would (because the smallest possible effort will be the most abundant, and boy does image generation allow low effort)
 but what if they're genuinely high-quality? would most people [really care](#people-value-human-works) about the humanity?
+
+## money
+
+even if universal basic income was a thing so that artists wouldn't have to work, many humans inherently value being useful
 
 # arguments i don't find convincing
 
@@ -204,6 +213,8 @@ honestly i'm not sure if there exists *any* "truly original" artwork, not inspir
 
 ## "it uses so much energy"
 
+**[update: [giovanh's writeup about this](https://blog.giovanh.com/blog/2024/08/18/is-ai-eating-all-the-energy-part-1-of-2/) is much more in-depth go read it]**
+
 in terms of using the model: no it doesn't! as an upper bound, back when i tried stable diffusion 1.5 on my laptop (so running entirely locally on my hardware) it took 40 seconds per image, so it physically cannot use more energy than 40 seconds of full-power laptop usage
 and that's without optimizations, and of course there are plenty of optimizations since then because *image generation devs also want it to use less energy* (so more people can use it and so they can generate more images)
 so when you try to call out image generation for being wasteful it just doesn't hit them! and instead it hits e.g. 3d artists who also use a lot of gpu time to render their stuff (also gamers)
@@ -242,8 +253,10 @@ i honestly think humans creating things might become obsolete within the next,, 
 just like copying things by hand is largely obsolete now
 and i don't like that, i want to create things and have it matter
 
-even creating ai is gonna be obsolete
+even creating generators is gonna be obsolete
 why lovingly tune a custom text-to-speech model when elevenlabs (trained on millions of hours of data) is easier and better in pretty much every way ([bitter lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) woo)
+,,except performance i guess, but even then why curate data for it when a model can generate heaps of near-indistinguishable synthetic audio
+why write a world generator when a model can iterate through thousands of possibilities and find the one with the highest average æsthetic score, or heck just get a 3d model directly from a model
 
 # am i the baddie?
 
@@ -315,6 +328,10 @@ and on the language model side:
 
 - [openai is struggling](https://www.wheresyoured.at/to-serve-altman/), and if they go bankrupt then other companies will at least be discouraged i think
 - somehow they [still haven't solved prompt injection](https://simonwillison.net/2024/Jul/14/pycon/#pycon-2024.031.jpeg), which if nothing else will discourage customer-facing human replacement
+
+# kindred spirits
+
+- [tom scott](https://www.youtube.com/watch?v=jPhJbKBuNnA)
 
 # sidenotes
 
