@@ -110,6 +110,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [1984 by george orwell](https://george-orwell.org/1984/) | pd\* | *except* in the us where it's copyrighted until 2044 |
 | [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) |
 | [mickey mouse (initial version)](https://commons.wikimedia.org/wiki/File:Mickey_Mouse_Color_Stock_Poster_(Celebrity_Productions_era,_1928).jpg) | pd* | in the usa at least, and steamboat willie is [trademarked](https://www.youtube.com/watch?v=4wpjT3-5lQ8) so be careful; link is to a color version which is actually public-domain, though the clothing colors are different |
+| [make your pony](https://x.com/JayPastaForce/status/1555198319521136640) | by | my little pony 3d model maker for blender |
 
 # non-meme freebies
 
