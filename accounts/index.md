@@ -12,6 +12,7 @@ the hecko is elsewhere on the internet no way
 
 ## checked actively
 
+- bluesky - [@hecko.my.to](https://bsky.app/profile/hecko.my.to){:rel="me"}
 - discord - `.hecko` (note the period)
 - email - hecko period yes swirly g mail period commercial
 - reddit - [Sobsz](https://www.reddit.com/user/Sobsz){:rel="me"}
@@ -19,9 +20,12 @@ the hecko is elsewhere on the internet no way
 
 ## not checked actively
 
+- matrix - [sobsz:matrix.org](https://matrix.to/#/@sobsz:matrix.org){:rel="me"}
+
+## dead
+
 - cohost - [hecko](https://cohost.org/hecko){:rel="me"}
 - fediverse - [hecko@fluffcord.social](https://fluffcord.social/@hecko){:rel="me"} (currently down)
-- matrix - [sobsz:matrix.org](https://matrix.to/#/@sobsz:matrix.org){:rel="me"}
 
 # gaming
 
