@@ -48,6 +48,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [studio ghibli screencaps](https://www.ghibli.jp/info/013409/) | id | "freely within the scope of common sense" ([per](https://www.openculture.com/2020/12/studio-ghibli-makes-1178-images-free-to-download.html)) |
 | [freedom planet press kit](https://commons.wikimedia.org/wiki/Category:Freedom_Planet) | by-sa | especially [freedom planet 2](https://commons.wikimedia.org/wiki/Category:Freedom_Planet_2); mostly screenshots, some isolated character art |
 | [wuffle comics](https://wufflecomics.tumblr.com/) | 0 | furry comic series running from 2012 to 2017; [also on commons](https://commons.wikimedia.org/wiki/Category:Wuffle_(comic)) |
+| [the backrooms original photo](https://archive.org/details/backrooms-photos/807OREGON/DSC00161.jpg) | 0 | together with a bunch of others from the same location |
 
 # music
 
