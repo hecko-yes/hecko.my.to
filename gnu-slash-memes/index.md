@@ -49,6 +49,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [freedom planet press kit](https://commons.wikimedia.org/wiki/Category:Freedom_Planet) | by-sa | especially [freedom planet 2](https://commons.wikimedia.org/wiki/Category:Freedom_Planet_2); mostly screenshots, some isolated character art |
 | [wuffle comics](https://wufflecomics.tumblr.com/) | 0 | furry comic series running from 2012 to 2017; [also on commons](https://commons.wikimedia.org/wiki/Category:Wuffle_(comic)) |
 | [the backrooms original photo](https://archive.org/details/backrooms-photos/807OREGON/DSC00161.jpg) | 0 | together with a bunch of others from the same location |
+| [brother, may i have some oats](https://commons.wikimedia.org/wiki/File:A_Pair_of_Pigs.jpg) | pd |
 
 # music
 
@@ -99,6 +100,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [touhou](https://touhou-project.news/) | id | [guidelines](https://touhou-project.news/guidelines_en/) |
 | [glitch](https://www.glitchthegame.com/public-domain-game-art/) | 0 | defunct; the source content is in adobe flash format, you might prefer [svg](https://opengameart.org/content/glitch-svgs) or [png](https://opengameart.org/content/glitch-pngs) |
 | [duelyst](https://github.com/open-duelyst/duelyst) | 0 | defunct; [assets](https://github.com/open-duelyst/duelyst/tree/main/app/resources) |
+| [myhouse.wad](https://www.doomworld.com/forum/topic/134292) | by\* | intended to be played with the doom 2 asset pack which is proprietary, but it can be substituted for e.g. [freedoom](https://freedoom.github.io/) which has a permissive license |
 
 # other
 
