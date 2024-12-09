@@ -50,6 +50,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [wuffle comics](https://wufflecomics.tumblr.com/) | 0 | furry comic series running from 2012 to 2017; [also on commons](https://commons.wikimedia.org/wiki/Category:Wuffle_(comic)) |
 | [the backrooms original photo](https://archive.org/details/backrooms-photos/807OREGON/DSC00161.jpg) | 0 | together with a bunch of others from the same location |
 | [brother, may i have some oats](https://commons.wikimedia.org/wiki/File:A_Pair_of_Pigs.jpg) | pd |
+| [powder that makes you say "yes"](https://commons.wikimedia.org/wiki/File:Powder_that_makes_you_say_%22yes%22.jpg) | pd\* | lost copyright in the us because renewal was required back then, countries without the [rule of the shorter term](https://en.wikipedia.org/wiki/Rule_of_the_shorter_term) still require their own copyright term to pass; added text is assumed too trivial to copyright |
 
 # music
 
