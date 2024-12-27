@@ -116,6 +116,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) |
 | [mickey mouse (initial version)](https://commons.wikimedia.org/wiki/File:Mickey_Mouse_Color_Stock_Poster_(Celebrity_Productions_era,_1928).jpg) | pd* | in the usa at least, and steamboat willie is [trademarked](https://www.youtube.com/watch?v=4wpjT3-5lQ8) so be careful; link is to a color version which is actually public-domain, though the clothing colors are different |
 | [make your pony](https://x.com/JayPastaForce/status/1555198319521136640) | by | my little pony 3d model maker for blender |
+| [emotiguy](https://www.daz3d.com/emotiguy) | ??? | the yellow emoticon with glove hands that you might have seen [with sunglasses giving a thumbs up](https://knowyourmeme.com/memes/picardia-thumbs-up-emoji-man) (perhaps repainted into e.g. a flag of a flavor of anarchism) or looking down while being sad; does cost 2 dollars, and i have no idea what the copyright situation is but [apparently wikiversity has images of him](https://en.wikiversity.org/wiki/File:EmotiBase-point_forward_worry_000.png) which i'm not sure if they just slipped past or what|
 
 # non-meme freebies
 
