@@ -268,8 +268,12 @@ angles of somewhat outdated original model, [.blend file](floaty/floaty sona.ble
 
 art by somepony who wishes to remain uncredited:
 
-![doing the mrbeast rap battle pose (looking at you and showing off its beans kinda)](floaty/floaty_beast.png){:.copyrighted}
+![doing the mrbeast rap battle pose (looking at you and showing off its beans kinda)](floaty/floaty beast.png){:.copyrighted}
 
 and one commissioned from [@jakubk027.bsky.social](https://bsky.app/profile/jakubk027.bsky.social)
 
 ![lineless, massive ears, pupilless eyes, sparkles in the tail and wings](floaty/smol creature floaty, by jakubk027.png){:.copyrighted}
+
+and by [the menagerie](https://linktr.ee/The_Menagerie):
+
+![colored sketch, lounging on air, beans behind head, tail hanging down with distance fog, looking at the viewer with a mildly smug smile](floaty/floaty lounging, by the menagerie.png){:.copyrighted}
