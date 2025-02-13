@@ -266,6 +266,10 @@ angles of somewhat outdated original model, [.blend file](floaty/floaty sona.ble
 ![orthographic view from the front](floaty/floaty sona ortho front.png)
 ![orthographic view from the side with arms hidden; wings are floating and not attached to the body](floaty/floaty sona ortho side.png)
 
-art by [@The-Menagerie@cohost.org](https://cohost.org/The-Menagerie):
+art by somepony who wishes to remain uncredited:
 
-![floaty doing the mrbeast rap battle pose (looking at you and showing off its beans kinda)](floaty/floaty_beast by the menagerie.png){:.copyrighted}
+![doing the mrbeast rap battle pose (looking at you and showing off its beans kinda)](floaty/floaty_beast.png){:.copyrighted}
+
+and one commissioned from [@jakubk027.bsky.social](https://bsky.app/profile/jakubk027.bsky.social)
+
+![lineless, massive ears, pupilless eyes, sparkles in the tail and wings](floaty/smol creature floaty, by jakubk027.png){:.copyrighted}
