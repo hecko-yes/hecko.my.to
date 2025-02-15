@@ -123,3 +123,4 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | name | license | notes |
 | :- | :- | :- |
 | [typodermic public-domain fonts](https://typodermicfonts.com/public-domain/) | 0 | not really pop culture but i've nowhere else to share these |
+| [my child star pack](https://booth.pm/en/items/4522806) | 0 | 2000 anime drawings; booth.pm requires a pixiv account but you can get around it with [bugmenot](https://bugmenot.com/view/booth.pm); explicitly allowed to be used for machine learning if you're into that |
