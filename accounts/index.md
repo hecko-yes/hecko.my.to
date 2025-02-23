@@ -39,7 +39,7 @@ the hecko is elsewhere on the internet no way
 ## individual games
 
 - interference - [hecko](https://www.playinterference.com/players/hecko){:rel="me"} (pretty active)
-- lichess - [Sobsz](https://lichess.org/@/Sobsz){:rel="me"} (no good at it though)
+- lichess - [hecko_yes](https://lichess.org/@/hecko_yes){:rel="me"} (no good at it though)
 - osu - [Sobsz](https://osu.ppy.sh/users/7557974){:rel="me"}
 
 # other
