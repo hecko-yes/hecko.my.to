@@ -38,8 +38,9 @@ the hecko is elsewhere on the internet no way
 
 ## individual games
 
-- interference - [hecko](https://www.playinterference.com/players/hecko){:rel="me"} (pretty active)
-- lichess - [hecko_yes](https://lichess.org/@/hecko_yes){:rel="me"} (no good at it though)
+- chess.com - [hecko_yes](https://www.chess.com/member/hecko_yes){:rel="me"} (mostly there for the variants)
+- interference - [hecko](https://www.playinterference.com/players/hecko){:rel="me"}
+- lichess - [hecko_yes](https://lichess.org/@/hecko_yes){:rel="me"} (preferred over chess.com for challenges)
 - osu - [Sobsz](https://osu.ppy.sh/users/7557974){:rel="me"}
 
 # other
