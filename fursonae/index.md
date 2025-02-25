@@ -235,6 +235,7 @@ more it/its than most
 no fur or bones or organs, just marshmallowy squish all the way through
 and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is gooey sweet lemon), and may be edible (though it regenerates immediately)
 the yellow bits glow, the pawpads are thick and squishy
+**the tail is to be huge**, none of my references show it adequately yet but body-sized and up is prefered (but if that's out of your comfort zone that's fine)
 the curl of the tail may be used for storage (and may be a pocket dimension)
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
 it often hovers at about average adult human height to better interact with stuff made for humans, it can fly higher up when needed but probably not too much
