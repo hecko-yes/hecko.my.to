@@ -332,6 +332,7 @@ and on the language model side:
 # kindred spirits
 
 - [tom scott](https://www.youtube.com/watch?v=jPhJbKBuNnA)
+- [dynomight](https://dynomight.net/automated/)
 
 # sidenotes
 
