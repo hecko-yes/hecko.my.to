@@ -52,6 +52,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [brother, may i have some oats](https://commons.wikimedia.org/wiki/File:A_Pair_of_Pigs.jpg) | pd |
 | [powder that makes you say "yes"](https://commons.wikimedia.org/wiki/File:Powder_that_makes_you_say_%22yes%22.jpg) | pd\* | lost copyright in the us because renewal was required back then, countries without the [rule of the shorter term](https://en.wikipedia.org/wiki/Rule_of_the_shorter_term) still require their own copyright term to pass; added text is assumed too trivial to copyright |
 | [vaporwave head](https://commons.wikimedia.org/wiki/File:Head_Helios_AM_Rhodes_E49_(bust_only).png) | 0 |
+| [zeepzorp](https://commons.wikimedia.org/wiki/File:Zeepzorp.png) | 0 | alien cat thing |
 
 # music
 
