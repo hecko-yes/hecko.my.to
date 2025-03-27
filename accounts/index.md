@@ -48,7 +48,7 @@ the hecko is elsewhere on the internet no way
 - artfight - [hecko](https://artfight.net/~hecko){:rel="me"} (need an account to view it)
 - derpibooru - [hecko](https://derpibooru.org/profiles/hecko){:rel="me"}
 - fimfiction - [hecko](https://www.fimfiction.net/user/335946/hecko){:rel="me"}
-- github - [Sobsz](https://github.com/Sobsz){:rel="me"}
+- github - [hecko-yes](https://github.com/hecko-yes){:rel="me"}
 - keybase - [sobsz](https://keybase.io/sobsz){:rel="me"} (not used anymore)
 - miraheze - [.hecko](https://meta.miraheze.org/wiki/User:.hecko){:rel="me"}
 - neocities - [sobsz](https://sobsz.neocities.org/){:rel="me"} (superseded by this very website)
