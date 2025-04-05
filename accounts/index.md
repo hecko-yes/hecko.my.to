@@ -55,5 +55,5 @@ the hecko is elsewhere on the internet no way
 - stackoverflow - [hecko (7142032)](https://stackoverflow.com/users/7142032/hecko){:rel="me"}
 - tatoeba - [hecko](https://tatoeba.org/en/user/profile/hecko){:rel="me"}
 - twitch - [hecko_yes](https://www.twitch.tv/hecko_yes){:rel="me"}
-- wikimedia - [Sobsz](https://meta.wikimedia.org/wiki/User:.hecko){:rel="me"}
+- wikimedia - [.hecko](https://meta.wikimedia.org/wiki/User:.hecko){:rel="me"}
 - youtube - [hecko-yes](https://www.youtube.com/channel/UCfwoJszjdfe2p6YY0FpXFYA){:rel="me"}
