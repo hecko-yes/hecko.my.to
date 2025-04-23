@@ -274,7 +274,7 @@ a mi lon ma mama . lon la mi kama ala sin la
 mi pana lon poki jaki e kili pi lon sin
 
 # mi sewi tenpo
-private doc created 2023-03-24
+private doc created and last edited 2023-03-24
 original: [Jake Paul - It's Everyday Bro](https://www.youtube.com/watch?v=hSlb1ezRqfA)
 not a translation per se, but rather a [soramimi](https://en.wikipedia.org/wiki/Soramimi) (sona nimi?)
 
