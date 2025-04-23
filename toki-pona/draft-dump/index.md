@@ -43,8 +43,19 @@ pilin mi li wawa ala. mi kama monsuta tan toki pi weka mi
 
 mi wile musi… o… pona… mi wile musi…
 
-# o tawa mun e mi
+# olin li wawa
+[2020-12-18](https://discord.com/channels/301377942062366741/301377942062366741/789451121890164736)
+original: [My Little Pony: Friendship is Magic - Friendship is Magic, part 1 (S01E01)](https://www.youtube.com/watch?v=aELzFYbd7eo)
 
+tenpo pini la, lon ma wawa Ekuwesuja la, poni sama tu li lawa li pali e pona tawa ma ale.
+tawa ni la, poni majuna li sewi e suno lon tenpo suno, kepeken wawa [nasa] ona. poni sin li sewi e mun lon tenpo mun.
+nasin ni la, poni sama tu li sama wawa, tawa ma ona, tawa poni ante ale.
+taso, tenpo kama la, poni sin li kama pilin ike.
+poni mute li musi li pilin pona lon tenpo suno, li lape li monsuta lon tenpo mun ona. 
+tenpo wan la, poni sin li wile ala anpa e mun tawa ken suno.
+poni majuna li toki tawa ona, taso ike pi pilin pi poni sin li pali e ni: ona li kama poni pimeja nasa, Natume Mun.
+
+# o tawa mun e mi
 [2020-12-19](https://discord.com/channels/301377942062366741/301377942062366741/789831257990496277)
 original: [fuckthem00n & Mochi Ghost - Fly Me To The Moon (Fuck The Moon)](https://www.youtube.com/watch?v=HPRluY5YZCY)
 [recording](o tawa mun e mi.mp3) (using the [poki toki pi jan Tesimalu / Gakuto Deshimaru](https://www.youtube.com/watch?v=Bem1XrojM1U) voicebank by UtaUtaUtau; [project file](o tawa mun e mi.ust))
@@ -232,6 +243,23 @@ kon pi toki mi la sina -
 ona la mi pona (a)
 pali mi li lon sewi (lon)
 o pini ala e ni (mu)
+
+# pini lete
+last worked on 2022-12-12, posted [2023-02-08](https://discord.com/channels/301377942062366741/1072629681842561118/1073001402730819644)
+original: [My Little Pony: Friendship is Magic - Winter Wrap Up (S01E11)](https://www.youtube.com/watch?v=RkMt7dfvJyk)
+[recording](pini lete.mp3)
+
+🦄 akesi o lon! o weka tan lape - lete li pini!
+🐲 a? mama?
+🦄 lete li pini!
+🐲 mama ala.
+🦄 akesi o, suno kama la kasi li kama. ni la poni ale li pali li weka e lete. o pona e mi!
+🐲 poni ale? poni ma kin anu seme? mi la ona o kepeken wawa palisa sama ma lawa.
+🦄 ala a. poni ma li open e ma ni la, ona li kepeken ala wawa palisa lon tenpo lete ale. ni li nasin!
+🐲 ni li nasa! palisa ala... mu.
+🦄 mi o lukin: lawa li len. monsi li len. noka li len. akesi Pake pi wile lape mute li~ len. pona la mi sona e nasin mi la mi~ ken! lon tenpo open!
+
+🦄 a... mi o~ awen lili.
 
 # kili pi lon sin
 recording published and work started [2023-03-26](https://discord.com/channels/301377942062366741/340307145373253642/1089556885125988504), doc last edited 2023-04-18
