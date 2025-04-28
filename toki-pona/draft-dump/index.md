@@ -418,6 +418,56 @@ o sike e ona o musi mi sin
 
 kiiijetesaaantakaluuu muuu...upekosi
 
+# ilo seli
+originally posted [2024-08-20](https://discord.com/channels/969386329513295872/1275514928987639899/1275516933617221724) (kama sona discord server), amended [2024-10-15](https://discord.com/channels/929521083193888790/929522007454937099/1295805953198919791) (Ma Toki Pona VR discord server) to replace "insa lete" with "kama lete"
+original: [why do they call it oven](https://knowyourmeme.com/memes/why-do-they-call-it-oven)
+[recording](ilo seli.opus) (using my own voicebank; [project file](ilo seli.ustx))
+
+nimi li "ilo seli" la tan seme la moku li kama lete li weka seli li tawa uta li moku
+
+# kipisi lon lon lon e e
+first line no later than [2023-12-14](https://www.reddit.com/r/mi_lon/comments/18ia9u4/kipisi_lon_lon_lon_e_e/) (reddit), full version [2024-11-17](https://discord.com/channels/929521083193888790/929522007454937099/1307804276684226620) (Ma Toki Pona VR discord server)
+original: [Timbaland × Biser King - Give It To Me × Dom Dom Yes Yes]
+[recording](kipisi lon lon lon e e.opus) (using my own voicebank; [project file](kipisi lon lon lon e e.ustx))
+
+kipisi lon lon lon e e
+kipisi pakala pipi
+kipisi lon lon lon e e
+kipisi pakala pipi
+mi wile ike ala (kipisi kipisi kipisi)
+li lukin e sina tawa (kipisi kipisi kipisi)
+
+# suli poka ona
+[2024-11-20](https://discord.com/channels/929521083193888790/929522007454937099/1308794164200341589) (Ma Toki Pona VR discord server)
+original: [KSI - Thick Of It](https://www.youtube.com/watch?v=At8v_Yc044Y)
+[recording](suli poka ona.opus) (using my own voicebank; [project file](suli poka ona.ustx))
+
+mi lon ma wawa la jan ale li son-
+-a e mi lon ma lete · mi lete e kon
+mi sona ala a la mi lete taso
+mute mute li nanpa mi pi jan jo
+
+sinpin la utala la poki la lawa
+o mani e lawa mi · ale la mi jan suli
+a pilin mi la mi lukin e ijo la
+mi tawa sewi la supa li pakala
+
+mu mu · mu mu · mu mu
+kijetesantakalu
+mu mu · mu mu · mu mu
+mi la kijetesantakalu
+
+# o lukin! e pan mute
+[2024-12-31](https://discord.com/channels/969386329513295872/1323712484862853321/1323713209387192361) (kama sona discord server)
+original: [KroboProductions - Robotnik Captures Smiling Friends (ft. Captain Rescue)](https://www.youtube.com/watch?v=u_im-zOxZ1U&t=3m42s)
+
+o lukin! e pan ale. mi kulupu e pan. mi kama jo e pan ni lon tenpo sike luka tu pan. a a, pan li suwi~!
+
+## o lukin! e pan mute (old version)
+[2024-12-05](https://discord.com/channels/929521083193888790/929522007454937099/1314252590053064785) (Ma Toki Pona VR discord server)
+
+o lukin! e poki pan mute. mi kulupu e poki pan. mi kama jo e poki pan ni kepeken sike luka tu pan.
+
 # toki pi meli jaki
 private doc created 2025-02-26, last edited 2025-02-27
 original: [SAWTOWNE - Confessions of a Rotten Girl](https://www.youtube.com/watch?v=sV2H712ldOI)
@@ -506,3 +556,14 @@ o utala ala
 (mi pakala)
 o weka a
 [ilo li pini]
+
+# waso seli pi jan Si
+[2025-04-25](https://discord.com/channels/301377942062366741/301377942062366741/1365345851211255869)
+original: [Jack Black - Steve's Lava Chicken](https://www.youtube.com/watch?v=41O_MydqxTU)
+
+wa-wa-wa-waso
+se-se-se-seli
+a waso seli mi li suwi mute
+a mama mi a · sina awen wile
+insa li telo · selo li kiwen a
+seli li utala e uta sina
