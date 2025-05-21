@@ -404,7 +404,7 @@ mi jan lawa la sin'ale li mu suwi a (?)
 # o sona e soko ike pi ma kasi
 [2024-01-20](https://discord.com/channels/301377942062366741/340307145373253642/1198209702362890380)
 originals: [Jay Eazy - Mega Man](https://www.youtube.com/watch?v=2cXL09xy-N4), [Seaslux - Beware the Nintendo's Pikmin Games](https://www.youtube.com/watch?v=R6_bjrYVFJ8)
-[low-quality recording](o sona e soko ike pi ma kasi.ogg)
+[low-quality recording](o sona e soko ike pi ma kasi.opus)
 
 mi sona ala lipu li sona mani ‼️
 ni li pona tawa- pona tawa mi ‼️
