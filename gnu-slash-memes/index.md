@@ -53,6 +53,9 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [powder that makes you say "yes"](https://commons.wikimedia.org/wiki/File:Powder_that_makes_you_say_%22yes%22.jpg) | pd\* | lost copyright in the us because renewal was required back then, countries without the [rule of the shorter term](https://en.wikipedia.org/wiki/Rule_of_the_shorter_term) still require their own copyright term to pass; added text is assumed too trivial to copyright |
 | [vaporwave head](https://commons.wikimedia.org/wiki/File:Head_Helios_AM_Rhodes_E49_(bust_only).png) | 0 |
 | [zeepzorp](https://commons.wikimedia.org/wiki/File:Zeepzorp.png) | 0 | alien cat thing |
+| [oh yeah woo yeah](https://commons.wikimedia.org/wiki/File:Petroglypgh_Group_Nordic_Bronze_Age_007.svg) | by-sa | see top right; also known as "groovin'"; license is for svg version, original is likely pd if you can find it |
+| [old garfield strips](https://commons.wikimedia.org/wiki/Category:Garfield_(1977%E2%80%9378_comic_strip)) | pd\* | [quite controversially so](https://www.reddit.com/r/publicdomain/comments/19f5iel/for_the_last_time_garfield_is_public_domain/) but indeed public-domain in the us due to not using a notice back when that was required; see also [the precursor, jon](https://commons.wikimedia.org/wiki/Category:Jon_(comic_strip)), which includes [an old iteration of the "now where could my pipe be" strip](https://commons.wikimedia.org/wiki/File:Jon_-_1976-10-14.png) |
+| [google chrome t-rex](https://commons.wikimedia.org/wiki/File:Chromium_T-Rex-error-offline.svg) | by |
 
 # music
 
@@ -63,7 +66,6 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [music by tom lehrer](https://tomlehrersongs.com/) | 0 | known for e.g. "New Math" |
 | [tay zonday - chocolate rain](https://www.youtube.com/watch?v=EwTZ2xpQwpA) | by-nc-nd |
 | [lud and schlatt's musical emporium](https://www.youtube.com/@ludandschlattsmusicalempor6746) | by | of most interest are the [animal crossing](https://www.youtube.com/watch?v=44MCworZf78) and [wii shop channel](https://www.youtube.com/watch?v=Y-6Plfn1yHg) soundalikes (the former now being [a whole album](https://www.youtube.com/watch?v=bIdLNUnYf10)) |
-| [little women (1933) theme song](https://www.youtube.com/watch?v=dLaiV5QoRtI) | pd | famously remixed in the [opening cutscene of hotel mario (1994)](https://www.youtube.com/watch?v=jra4ZxGA-ww) |
 | [undertale shop theme soundalike](https://opengameart.org/content/its-not-undertale) | 0\* | it might be that the samples are copyrighted, but if toby fox could get away with yoinking them from the internet then you probably can too |
 | [mitchie m - freely tomorrow (feat. hatsune miku)](https://commons.wikimedia.org/wiki/File:Freely_Tomorrow.ogg) | by\* | technicality because the attribution marking was removed but cc-by is irrevocable |
 | ievan polkka | pd | not the vocaloid version mind you, just the lyrics and notes, and i'm not aware of any freely-licensed recording (except i guess [this by-sa thing](https://commons.wikimedia.org/wiki/File:Ievan_Polkka_short_parody.ogg)) so you might have to make it yourself |
@@ -93,6 +95,10 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [it's okay to not like things](https://www.youtube.com/watch?v=0la5DBtOVNI) | by | [also on commons](https://meta.wikimedia.org/wiki/File:Its-okay-to-not-like-things.webm) for easier downloading |
 | [me at the zoo](https://www.youtube.com/watch?v=jNQXAC9IVRw)| by\* | [commons](https://commons.wikimedia.org/wiki/File:Me_at_the_zoo.webm) says it was once tagged as by but isn't anymore but the license is irrevocable |
 | [jocat](https://www.youtube.com/@JoCat) | by\* | [since 2021-04-08](https://www.youtube.com/watch?v=TOTB9naQfko); note that many of his videos contain copyrighted stuff; unsure if intentional |
+| [markiplier's "my longest hello everybody ever"](https://www.youtube.com/watch?v=BptxiIJhGd4) | by |
+| [the dover boys at pimento university](https://en.wikipedia.org/wiki/File:The_Dover_Boys_at_Pimento_University_1080p.webm) | pd | a modern-feeling merrie melodies cartoon |
+| [mr bean](https://commons.wikimedia.org/wiki/Category:Videos_of_Mr._Bean) | by |
+| some cartoon clips | by | according to [this comment by RockosModernLifeFan on reddit](https://www.reddit.com/r/publicdomain/comments/1hsypsl/a_list_of_publicdomain_and_creative_commons_memes/mlxaukw/); i've yet to dig for the uploads in question |
 
 # games
 
@@ -118,6 +124,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [mickey mouse (initial version)](https://commons.wikimedia.org/wiki/File:Mickey_Mouse_Color_Stock_Poster_(Celebrity_Productions_era,_1928).jpg) | pd* | in the usa at least, and steamboat willie is [trademarked](https://www.youtube.com/watch?v=4wpjT3-5lQ8) so be careful; link is to a color version which is actually public-domain, though the clothing colors are different |
 | [make your pony](https://x.com/JayPastaForce/status/1555198319521136640) | by | my little pony 3d model maker for blender |
 | [emotiguy](https://www.daz3d.com/emotiguy) | ??? | the yellow emoticon with glove hands that you might have seen [with sunglasses giving a thumbs up](https://knowyourmeme.com/memes/picardia-thumbs-up-emoji-man) (perhaps repainted into e.g. a flag of a flavor of anarchism) or looking down while being sad; does cost 2 dollars, and i have no idea what the copyright situation is but [apparently wikiversity has images of him](https://en.wikiversity.org/wiki/File:EmotiBase-point_forward_worry_000.png) which i'm not sure if they just slipped past or what|
+| [microsoft 3d movie maker](https://archive.org/details/3dmoviemaker) | by | mit license, open-source release [here](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
 
 # non-meme freebies
 
@@ -125,3 +132,9 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | :- | :- | :- |
 | [typodermic public-domain fonts](https://typodermicfonts.com/public-domain/) | 0 | not really pop culture but i've nowhere else to share these |
 | [my child star pack](https://booth.pm/en/items/4522806) | 0 | 2000 anime drawings; booth.pm requires a pixiv account but you can get around it with [bugmenot](https://bugmenot.com/view/booth.pm); explicitly allowed to be used for machine learning if you're into that |
+
+# not quite there yet
+
+| name | license | notes |
+| :- | :- | :- |
+| [little women (1933) theme song](https://www.youtube.com/watch?v=dLaiV5QoRtI) | pd in 2029 | famously remixed in the [opening cutscene of hotel mario (1994)](https://www.youtube.com/watch?v=jra4ZxGA-ww) |
