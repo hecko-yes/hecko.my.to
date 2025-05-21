@@ -418,6 +418,26 @@ o sike e ona o musi mi sin
 
 kiiijetesaaantakaluuu muuu...upekosi
 
+# pan li kama seli pakala
+[2024-05-14](https://discord.com/channels/301377942062366741/340307145373253642/1240050226169905242)
+original: [picdo - My Bread was Burnt to a Crisp](https://www.youtube.com/watch?v=2Pgfr75lgro)
+[horrible out-of-tune recording](pan li kama seli pakala.ogg)
+
+a
+pan li kama seli pakala
+pona la ona li pimeja ale ala
+a · wile mi la ona li ko pilin tawa uta
+wile mi la ona li awen seli pona
+taso tenpo li ken ala e wile mi
+
+pan li kama seli pakala
+li kiwen
+ona li pimeja ale ala
+a · tenpo suno kama la pali pan o pona
+pakala sama li ken ala kama
+toki ni la mi moku e pan ike
+aaa~
+
 # ilo seli
 originally posted [2024-08-20](https://discord.com/channels/969386329513295872/1275514928987639899/1275516933617221724) (kama sona discord server), amended [2024-10-15](https://discord.com/channels/929521083193888790/929522007454937099/1295805953198919791) (Ma Toki Pona VR discord server) to replace "insa lete" with "kama lete"
 original: [why do they call it oven](https://knowyourmeme.com/memes/why-do-they-call-it-oven)
