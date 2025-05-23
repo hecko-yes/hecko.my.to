@@ -4,7 +4,7 @@ color: "orange"
 excerpt: "omg hiii,,,"
 ---
 
-this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), `.hecko` on discord (see the rest at "accounts" above)
+this will eventually be a website of **hecko** (he/they(/it/neopronouns if you're brave), `.hecko` on discord (see the rest at "accounts" below)
 
 list of pages:
 - home page (which i want to make fancier eventually)
