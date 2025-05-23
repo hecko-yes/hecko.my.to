@@ -80,6 +80,30 @@ mun li ike
 nimi ante la
 o weka e ona
 
+# poki toki kalama
+[no later than 2021-11-04](https://web.archive.org/web/20231015061828/https://d.gh0.pw/doku.php?id=lemon)
+original: [Lemon Demon - Touch-Tone Telephone](https://www.youtube.com/watch?v=rbxL5BVEkRs)
+
+ ken la tenpo
+ni la sina
+wile sona
+e sona ike mi e sona sina kin
+sina sowe-li- nasa, su-li
+jan ike, mun sewi
+pa- kala, ike a
+Wenanimo, jasima (e toki mi a!)
+
+wile lon tenpo ali
+mi alasa e nimi
+sona li kama (tan~ uta mi kin)
+mi pali e nasin pi sona ale
+ten~po pimeja la, jan ale li kute e ona
+
+ni li tan pona mi
+(lon~ poki toki nen~a)
+mi jan *taso* ni
+(lon~ poki toki kalama) 
+
 # pakala poka la
 [2021-12-08](https://discord.com/channels/301377942062366741/340307145373253642/918145294741405706)
 original: [Brian David Gilbert - shingle jingle](https://www.youtube.com/watch?v=it8vJ03E8c8)
