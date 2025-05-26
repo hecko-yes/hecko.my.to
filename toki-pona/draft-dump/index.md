@@ -344,6 +344,22 @@ a mi lon ma mama . lon la mi kama ala sin la
 [...]
 mi pana lon poki jaki e kili pi lon sin
 
+# moku moku
+[2023-04-01](https://discord.com/channels/301377942062366741/990793063142146168/1091612786460725279)
+original: [Burger King - Whopper Whopper](https://www.youtube.com/watch?v=9cPxh2DikIA)
+
+moku moku moku moku
+wan la tu la san la moku
+soweli seli en kasi
+mi lawa e ni
+telo namako lon ona
+telo ala kin li pona
+soweli ante li ken lon
+moku pi nasin mi
+sina lawa e ni ale
+ma Peke la sina wile seme
+(mu mu!)
+
 # nasa ilo
 [2023-05-14](https://discord.com/channels/301377942062366741/340307145373253642/1107401777785077874)
 original: [Jamiroquai - Virtual Insanity](https://www.youtube.com/watch?v=4JkIs37a2JE)
