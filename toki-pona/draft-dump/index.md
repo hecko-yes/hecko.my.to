@@ -285,6 +285,25 @@ original: [My Little Pony: Friendship is Magic - Winter Wrap Up (S01E11)](https:
 
 🦄 a... mi o~ awen lili.
 
+# mi sewi tenpo
+private doc created and last edited 2023-03-24
+original: [Jake Paul - It's Everyday Bro](https://www.youtube.com/watch?v=hSlb1ezRqfA)
+not a translation per se, but rather a [soramimi](https://en.wikipedia.org/wiki/Soramimi) (sona nimi?)
+
+jan
+jo ken en ko sin
+jo tomo waso pata a en pipi sin tan
+(mi sewi tenpo, mi sewi e)
+la san selo kili po
+pata pona a jelo wan po
+
+mi sewi tenpo wile sin sin selo po
+pan mi la mu tu insa mun nena tan e po
+pan ssssona kapesi san en pu tenpo sin e
+mama pan pi jo lete kala pan jo konwe
+en a meso lanpan tu en a kan mi wile ku
+[][] sin ten pi uta e la pipi jo
+
 # kili pi lon sin
 recording published and work started [2023-03-26](https://discord.com/channels/301377942062366741/340307145373253642/1089556885125988504), doc last edited 2023-04-18
 original: [PinocchioP - Reincarnation Apple](https://www.youtube.com/watch?v=LYWP8HtgeLQ)
@@ -324,25 +343,6 @@ tan seme . tan seme
 a mi lon ma mama . lon la mi kama ala sin la
 [...]
 mi pana lon poki jaki e kili pi lon sin
-
-# mi sewi tenpo
-private doc created and last edited 2023-03-24
-original: [Jake Paul - It's Everyday Bro](https://www.youtube.com/watch?v=hSlb1ezRqfA)
-not a translation per se, but rather a [soramimi](https://en.wikipedia.org/wiki/Soramimi) (sona nimi?)
-
-jan
-jo ken en ko sin
-jo tomo waso pata a en pipi sin tan
-(mi sewi tenpo, mi sewi e)
-la san selo kili po
-pata pona a jelo wan po
-
-mi sewi tenpo wile sin sin selo po
-pan mi la mu tu insa mun nena tan e po
-pan ssssona kapesi san en pu tenpo sin e
-mama pan pi jo lete kala pan jo konwe
-en a meso lanpan tu en a kan mi wile ku
-[][] sin ten pi uta e la pipi jo
 
 # nasa ilo
 [2023-05-14](https://discord.com/channels/301377942062366741/340307145373253642/1107401777785077874)
