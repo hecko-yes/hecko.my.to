@@ -12,6 +12,19 @@ zero guarantees of quality or completeness
 if you want to finish/improve any of these be my guest, consider my work [cc0](/cc0) (though the original authors' copyright still applies)
 source links are to the discord server [ma pona pi toki pona] unless specified otherwise
 
+# pilin e pan
+[2020-11-28](https://discord.com/channels/301377942062366741/340307145373253642/782166211306848266)
+original: [i lik the bred](https://knowyourmeme.com/memes/i-lik-the-bred)
+
+mi soweli
+lon tenpo mun
+la jan ale
+li lape mu
+mi jo e ko
+lon uta mi
+pilin e pan
+kepeken ni
+
 # kama weka pi jan Asune Miku
 
 [2020-12-16](https://pad.snopyta.org/VcddqfJGRMCwBAQXMIhaOw) (public pastebin)
