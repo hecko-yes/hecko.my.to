@@ -232,7 +232,7 @@ floaty was a codename but is now just a name, inspired by it floating like [mew]
 more it/its than most
 1.3m (= 4'3") minus ears
 
-no fur or bones or organs, just marshmallowy squish all the way through
+no fur or bones or organs, just marshmallowy squish all the way through (a not-yet-defined synthetic substance, similar to what i imagine toons are made of ("toonium"), and also kinda similar to [the menagerie's mindmatter](https://the-menagerie.neocities.org/matter))
 and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is gooey sweet lemon), and may be edible (though it regenerates immediately)
 the yellow bits glow, the pawpads are thick and squishy
 **the tail is to be huge**, none of my references show it adequately yet but body-sized and up is prefered (but if that's out of your comfort zone that's fine)
