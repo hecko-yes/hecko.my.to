@@ -298,6 +298,23 @@ original: [My Little Pony: Friendship is Magic - Winter Wrap Up (S01E11)](https:
 
 🦄 a... mi o~ awen lili.
 
+# kalama Antate
+[2023-01-15](https://discord.com/channels/301377942062366741/340307145373253642/1064189734538203166)
+original: [UNDERTALE THE MUSICAL - LHUGUENY](https://www.youtube.com/watch?v=MobkO51msMI)
+
+· mu mu mu mu mu · mu mu mu mu · mu mu · mu ·
+· kalama Antate ·
+
+· mi tan ma suno (li)
+toki anu moli ·
+· utala li suli ·
+· ale li tan mi ·
+
+· mi tawa anpa tan nena Epa
+li lukin a e kasi toki nasa ·
+· toki suli ·
+· ona la mi o moli ·
+
 # mi sewi tenpo
 private doc created and last edited 2023-03-24
 original: [Jake Paul - It's Everyday Bro](https://www.youtube.com/watch?v=hSlb1ezRqfA)
