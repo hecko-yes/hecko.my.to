@@ -81,6 +81,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [various minecraft sounds](https://www.minecraft.net/en-us/attribution/sound) | 0/by | [here's](https://freesound.org/people/thecheeseman/sounds/44429/) the old hurt sound |
 | [dialup noise](https://freesound.org/people/Jlew/sounds/16475/) | by | (though personally i don't think the uploader has copyright on it so maybe pd?) |
 | [wilhelm scream](https://freesound.org/people/craigsmith/sounds/675810/) | pd |
+| [old church bell](https://freesound.org/people/dsp9000/sounds/76405/) | 0 | denoised version [here](https://freesound.org/people/igroglaz/sounds/633208/) |
 
 # speech
 
