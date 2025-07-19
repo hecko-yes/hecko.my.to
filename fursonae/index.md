@@ -235,11 +235,11 @@ more it/its than most
 no fur or bones or organs, just marshmallowy squish all the way through (a not-yet-defined synthetic substance, similar to what i imagine toons are made of ("toonium"), and also kinda similar to [the menagerie's mindmatter](https://the-menagerie.neocities.org/matter))
 and yes, it does taste like marshmallow (the hot pink is strawberry, the yellow is gooey sweet lemon), and may be edible (though it regenerates immediately)
 the yellow bits glow, the pawpads are thick and squishy
-**the tail is to be huge**, none of my references show it adequately yet but body-sized and up is prefered (but if that's out of your comfort zone that's fine)
+**the tail shall be huge**, none of my references show it adequately yet but body-sized and up is prefered (but if that's out of your comfort zone that's fine)
 the curl of the tail may be used for storage (and may be a pocket dimension)
 despite lack of mouth it can talk and even [eat](https://www.youtube.com/watch?v=jzm3sNl8VwQ); it may wear face masks to express emotions like owo
 it often hovers at about average adult human height to better interact with stuff made for humans, it can fly higher up when needed but probably not too much
-[digital meow,,](https://www.youtube.com/watch?v=Ca00eaT7CzU)
+[digital meow?](https://www.youtube.com/watch?v=Ca00eaT7CzU)
 
 canonically self-made, as in an it's an amateur (me!) who designed a new body for itself (because the weakness of its flesh disgusted it) and it lives as it now
 made to be compatible with human society (e.g. it can drive a car if given a booster seat), and if there's a problem then feel free to handwave it (e.g. it can scratch things because something something voluntary matter compression at its fingertips, it can lick things because uhh it has a mouth now)
