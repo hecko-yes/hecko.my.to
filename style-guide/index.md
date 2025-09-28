@@ -319,6 +319,7 @@ some applied more consistently than others
 - [`cannot into`](https://www.polandballwiki.com/wiki/Poland_cannot_into_space)
 - `and and and` / `or or or`
 - `would you be willing to`
+- `royalty-free` (anything that resembles a famous property regardless of either party's licensing, "[serial numbers filed off](https://tvtropes.org/pmwiki/pmwiki.php/Main/SerialNumbersFiledOff)")
 
 ## acronyms
 
@@ -349,6 +350,9 @@ some applied more consistently than others
 - :triumph: (😤)
 - :pleading_face: (🥺)
 - :pray: (🙏)
+- :white_check_mark: (✅)
+- :purple_heart: (💜)
+- :people_hugging: (🫂)
 - `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
 - `¯\_(ツ)_/¯` (famous shrug emoticon)
 - `>:` (angy like `>:(` but mouthless)
