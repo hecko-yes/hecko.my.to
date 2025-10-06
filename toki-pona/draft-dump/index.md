@@ -657,3 +657,63 @@ a waso seli mi li suwi mute
 a mama mi a · sina awen wile
 insa li telo · selo li kiwen a
 seli li utala e uta sina
+
+# telo nasa pi poni Pinki
+private doc created 2025-05-24, last edited 2025-05-26
+original: [Sherclop Pones - Pinkie's Brew](https://www.youtube.com/watch?v=682pneYoP0c)
+
+sona pi wawa nasa la mi pona e ale
+[...] tu taso li wile
+[...]
+
+o lukin e pali mi nasa
+[...]
+
+telo
+li monsuta e sina
+lon li pona tawa poni lon tenpo ale ala
+[...]
+
+moku suwi · tenpo suli
+telo selo · ante e lon [?]
+[...]
+omekapo · mi yupekosi
+
+suwi o · sina kute e ni la mi moli
+(o) sin ala e mi · o mu ala tan weka mi
+mi seli sin e poki li ken lukin e sina
+
+o lukin e pan pi mi nasa
+e telo pilin e 
+o pona tawa mi apeja
+ken la mi tawa tomo
+
+ken la mi tawa tomo
+
+# NANPA IKE!
+private doc created and last edited 2025-05-30
+original: [Tanger - BAD NUMBER!](https://www.youtube.com/watch?v=aXbFXZTvXJw)
+
+(mi) sona ala e · jan e ma e nimi
+mi ken ala a · weka ala ala
+ala li sama · ala li tawa ala
+kama la mi suli · (ta)so tenpo lon li lon
+mi sona e pakala pi tenpo pini
+utala wawa poka li ante ala e pilin mi
+ale li suli ala · ni li ken
+ale o pakala · mi o awen (mi o awen!)
+mi sona ala weka tan tenpo pini
+(mi) awen lon nanpa pini · ni li pona tawa mi
+(su)no ni la mi tawa ma sin
+o sin e sona mi e wawa kin
+mi ken ala weka ale
+mi awen awen la tan a li seme
+ale la mi awen wile
+mi wile e nasin pi pon(a) ali
+mi sama kasi li awen (lon) ma ni
+leko ken o ilo pona [?]
+nanpa mi li ike la mi awen lon
+sona ni li wile kama lon si-
+na · jan ale li lon ma pi- [?]
+meja li lape li wile kute a [?]
+(mi) wile pakala nasa wawa
