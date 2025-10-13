@@ -378,9 +378,8 @@ a rundown through the [4 clauses](https://en.wikipedia.org/wiki/Fair_use#U.S._fa
 	- the network is much smaller than the dataset so intuitively it shouldn't be able to memorize everything, but:
 		- turns out [it's possible to recognizably compress an image into 40 bytes](https://x.com/Ethan_smith_20/status/1801493585155526675)
 			- is 40 bytes copyrightable? ~~try using the smb1 mario sprite (12x16 pixels with a 2-bit palette = 48 bytes) and see where that gets you~~ (that might be more of a trademark thing i'm not sure)
-		- finetuning can cause blatant memorization, like with [midjourney v6](https://spectrum.ieee.org/midjourney-copyright)
+		- finetuning can cause blatant memorization, like with [midjourney v6](https://spectrum.ieee.org/midjourney-copyright) (that being said i feel like this is more of an avoidable gotcha than an inherent issue so idk)
 		- characters are copyrightable too (though focusing on that would be bad for fan artists)
-		- (that being said i feel like this is more of an avoidable gotcha than an inherent issue so idk)
 	- [it's possible to train a model on a random subset of the pixels](https://arxiv.org/pdf/2305.19256), but i don't think that's much different from just downscaling it and then using upscalers (which are at the very least less controversial and more transformative-like)
 		- though intuitively denoisers are uncontroversial too, yet stable diffusion is "just" a denoiser that got good enough at denoising to denoise pure noise
 4. **Effect upon work's value** - infinite on a class scale, though the model trainers could go "well we didn't train on artist names so no individual artist or work is being devalued so ha"
