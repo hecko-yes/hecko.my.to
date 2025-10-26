@@ -353,9 +353,11 @@ some applied more consistently than others
 - :white_check_mark: (✅)
 - :purple_heart: (💜)
 - :people_hugging: (🫂)
+- :regional_indicator_a: (🇦, meant as "ah." in a discord reaction because a message feels like too much)
 - `o/` (an emoticon, not an emoji; represents a wave a la "hello"; `\o` for "goodbye")
 - `¯\_(ツ)_/¯` (famous shrug emoticon)
 - `>:` (angy like `>:(` but mouthless)
+- `>:3c`
 
 # pronunciation
 
