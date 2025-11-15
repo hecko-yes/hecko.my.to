@@ -50,7 +50,7 @@ born april 5, 2003
 <summary markdown="span">sexuality: **ace**-ish</summary>
 more specifically [aegosexual](https://www.lgbtqia.wiki/wiki/Aegosexual), meaning i enjoy the idea of sexytimes but actually *doing* it is a no thanks
 
-romanticity-wise i'm not sure but am taken (brionna 💜)
+romanticity-wise i don't even know what love is honestly
 </details>
 
 <details>
