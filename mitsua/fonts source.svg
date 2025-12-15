@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="500"
+   height="40"
+   viewBox="0 0 500 40"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="fonts.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#808080"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98112738"
+     inkscape:cx="232.89535"
+     inkscape:cy="192.63554"
+     inkscape:document-units="px"
+     inkscape:current-layer="fontstruct"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#666666"
+     showborder="false"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#000000"
+       empopacity="0"
+       color="#000000"
+       opacity="0"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF />
+  </metadata>
+  <g
+     inkscape:label="Source Han Sans JP"
+     inkscape:groupmode="layer"
+     id="source-han-sans-jp"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="258.42099"
+         y="33.311192"
+         style="font-size:34.6667px">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="Droid Sans Japanese"
+     inkscape:groupmode="layer"
+     id="droid-sans-japanese"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Droid Sans Japanese';-inkscape-font-specification:'Droid Sans Japanese'">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="Kosugi"
+     inkscape:groupmode="layer"
+     id="kosugi"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Kosugi;-inkscape-font-specification:Kosugi">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="Kosugi Maru"
+     inkscape:groupmode="layer"
+     id="kosugi-maru"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Kosugi Maru';-inkscape-font-specification:'Kosugi Maru'">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="和田研細丸ゴシック"
+     inkscape:groupmode="layer"
+     id="jis2004"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.6667px;line-height:1.25;font-family:WadaLabMaruGo2004EmojiP;-inkscape-font-specification:'WadaLabMaruGo2004EmojiP Medium';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text5"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.6667px;font-family:WadaLabMaruGo2004EmojiP;-inkscape-font-specification:'WadaLabMaruGo2004EmojiP Medium'">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="タイムマシンわ号"
+     inkscape:groupmode="layer"
+     id="timemachine-wa"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:34.6667px;font-family:'timemachine wa';-inkscape-font-specification:'timemachine wa Light'">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="自家製ドットフォントシリーズ"
+     inkscape:groupmode="layer"
+     id="jf-dotfont"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Droid Sans Japanese';-inkscape-font-specification:'Droid Sans Japanese'"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'JF Dot Shinonome Gothic 12';-inkscape-font-specification:'JF Dot Shinonome Gothic 12, '"
+           id="tspan24">これはこの</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'JF Dot milkjf 16';-inkscape-font-specification:'JF Dot milkjf 16, '"
+           id="tspan25">フォントの</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:34.6667px;font-family:'JF Dot Kappa 20 0213';-inkscape-font-specification:'JF Dot Kappa 20 0213 Bold'"
+           id="tspan27">例である。</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="Jigmo"
+     inkscape:groupmode="layer"
+     id="jigmo"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Jigmo;-inkscape-font-specification:Jigmo">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="GalM"
+     inkscape:groupmode="layer"
+     id="galm"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Freehand;-inkscape-font-specification:Freehand">これはこの一一一一の例一ある。</tspan></text>
+  </g>
+  <g
+     inkscape:label="ワープロ明朝"
+     inkscape:groupmode="layer"
+     id="wapuro-mincho"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Wapuro Mincho';-inkscape-font-specification:'Wapuro Mincho'">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="Oradano明朝"
+     inkscape:groupmode="layer"
+     id="oradano-mincho"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text11"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Oradano-mincho-GSRR;-inkscape-font-specification:Oradano-mincho-GSRR">これはこのフォントの例である。</tspan></text>
+  </g>
+  <g
+     inkscape:label="uzumakifont"
+     inkscape:groupmode="layer"
+     id="uzumakifont"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.6667px;line-height:1.25;font-family:uzumakifont;-inkscape-font-specification:'uzumakifont Medium';text-align:center;text-anchor:middle;display:inline"
+       x="258.42099"
+       y="33.311192"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="258.42099"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.6667px;font-family:uzumakifont;-inkscape-font-specification:'uzumakifont Medium'">これはこのフォントのれいである。</tspan></text>
+  </g>
+  <g
+     inkscape:label="Nom Na Tong"
+     inkscape:groupmode="layer"
+     id="nom-na-tong"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:34.6667px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle;display:inline"
+       x="250.44135"
+       y="33.311192"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         x="250.44135"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Nom Na Tong';-inkscape-font-specification:'Nom Na Tong'">一右雨王音下火花貝学気九休玉</tspan></text>
+  </g>
+  <g
+     inkscape:label="Typodermic Fonts"
+     inkscape:groupmode="layer"
+     id="typodermic"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-size:35.3082px;line-height:1.25;font-family:'Source Han Sans JP';-inkscape-font-specification:'Source Han Sans JP';text-align:center;text-anchor:middle"
+       x="250.21184"
+       y="33.311192"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="250.21185"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Typodermic;-inkscape-font-specification:Typodermic"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vademecum;-inkscape-font-specification:Vademecum"
+   id="tspan29">This is an</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Dignity of Labour';-inkscape-font-specification:'Dignity of Labour'"
+   id="tspan26">example of</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Wild Sewerage';-inkscape-font-specification:'Wild Sewerage'"
+   id="tspan28">these fonts.</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="Canada 1500"
+     inkscape:groupmode="layer"
+     id="canada-1500"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:1.25;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, ';text-align:center;text-anchor:middle;display:inline"
+       x="250.90036"
+       y="33.311192"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         x="250.90036"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, '">This is an example of this font.</tspan></text>
+  </g>
+  <g
+     inkscape:label="DOTCOLON"
+     inkscape:groupmode="layer"
+     id="dotcolon"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;line-height:1.25;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, ';text-align:center;text-anchor:middle;display:inline"
+       x="250.90036"
+       y="33.311192"
+       id="text30"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="250.90036"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, '"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Medio;-inkscape-font-specification:Medio"
+   id="tspan38">This is</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:34.6667px;font-family:Ferrum;-inkscape-font-specification:'Ferrum Extra-Condensed'"
+   id="tspan39">an ex</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Seshat;-inkscape-font-specification:Seshat"
+   id="tspan40">ample</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:34.6667px;font-family:Penna;-inkscape-font-specification:'Penna Ultra-Light'"
+   id="tspan41"> of th</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.6667px;font-family:Eunomia;-inkscape-font-specification:Eunomia"
+   id="tspan42">ese fonts.</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="Aileron"
+     inkscape:groupmode="layer"
+     id="aileron"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3082px;line-height:1.25;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, ';text-align:center;text-anchor:middle"
+       x="250.90036"
+       y="33.311192"
+       id="text31"><tspan
+         sodipodi:role="line"
+         id="tspan31"
+         x="250.90036"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Aileron;-inkscape-font-specification:Aileron">This is an example of this font.</tspan></text>
+  </g>
+  <g
+     inkscape:label="Tuffy"
+     inkscape:groupmode="layer"
+     id="tuffy"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3082px;line-height:1.25;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, ';text-align:center;text-anchor:middle"
+       x="250.90036"
+       y="33.311192"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan32"
+         x="250.90036"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Tuffy;-inkscape-font-specification:'Tuffy Medium'">This is an example of this font.</tspan></text>
+  </g>
+  <g
+     inkscape:label="Goudy Bookletter 1911"
+     inkscape:groupmode="layer"
+     id="goudy-bookletter-1911"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3082px;line-height:1.25;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, ';text-align:center;text-anchor:middle"
+       x="250.90036"
+       y="33.311192"
+       id="text33"><tspan
+         sodipodi:role="line"
+         id="tspan33"
+         x="250.90036"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Goudy Bookletter 1911';-inkscape-font-specification:'Goudy Bookletter 1911, '">This is an example of this font.</tspan></text>
+  </g>
+  <g
+     inkscape:label="Fontstruct"
+     inkscape:groupmode="layer"
+     id="fontstruct"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, ';text-align:center;text-anchor:middle;display:inline"
+       x="250.90036"
+       y="33.311192"
+       id="text34"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="250.90036"
+         y="33.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, '"
+         dy="0 0 0 0 0 0 0 0 0 0 10"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Bovin’ Expandified';-inkscape-font-specification:'Bovin’ Expandified'"
+   id="tspan16"
+   dy="-10">This is an</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:Esworkied;-inkscape-font-specification:Esworkied"
+   id="tspan17"
+   dy="-5 0 0 0 0 0 0 0 0 0 5">example of </tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:Infropi;-inkscape-font-specification:Infropi"
+   id="tspan18"
+   dy="5">these fonts.</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="Not Jam"
+     inkscape:groupmode="layer"
+     id="not-jam"
+     style="display:none"
+     fill="#fff">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;line-height:1.25;font-family:'Canada 1500';-inkscape-font-specification:'Canada 1500, ';text-align:center;text-anchor:middle;display:inline"
+       x="250.90036"
+       y="29.311192"
+       id="text35"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         x="250.90034"
+         y="29.311192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Not Jam Laika 11';-inkscape-font-specification:'Not Jam Laika 11, '"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Not Jam UI Condensed 16';-inkscape-font-specification:'Not Jam UI Condensed 16, '"
+           id="tspan21">This is an </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Not Jam Third Dimension 15';-inkscape-font-specification:'Not Jam Third Dimension 15, '"
+           id="tspan19">example of </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.3333px;font-family:'Not Jam Signature 21';-inkscape-font-specification:'Not Jam Signature 21, '"
+           id="tspan20">these fonts.</tspan></tspan></text>
+  </g>
+  <script
+     id="script1">document.getElementById(location.hash.substring(1)).setAttribute('style', 'display:inline');</script>
+  <!-- https://codepen.io/NielsOeltjen/pen/AZBBBG -->
+</svg>

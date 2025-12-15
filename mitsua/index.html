@@ -1,0 +1,415 @@
+<!doctype html>
+<html lang="en" prefix="og: https://ogp.me/ns#">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Unofficial Mitsua utility page</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@hecko_yes">
+	<meta name="twitter:creator" content="@hecko_yes">
+	<meta property="og:title" content="Unofficial Mitsua utility page">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ page.url | absolute_url }}">
+	<meta property="og:site_name" content="hecko">
+	<meta property="og:description" content="hi! :3">
+	<meta name="description" content="hi! :3">
+	<meta name="darkreader-lock">
+	<meta name="theme-color" content="#{{ color }}">
+	<style>
+		html {
+			height: 100%;
+			box-sizing: border-box;
+			overflow-wrap: break-word;
+		}
+
+		*,
+		*:before,
+		*:after {
+			box-sizing: inherit;
+			/* https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+		}
+
+		body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			overflow-y: scroll;
+			background-color: #112;
+			color: #ddd;
+			font-family: sans-serif;
+			font-size: 18px;
+			line-height: 1.3333;
+			letter-spacing: 1px;
+		}
+
+		header {
+			padding: 16px;
+			text-align: center;
+			background-color: #24c;
+		}
+
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			margin: 0;
+			text-align: center;
+		}
+
+		h1 {
+			font-size: 36px;
+		}
+
+		main {
+			max-width: 1200px;
+			margin: auto;
+			padding: 16px;
+			display: flex;
+			flex-direction: column;
+			gap: 16px;
+		}
+
+		article {
+			width: 100%;
+			padding: 16px;
+			background-color: #24c;
+			border-radius: 0 16px;
+		}
+
+		a {
+			text-decoration: none;
+		}
+
+		a:link {
+			color: #4df;
+		}
+
+		a:visited {
+			color: #b8f;
+		}
+
+		a:hover,
+		a:active {
+			text-decoration: underline;
+		}
+
+
+		li ul {
+			padding-left: 20px;
+		}
+
+		.flex {
+			display: flex;
+			gap: 16px;
+			flex-wrap: wrap;
+		}
+
+		.flex * {
+			flex-grow: 1;
+		}
+
+		.center {
+			text-align: center;
+		}
+
+		.big {
+			font-size: 200%;
+		}
+
+		.no-bottom {
+			margin-bottom: 0;
+		}
+
+		.lang-en [lang=ja],
+		.lang-ja [lang=en] {
+			display: none;
+		}
+	</style>
+</head>
+
+<body data-instant-intensity="mousedown" class="lang-en">
+	<header>
+		<h1 lang="en">Unofficial Mitsua utility page</h1>
+		<h1 lang="ja">ミツアの非公式ユーティリティページ</h1>
+		<button
+			onClick="document.body.className = (document.body.className == &quot;lang-ja&quot;) ? &quot;lang-en&quot; : &quot;lang-ja&quot;;">
+			<span lang="en">日本語への切り替え</span>
+			<span lang="ja">Switch to English</span>
+		</button>
+		<script>
+			if (navigator.language.substring(0, 2) == "ja") {
+				document.body.className = "lang-ja";
+			}
+		</script>
+	</header>
+	<main>
+		<div>
+			<p lang="en">These utilities were made by <a href="/">hecko</a> for contributors to the <a
+					href="https://elanmitsua.com/en/">Elan Mitsua</a> project, which creates image generation models trained
+				without using unauthorized copyrighted data. This page is not affiliated with the project and all opinions
+				expressed are solely of the author.</p>
+			<p lang="ja">これらのユーティリティは、<a href="https://elanmitsua.com/">絵藍ミツア</a>プロジェクトの貢献者のために<a
+					href="/">ヘッコちゃん</a>によって作成され、無許可の著作権データを使用していない画像生成モデルを作成する。このページはプロジェクトに付属しておらず、意見はすべて作者のものです。</p>
+			<p lang="en">This page is marked with the <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0
+					Universal</a> public-domain dedication. No generative large language models were used in the creation of this
+				page. Since this page is dedicated to a model trained only on authorized data, the Japanese translation was done
+				using <a href="https://huggingface.co/spaces/Mitsua/ElanMT-demo">ElanMT</a>. (Manual dictionary lookup and
+				backtranslation was done for verification.) I hope this proves that you don't need to scrape the entire internet
+				to train a useful model.</p>
+			<p lang="ja">このページには、<a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0
+					1.0全世界</a>パブリックドメインの献辞が表示されています。このページは、許可されたデータのみに学習されたモデルに特化しているため、日本語訳は、<a
+					href="https://huggingface.co/spaces/Mitsua/ElanMT-demo">ElanMT</a>を使用して行われた。（検証のために手動辞書の検索と逆翻訳が行われた。）これは、便利なモデルを訓練するにはインターネット全体を削る必要がないことを証明してほしいのですが。
+			</p>
+		</div>
+		<article>
+			<h2 lang="en">Idea dispenser</h2>
+			<h2 lang="ja">アイデア提供者</h2>
+			<p lang="en">All of these are my ideas, so by using this tool, you will unwittingly bring my desires to life, muahaha! These were also submitted to the thread "今のミツアちゃんに描いてほしい(教えたい)ものを出し合うスレッド" ("Thread for sharing what we want
+				(to teach) Mitsua to draw"). If you're a teacher in the Mitsua Contributors server on Discord, you can access it
+				<a href="https://discord.com/channels/1057506313644556339/1316613005798150266">here</a>. There are currently <span class="idea-count">???</span> ideas available in this tool.</p>
+			<p lang="ja">これらはすべて私の考えですから、このツールを使うことで、私の欲望を無意識のうちに生命に持ち込むでしょう、ムアハハ!これらは「今のミツアちゃんに描いてほしい(教えたい)ものを出し合うスレッド」というスレッドにも提出された。あなたがMitsua ContributorsのDiscordサーバーの教師である場合、<a
+					href="https://discord.com/channels/1057506313644556339/1316613005798150266">ここ</a>にアクセスできます。現在、<span class="idea-count">???</span>のアイデアがこのツールで利用可能である。</p>
+			<div class="flex center">
+				<div>
+					<div id="idea-output-last" style="opacity: 0.75;">&nbsp;</div>
+					<div id="idea-output" class="big">&nbsp;</div>
+					<button onclick="ideaSelect();" class="big" style="margin-top: 0.25em;">
+						<span lang="en">Another one!</span>
+						<span lang="ja">もうひとつ！</span>
+					</button>
+				</div>
+			</div>
+			<script>
+				const ideas = [
+					["negative emotions (e.g. anger, sadness)", "否定的な感情（たとえば怒り、悲しみ）"],
+					["modern technology", "近代技術"],
+					["computer glitches", "コンピュータ・グリッチ"],
+					["bananas", "バナナ"],
+					["wheelchairs", "車椅子"],
+					["fantasy skin colors", "ファンタジーのスキンカラー"],
+					["mahjong tiles, hanafuda cards, etc.", "麻雀牌、花札など"],
+					["complex hand poses", "複雑なポーズ"],
+					["in the pocket of a giant", "巨人のポケットの中"],
+					["minigolf", "ミニゴルフ"],
+					["ghosts", "おばけ"],
+					["100 1-minute doodles of the same thing", "100個の1分間の同じことのドゥードゥル"],
+					["unicorns", "ユニコーン"],
+					["skateboarding", "スケートボード"],
+					["slimefolk", "スライム人"],
+					["board games", "ボードゲーム"],
+					["face-in-hole photo boards", "顔ハメ看板"],
+					["paint splashes", "ペンキの飛沫"],
+					["imaginary video games", "架空のコンピュータゲーム"],
+					["colorful clay figurines", "色とりどりの土偶"],
+				];
+
+				let lastIdea = [""];
+
+				function ideaSelect() {
+					const output = document.getElementById("idea-output");
+					const last = document.getElementById("idea-output-last");
+					last.innerHTML = output.innerHTML;
+
+					let idea = ideas[Math.floor(Math.random() * ideas.length)];
+					while (idea[0] == lastIdea[0]) {
+						idea = ideas[Math.floor(Math.random() * ideas.length)];
+					}
+					lastIdea = idea;
+					output.innerHTML = `<span lang="en">${idea[0]}</span><span lang="ja">${idea[1]}</span>`;
+				}
+
+				document.querySelectorAll(".idea-count").forEach((e) => {e.textContent = ideas.length;});
+				ideaSelect();
+			</script>
+		</article>
+		<article>
+			<h2 lang="en">Grid splitter</h2>
+			<h2 lang="ja">グリッドスプリッター</h2>
+			<p lang="en" class="no-bottom">Unfortunately, this tool hasn't been made yet. Eventually, it will be able to take an image with many scribbles in a grid and output a ZIP file formatted for submitting to Mitsua, complete with template-generated captions.</p>
+			<p lang="ja" class="no-bottom">残念ながら、この道具はまだ作られていません。最終的に、其れは、多くの落書きのある画像をグリッドに持ち込み、テンプレート生成キャプションで完全な形でミツアに送信するためのZIPファイルを出力できる。</p>
+		</article>
+		<article>
+			<h2 lang="en">Allowed fonts</h2>
+			<h2 lang="ja">対応フォント</h2>
+			<p lang="en">The most common license for free fonts is the Open Font License, which <a
+					href="https://openfontlicense.org/ofl-faq/#8e007eaa50596962d906691a8918a5553b30ff22">can't be used for
+					Mitsua</a>. The following fonts are released under eligible licenses. Thanks to the Mitsua server for finding
+				some of these!</p>
+			<p lang="ja">フリーフォントの最も一般的なライセンスは、<a
+					href="https://openfontlicense.org/ofl-faq/#8e007eaa50596962d906691a8918a5553b30ff22">ミツアでは使用できない</a>Open Font
+				Licenseである。次のフォントは、適格なライセンスの下でリリースされる。これらのいくつかを発見したミツアサーバーのおかげです!</p>
+			<div class="flex">
+				<div>
+					<h3 lang="en">Japanese</h3>
+					<ul class="no-bottom">
+						<li>
+							<p><a href="https://github.com/adobe-fonts/source-han-sans/tree/1.001R/SubsetOTF/JP">Source Han Sans
+									1.001R</a> (Apache)</p>
+							<object type="image/svg+xml" data="fonts.svg#source-han-sans-jp"></object>
+						</li>
+						<li>
+							<p><a href="https://github.com/google/fonts/blob/5fb32282c5969930c4268483ffa5664680bf73c8/apache/droidsansjapanese/DroidSansJapanese.ttf">Droid
+									Sans Japanese</a> (Apache)</p>
+							<object type="image/svg+xml" data="fonts.svg#droid-sans-japanese"></object>
+						</li>
+						<li>
+							<p><a href="https://fonts.google.com/specimen/Kosugi">Kosugi</a> (Apache)</p>
+							<object type="image/svg+xml" data="fonts.svg#kosugi"></object>
+						</li>
+						<li>
+							<p><a href="https://fonts.google.com/specimen/Kosugi+Maru">Kosugi Maru</a> (Apache)</p>
+							<object type="image/svg+xml" data="fonts.svg#kosugi-maru"></object>
+						</li>
+						<li>
+							<p><a href="https://sourceforge.net/projects/jis2004/">和田研細丸ゴシック</a>
+								(<span lang="en">public domain</span><span lang="ja">パブドメ</span>)</p>
+							<object type="image/svg+xml" data="fonts.svg#jis2004"></object>
+						</li>
+						<li>
+							<p><a href="https://modi.jpn.org/font_timemachine-wa.php">タイムマシンわ号</a>
+								(<span lang="en">public domain</span><span lang="ja">パブドメ</span>)</p>
+							<object type="image/svg+xml" data="fonts.svg#timemachine-wa"></object>
+						</li>
+						<li>
+							<p><a href="http://jikasei.me/font/jf-dotfont/">自家製ドットフォントシリーズ</a>
+								(<span lang="en">public domain</span><span lang="ja">パブドメ</span>)</p>
+							<object type="image/svg+xml" data="fonts.svg#jf-dotfont"></object>
+							<ul>
+								<li>
+									<p><a href="https://irori.github.io/wapuro-mincho/">ワープロ明朝</a>
+										(<span lang="en">public domain</span><span lang="ja">パブドメ</span>)</p>
+									<object type="image/svg+xml" data="fonts.svg#wapuro-mincho"></object>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<p><a href="https://kamichikoichi.github.io/jigmo/">Jigmo</a> (CC0)</p>
+							<object type="image/svg+xml" data="fonts.svg#jigmo"></object>
+						</li>
+						<li>
+							<p><a href="https://awrznc.github.io/GalM-Font/index.html">GalM</a>
+								(<span lang="en">public domain</span><span lang="ja">パブドメ</span>)</p>
+							<object type="image/svg+xml" data="fonts.svg#galm"></object>
+						</li>
+						<li>
+							<p><a href="https://www.asahi-net.or.jp/~sd5a-ucd/freefonts/Oradano-Mincho/">Oradano明朝</a>
+								(<span lang="en">public domain</span><span lang="ja">パブドメ</span>)</p>
+							<object type="image/svg+xml" data="fonts.svg#oradano-mincho"></object>
+						</li>
+						<li>
+							<p><a href="https://notebookdoodle.mints.ne.jp/home/?p=373">uzumakifont</a> (CC0)</p>
+							<object type="image/svg+xml" data="fonts.svg#uzumakifont"></object>
+						</li>
+						<li>
+							<p><a href="https://github.com/nomfoundation/font">Nom Na Tong</a>
+								<span lang="en">(MIT, kanji only)</span>
+								<span lang="ja">(MIT、漢字のみ)</span>
+							</p>
+							<object type="image/svg+xml" data="fonts.svg#nom-na-tong"></object>
+						</li>
+					</ul>
+				</div>
+				<div>
+					<h3 lang="en">Latin</h3>
+					<ul class="no-bottom">
+						<li>
+							<p><a href="https://typodermicfonts.com/public-domain/">Typodermic Fonts</a> (CC0)</p>
+							<object type="image/svg+xml" data="fonts.svg#typodermic"></object>
+							<ul>
+								<li>
+									<p><a href="https://typodermicfonts.com/canada1500/">Canada 1500</a> (CC0)</p>
+									<object type="image/svg+xml" data="fonts.svg#canada-1500"></object>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<p><a href="https://dotcolon.net">DOT COLON</a> (some CC0)</p>
+							<object type="image/svg+xml" data="fonts.svg#dotcolon"></object>
+							<ul>
+								<li>
+									<p><a href="https://dotcolon.net/font/aileron">Aileron</a> (CC0)</p>
+									<object type="image/svg+xml" data="fonts.svg#aileron"></object>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<p><a href="https://fontlibrary.org/en/font/tuffy">Tuffy</a> (CC0)</p>
+							<object type="image/svg+xml" data="fonts.svg#tuffy"></object>
+						</li>
+						<li>
+							<p><a href="https://www.dafont.com/goudy-bookletter.font">Goudy Bookletter 1911</a>
+								(<span lang="en">public domain</span><span lang="ja">パブドメ</span>)
+							</p>
+							<object type="image/svg+xml" data="fonts.svg#goudy-bookletter-1911"></object>
+						</li>
+						<li>
+							<p><a href="https://fontstruct.com/gallery?filters=all&license=cc0">Fontstruct</a> (CC0)</p>
+							<object type="image/svg+xml" data="fonts.svg#fontstruct"></object>
+						</li>
+						<li>
+							<p><a href="https://not-jam.itch.io/not-jam-font-pack">Not Jam</a> (CC0)</p>
+							<object type="image/svg+xml" data="fonts.svg#not-jam"></object>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</article>
+		<article>
+			<h2 lang="en">VRM pose tracker</h2>
+			<h2 lang="ja">VRMポーズトラッカー</h2>
+			<p lang="en">This is a rather arbitrary statistic to keep track of, but it was present in the draft version and I decided not to remove it. I hope the final number will someday go below 1!</p>
+			<p lang="ja">これは追跡し続けるためのかなり意的な統計ですが、ドラフト版には含まれており、削除しないことにした。いつか最終数字が1を下回ってくれるといいですね！</p>
+			<div class="flex center">
+				<div>
+					<span lang="en">Given...</span>
+					<span lang="ja">&nbsp;</span>
+					<div style="font-size: 72px;">577</div>
+					<span lang="en">VRMs</span>
+					<span lang="ja">のVRMと</span>
+				</div>
+				<div>
+					<span lang="en">And...</span>
+					<span lang="ja">&nbsp;</span>
+					<div style="font-size: 72px;">827+923</div>
+					<span lang="en">poses and Shoot! presets</span>
+					<span lang="ja">のポーズとShoot!プリセット</span>
+				</div>
+				<div>
+					<span lang="en">With a target of...</span>
+					<span lang="ja">ターゲット</span>
+					<div style="font-size: 72px;">12M</div>
+					<span lang="en">images</span>
+					<span lang="ja">のプリセットが与えられ</span>
+				</div>
+				<div>
+					<span lang="en">Every combination is shot...</span>
+					<span lang="ja">すべての組み合わせが</span>
+					<div style="font-size: 72px;">11.88</div>
+					<span lang="en">times</span>
+					<span lang="ja">回発射される</span>
+				</div>
+			</div>
+		</article>
+		<article>
+			<h2 lang="en">Advice</h2>
+			<h2 lang="ja">助言</h2>
+			<ul class="no-bottom">
+				<li>
+					<span lang="en">If Mitsua learns too many similar variants of one image, she might memorize the image and
+						recreate it almost exactly. Transparent backgrounds and superlikes can intensify this, as they cause Mitsua
+						to study the image more times. For example, the prompt <code>elanmitsua, fairy</code> will often cause
+						Mitsua to replicate one particular image of Mitsua and Zundamon, which was submitted with 10 variants with
+						transparent backgrounds, each of which received ~4 superlikes.</span>
+					<span
+						lang="ja">ミツアが1つの画像の類似の変異体を多すぎることを学んだ場合、彼女はその画像を暗記し、ほぼ正確に再現する可能性がある。透明な背景やスーパーライクは、ミツアが画像をよりよく研究するようにするため、この傾向を強めることができる。たとえば、プロンプト<code>elanmitsua, fairy</code>は、多くの場合、ミツアがミツアとズンダモンの1つの特定のイメージを複製することになり、透明の背景を備えた10の変種が提出され、それぞれが約4つのスーパーライクを受け取った。これを良いことと悪いこととは、この情報は賢明に使いなさい。</span>
+				</li>
+			</ul>
+	</main>
+	<script src="{{ root }}script.js" type="module"></script>
+	<script data-goatcounter="https://hecko.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+
+</html>
