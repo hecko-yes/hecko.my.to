@@ -36,7 +36,7 @@ made for a shitposty collaborative comic thing, where the first action by someon
 
 **[gallery!](fox/)**
 
-my main character, scruffy pure-white snoutless fox (tail size undefined)
+my old main character, a scruffy pure-white snoutless fox (tail size undefined)
 originally with [ralsei](https://deltarune.fandom.com/wiki/Ralsei)'s clothing and [sans](https://undertale.fandom.com/wiki/Sans)'s glowing blue eye but nowadays not really
 in some iterations he can "clone" himself (have multiple bodies) and/or turn into a four-legged fox
 
@@ -47,7 +47,7 @@ started out like so:
 	![headshot of tails from a very bad comic, turned pure white, with a sans eye, and Ralsei's clothes ms painted on](fox/hecko fox avatar.png){:.copyrighted}
 4. electriclizardfren drew it for some reason (2019-09-15)
 	![full-body drawing of the above, very high quality, there are even little cat paws for hands](fox/Untitled96_20190915093604_cropped.png){:.copyrighted style="width: 400px; max-width: 100%;"}
-5. i drew/generated a [set of deltarune-style talksprites](https://github.com/Sobsz/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
+5. i drew/generated a [set of deltarune-style talksprites](https://github.com/hecko-yes/heckosprites) for it for [Ralsei·bot](https://ralsei.chlod.net/)-assisted roleplay (2019-11-30)
 	![pixelated sprite of him sticking his tongue out and blushing](fox/dpb.png)
 6. now it's my fursona i guess
 
@@ -60,7 +60,7 @@ also has a pony version
 anthro bear with gold fur, 2/3rds human height apparently? i don't remember writing that, i usually imagine him as regular height
 can summon illusions with varying degrees of solidity
 mute, uses the above to summon subtitles
-see [here](https://gist.github.com/Sobsz/38dc8aa415f53697ab04d4e9d2ffa0dd) for more details (though i wrote it when i was younger and more foolish so it has some amount of yikes)
+see [here](https://gist.github.com/hecko-yes/38dc8aa415f53697ab04d4e9d2ffa0dd) for more details (though i wrote it when i was younger and more foolish so it has some amount of yikes)
 
 not used a whole lot unfortunately
 
@@ -160,6 +160,14 @@ started out normal, became smug in an effort to outsmug the main villain, immedi
 ![smug deer in blue shirt](bonus/saffron avatar.png)
 ![same deer but not smug, now blue and in green shirt](bonus/snowdrop avatar.png)
 
+# kobold
+2022-03-23
+
+mostly made by electriclizardfren, included for completeness
+based on [the fox](#fox), or rather its ralsei-like aspects
+
+![white kobold with pink countershading, wearing a leather wizard hat and robe with a glowing yellow heart](kobold/Untitled570_20201024074920.png){:.copyrighted}
+
 # otter
 2022-08-22
 
@@ -198,6 +206,15 @@ legs might be better off just being [rubberhose](https://en.wikipedia.org/wiki/R
 ![close-up of the tail, showing the subtle sparkles in the neon regions (as well as a small hole in the center of the spiral which i couldn't figure out how to remove)](creature/blender_zXfx36GChH.png)
 ![view from the bottom in "off" mode (the neon regions are græy but still sparkly), showing the beans in all their glory, the jankiness of the hand shapes, and the featurelessness of the hooves](creature/blender_C4S5OVQYYN.png)
 ![an alternate coloring scheme, where instead of stripes there are solid fields of neon: a thick strip going down from the neck to the crotch and continuing into the tail (with another strip on the other side of said tail), and the "feet" of the hooves are neon too; ears and face are still neon](creature/blender_9kagAKd291.png)
+
+older variants:
+
+- 2022-10-11 ([.blend file](creature/skunk test.blend)), kitbash of [pepe le pew by(?) modezs1](https://sketchfab.com/3d-models/pepe-le-pew-070d254d1a1547cdac83710c6eed2fe6) and [cream the rabbit by(?) ser21](https://sketchfab.com/3d-models/cream-the-rabbit-8264a39dd3384537bb12a24455a6ca84)
+![white-and-pink skunk creature with ears as tall as the rest of it and a rainbow tail](creature/blender_h9mbQJiL21.png){.copyrighted}
+
+- 2022-10-18 ([.blend file](creature/skunk test 2.blend)) with [full-body businesswoman on white](https://www.dreamstime.com/stock-photos-full-body-businesswoman-white-image13995163) for scale
+![faceless black-rubber creature about as tall as a human, with five sparkly rainbowy skunk tails double that size curling up behind it](creature/blender_PdirCDLdeh.png){.copyrighted}
+![another angle of the same](creature/blender_Tfi9ve9OrB.png){.copyrighted}
 
 # deer
 2023-02-22 (at like 3am)
@@ -257,7 +274,7 @@ potential changes i haven't applied to the reference yet (you may pick and choos
 [inkscape source file](ma toki pona vr group photo floaty.svg)
 ![white chubby chibi anthro cat with no mouth, yellow-orange gradient eyes (with black pupils) and big squirrel-like tail and small detached teardrop-shaped wings (like on a cartoon bee), purple collar, hot pink inner ears and big heart symbol on chest and hand pawpads (main one is heart-shaped) and featureless foot paws; winking, wings fluttering, waving](floaty/ma toki pona vr group photo floaty.png){:style="width: 400px; max-width: 100%;"}
 
-now as a [public vrchat avatar!](https://vrchat.com/home/avatar/avtr_2edfaf3f-90ee-4b39-bf69-7e326042dbf5) ([source files](https://github.com/Sobsz/floaty))
+now as a [public vrchat avatar!](https://vrchat.com/home/avatar/avtr_2edfaf3f-90ee-4b39-bf69-7e326042dbf5) ([source files](https://github.com/hecko_yes/floaty))
 
 ![t-posing in front of a dark purple background](floaty/floaty vrchat thumbnail.png)
 
@@ -278,3 +295,19 @@ and one commissioned from [@jakubk027.bsky.social](https://bsky.app/profile/jaku
 and by [the menagerie](https://linktr.ee/The_Menagerie):
 
 ![colored sketch, lounging on air, beans behind head, tail hanging down with distance fog, looking at the viewer with a mildly smug smile](floaty/floaty lounging, by the menagerie.png){:.copyrighted}
+
+and by [someonecalledflora](https://rentry.co/someonecalledflora):
+
+![scrimbly little fellow, a-posing, with cheek fluff](floaty/floatyforponikita, by someonecalledflora.png){:.copyrighted}
+
+# twilight sparkle
+somewhere around 2024, or technically 2010?
+
+ok yes it is just [an existing character](https://en.wikipedia.org/wiki/Twilight_Sparkle) so i didn't make her at all, but i present as her often enough that she deserves a spot here
+in particular, in vrchat, i wear [candycorn666's upload](https://vrchat.com/home/avatar/avtr_c6383f33-091c-4b83-b7f5-70d5104cdfdc) of [vertex keni's bipedal pony vrchat base](https://keni.gumroad.com/l/wYuQY) (which has the hair stripes flipped aa)
+
+![a bipedal twilight sparkle from my little pony, both winged and horned, wearing striped arm and leg warmers on her round hooves, as well as a dark purple shirt with her cutie mark, t-posing in front of a grid background](twilight/VRChat_2025-06-28_19-20-47.192_1080x1920.png){:.copyrighted}
+
+art by [someonecalledflora](https://rentry.co/someonecalledflora):
+
+![same character but drawn, a-posing, the hair stripes are oriented as in canon instead of flipped, the limb warmers keep the hooves uncovered](twilight/twilightforponikita, by someonecalledflora.png){:.copyrighted}
