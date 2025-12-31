@@ -25,7 +25,7 @@ the hecko is elsewhere on the internet no way
 ## dead
 
 - cohost - [hecko](https://cohost.org/hecko){:rel="me"}
-- fediverse - [hecko@fluffcord.social](https://fluffcord.social/@hecko){:rel="me"} (currently down)
+- fediverse - [hecko@fluffcord.social](https://fluffcord.social/@hecko){:rel="me"}
 
 # gaming
 
@@ -39,13 +39,17 @@ the hecko is elsewhere on the internet no way
 ## individual games
 
 - chess.com - [hecko_yes](https://www.chess.com/member/hecko_yes){:rel="me"} (mostly there for the variants)
-- interference - [hecko](https://www.playinterference.com/players/hecko){:rel="me"}
 - lichess - [hecko_yes](https://lichess.org/@/hecko_yes){:rel="me"} (preferred over chess.com for challenges)
 - osu - [Sobsz](https://osu.ppy.sh/users/7557974){:rel="me"}
 
-# other
+# visual arts
 
 - artfight - [hecko](https://artfight.net/~hecko){:rel="me"} (need an account to view it)
+- furaffinity - [NoticesUrAlt](https://www.furaffinity.net/user/NoticesUrAlt){:rel="me"} (contains horny, which can be seen with an account)
+- interference - [hecko](https://www.playinterference.com/players/hecko){:rel="me"} (inactive)
+
+# other
+
 - derpibooru - [hecko](https://derpibooru.org/profiles/hecko){:rel="me"}
 - fimfiction - [hecko](https://www.fimfiction.net/user/335946/hecko){:rel="me"}
 - github - [hecko-yes](https://github.com/hecko-yes){:rel="me"}
