@@ -17,7 +17,7 @@ things that i (jan Kita) have made in/for [the language of good by sonja lang](h
 
 ## original
 
-- [akesi li wile lon nena](akesi-li-wile-lon-nena/) (2022-06-14), a very short 5-word-per-sentence story that somehow got 3rd place in [a contest](https://utala.pona.la/lipu-lili/); also available in [sitelen pona](akesi-li-wile-lon-nena/sitelen-pona/) (formatted by jan Lakuse) and i think it looks nicer that way
+- [akesi li wile lon nena](akesi-li-wile-lon-nena/) (2022-06-14), a very short 5-word-per-sentence story that somehow got 3rd place in [a contest](https://utala.pona.la/mamt/lipu-lili/); also available in [sitelen pona](akesi-li-wile-lon-nena/sitelen-pona/) (formatted by jan Lakuse) and i think it looks nicer that way
 - [nasin nanpa mute li lon](https://lipukule.org/post/2021/09/21/nasin-nanpa-mute-li-lon/) (<2021-09-21), in which i nerd out about number systems
 
 ## translations
@@ -41,7 +41,7 @@ cc-by children's books
 
 # services
 
-- [sona pona](https://sona.pona.la/wiki/Main_Page), a wiki about toki pona (as opposed to [ma Wikipesija](https://wikipesija.org) which is *in* toki pona); largely edited by kulupu Menasewi and other folks
+- [sona pona](https://sona.pona.la/wiki/Main_Page), a wiki about toki pona (as opposed to [the toki pona wikipedia](https://tok.wikipedia.org) which is *in* toki pona); largely edited by kulupu Menasewi and other folks
   - [nasin nanpa ali ike](https://sona.pona.la/wiki/nasin_nanpa_ali_ike), a de·facto-community·run collection of number systems
 - [ma Seka](https://seka.pona.la/), an instance of [peertube](https://joinpeertube.org/) dedicated to toki pona
 

@@ -120,7 +120,7 @@ a possible lore is that it was a robot-esque thing (hence more it/its) made to s
 ![](ponies/helping hoof sprite big.png){:.copyrighted}
 ![](ponies/helping hoof 3d maker assisted mockup.png){:.copyrighted}
 
-here's another hairless pic of it in [classicube](https://classicube.net/)
+here's another hairless pic of it in [classicube](https://www.classicube.net/)
 ![](ponies/ClassiCube_xxO6i7Z6me.png)
 
 ## bashful byte
@@ -142,7 +142,7 @@ also has a pic made for funkin' is magic using [this base by bbpanzu](https://tw
 
 # plushies
 
-made for a now-inactive [deltarune](https://en.wikipedia.org/Deltarune) roleplay, part of an implied set of dozens (of common species that aren't already represented in deltarune)
+made for a now-inactive [deltarune](https://en.wikipedia.org/wiki/Deltarune) roleplay, part of an implied set of dozens (of common species that aren't already represented in deltarune)
 they/them, sometimes it/its
 
 ## topaz

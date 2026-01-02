@@ -48,7 +48,7 @@ born april 5, 2003
 
 <details>
 <summary markdown="span">sexuality: **ace**-ish</summary>
-more specifically [aegosexual](https://www.lgbtqia.wiki/wiki/Aegosexual), meaning i enjoy the idea of sexytimes but actually *doing* it is a no thanks
+more specifically [aegosexual](https://lgbtqia.wiki/wiki/Aegosexual), meaning i enjoy the idea of sexytimes but actually *doing* it is a no thanks
 
 romanticity-wise i don't even know what love is honestly
 </details>

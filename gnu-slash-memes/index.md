@@ -38,7 +38,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [crypton vocaloid illustrations](https://piapro.net/intl/en_for_creators.html) | by-nc | specifically: hatsune miku, kagamine rin and len, megurine luka, kaito, and meiko |
 | [historic tale construction kit](http://htck.github.io/bayeux/) | pd? | i mean i *assume* it's public-domain since the [source material](https://en.wikipedia.org/wiki/Bayeux_Tapestry) is, unless cutting characters out of it is copyrightable |
 | [bluemoji](https://bluemoji.io/) | by | aka that one blue smiley with puffed-up cheeks laughing about spreading misinformation on the internet |
-| [twemoji](https://github.com/jdecked/twemoji) | by | used on twitter and discord; gallery [here](https://emojipedia.org/twitter/) |
+| [twemoji](https://github.com/jdecked/twemoji) | by | used on twitter and discord; gallery [here](https://emojipedia.org/twitter) |
 | [galaxy brain template recreation](https://secretlab.institute/2021/02/15/cc-0-licensed-galaxy-brain-images/) | by | it says cc0 but it uses cc-by content |
 | [awesome face](https://commons.wikimedia.org/wiki/File:Awesome_face.svg) | by-sa |
 | [it ain't much but it's honest work](https://commons.wikimedia.org/wiki/File:Farmer_meme_with_apostrophe.jpg) | 0 | us government work; [captionless version](https://commons.wikimedia.org/wiki/File:Ohio_farmer_David_Brandt.jpg) |
@@ -56,14 +56,14 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [oh yeah woo yeah](https://commons.wikimedia.org/wiki/File:Petroglypgh_Group_Nordic_Bronze_Age_007.svg) | by-sa | see top right; also known as "groovin'"; license is for svg version, original is likely pd if you can find it |
 | [old garfield strips](https://commons.wikimedia.org/wiki/Category:Garfield_(1977%E2%80%9378_comic_strip)) | pd\* | [quite controversially so](https://www.reddit.com/r/publicdomain/comments/19f5iel/for_the_last_time_garfield_is_public_domain/) but indeed public-domain in the us due to not using a notice back when that was required; see also [the precursor, jon](https://commons.wikimedia.org/wiki/Category:Jon_(comic_strip)), which includes [an old iteration of the "now where could my pipe be" strip](https://commons.wikimedia.org/wiki/File:Jon_-_1976-10-14.png) |
 | [google chrome t-rex](https://commons.wikimedia.org/wiki/File:Chromium_T-Rex-error-offline.svg) | by |
-| [epic sax guy](commons.wikimedia.org/wiki/File:Sergey_Stepanov_-_Epic_Sax_Guy_-_May_28,_2010.jpg) | by-sa |
+| [epic sax guy](https://commons.wikimedia.org/wiki/File:Sergey_Stepanov_-_Epic_Sax_Guy_-_May_28,_2010.jpg) | by-sa |
 | [thousand yard stare](https://commons.wikimedia.org/wiki/File:Thomas_C._Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original.jpg) | pd |
 
 # music
 
 | name | license | notes |
 | :- | :- | :- |
-| [music by patricia taxxon](https://patriciataxxon.bandcamp.com/) | by-sa | best known for [sd_bbb](https://patriciataxxon.bandcamp.com/track/sd-bbb) aka [EEEAAAOOO](https://youtu.be/v1K4EAXe2oo) (technically the video must be by-sa too but it's not explicitly stated to be such so eh); you might wanna watch out for samples from copyrighted music (sometimes noted in the lyrics) |
+| [music by patricia taxxon](https://patriciataxxon.bandcamp.com/) | by-sa | best known for [sd_bbb](https://patriciataxxon.bandcamp.com/track/sd-bbb) aka [EEEAAAOOO](https://www.youtube.com/watch?v=v1K4EAXe2oo) (technically the video must be by-sa too but it's not explicitly stated to be such so eh); you might wanna watch out for samples from copyrighted music (sometimes noted in the lyrics) |
 | [music by kevin macleod](https://incompetech.com/music/royalty-free/music.html) | by | there used to be a way to see the most popular songs but it seems to be gone now; "[carefree](https://www.incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037)" is the infamous royalty-free ukulele song |
 | [music by tom lehrer](https://tomlehrersongs.com/) | 0 | known for e.g. "New Math" |
 | [tay zonday - chocolate rain](https://www.youtube.com/watch?v=EwTZ2xpQwpA) | by-nc-nd |
@@ -71,7 +71,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [undertale shop theme soundalike](https://opengameart.org/content/its-not-undertale) | 0\* | it might be that the samples are copyrighted, but if toby fox could get away with yoinking them from the internet then you probably can too |
 | [mitchie m - freely tomorrow (feat. hatsune miku)](https://commons.wikimedia.org/wiki/File:Freely_Tomorrow.ogg) | by\* | technicality because the attribution marking was removed but cc-by is irrevocable |
 | ievan polkka | pd | not the vocaloid version mind you, just the lyrics and notes, and i'm not aware of any freely-licensed recording (except i guess [this by-sa thing](https://commons.wikimedia.org/wiki/File:Ievan_Polkka_short_parody.ogg)) so you might have to make it yourself |
-| [korobeiniki](https://commons.wikimedia.org/wiki/File:Korobeiniki.mid) | pd\* | also known as the tetris theme; the link is to a midi, [here's](https://commons.wikimedia.org/wiki/File:Korobeiniki.ogg) an mp3 rendering of it; [here's](https://opengameart.org/content/twister-tetris) a cc0 synth cover; the melody is [trademarked](https://tsdr.uspto.gov/#caseNumber=77037539&caseType=SERIAL_NO&searchType=statusSearch) so you'll have to make it clear you're not affiliated with tetris holding llc |
+| [korobeiniki](https://commons.wikimedia.org/wiki/File:Nikolaj_Alekseevi%C4%8D_Nekrasov_-_Korobeiniki.ogg) | pd\* | also known as the tetris theme, though the rendition used in tetris is distinct enough to be copyrighted; the main motif is also [trademarked](https://tsdr.uspto.gov/#caseNumber=77037539&caseType=SERIAL_NO&searchType=statusSearch) so you'll have to make it clear you're not affiliated with tetris holding llc; overall it's tricky enough that i had to entirely replace the renditions i had linked before! |
 | [king gizzard and the lizard wizard - polygondwanaland](https://commons.wikimedia.org/wiki/Category:Polygondwanaland) | 0? | "This album is FREE. Free as in, free. Free to download and if you wish, free to make copies. Make tapes, make CD’s, make records...We do not own this record. You do. Go forth, share, enjoy." |
 
 # sounds
@@ -110,7 +110,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [i wanna be the guy](https://kayin.moe/iwbtg/) | id | per [faq 2.4](https://kayin.moe/iwbtg/faq.html) |
 | [friday night funkin'](https://ninja-muffin24.itch.io/funkin) | id | per readme: "Little info, you have FULL PERMISSION to stream, letsplay, meme, shitpost, do WHATEVER you want with the game. Use the music in videos you do, use art, ANYTHING. GO CRAZY BRO." |
 | [touhou](https://touhou-project.news/) | id | [guidelines](https://touhou-project.news/guidelines_en/) |
-| [glitch](https://www.glitchthegame.com/public-domain-game-art/) | 0 | defunct; the source content is in adobe flash format, you might prefer [svg](https://opengameart.org/content/glitch-svgs) or [png](https://opengameart.org/content/glitch-pngs) |
+| [glitch](https://web.archive.org/web/20231219163030/https://www.glitchthegame.com/public-domain-game-art/) | 0 | defunct; the source content is in adobe flash format, you might prefer [svg](https://opengameart.org/content/glitch-svgs) or [png](https://opengameart.org/content/glitch-pngs) |
 | [duelyst](https://github.com/open-duelyst/duelyst) | 0 | defunct; [assets](https://github.com/open-duelyst/duelyst/tree/main/app/resources) |
 | [myhouse.wad](https://www.doomworld.com/forum/topic/134292) | by\* | intended to be played with the doom 2 asset pack which is proprietary, but it can be substituted for e.g. [freedoom](https://freedoom.github.io/) which has a permissive license |
 
@@ -123,10 +123,10 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [the works of nicky case](https://ncase.me/) | 0 | as a furry i'm biased toward [adventures with anxiety](https://ncase.me/anxiety/) and [femboy hooters](https://www.youtube.com/watch?v=J9La5ErKGss) (nsfw) |
 | [reimagine :the game: soundtrack](https://freemusicarchive.org/music/Peter_Gresser/Reimagine_The_Game) | 0 | related to the above because the game was made by nicky, though the music wasn't |
 | [1984 by george orwell](https://george-orwell.org/1984/) | pd\* | *except* in the us where it's copyrighted until 2044 |
-| [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend) |
+| [minecraft end poem](https://en.wikisource.org/wiki/End_Poem) | 0 | [proof and reasoning](https://theeggandtherock.com/p/i-wrote-a-story-for-a-friend) |
 | [mickey mouse (initial version)](https://commons.wikimedia.org/wiki/File:Mickey_Mouse_Color_Stock_Poster_(Celebrity_Productions_era,_1928).jpg) | pd* | in the usa at least, and steamboat willie is [trademarked](https://www.youtube.com/watch?v=4wpjT3-5lQ8) so be careful; link is to a color version which is actually public-domain, though the clothing colors are different |
 | [make your pony](https://x.com/JayPastaForce/status/1555198319521136640) | by | my little pony 3d model maker for blender |
-| [emotiguy](https://www.daz3d.com/emotiguy) | ??? | the yellow emoticon with glove hands that you might have seen [with sunglasses giving a thumbs up](https://knowyourmeme.com/memes/picardia-thumbs-up-emoji-man) (perhaps repainted into e.g. a flag of a flavor of anarchism) or looking down while being sad; does cost 2 dollars, and i have no idea what the copyright situation is but [apparently wikiversity has images of him](https://en.wikiversity.org/wiki/File:EmotiBase-point_forward_worry_000.png) which i'm not sure if they just slipped past or what|
+| [emotiguy](https://web.archive.org/web/20250116121137/https://www.daz3d.com/emotiguy) | ??? | the yellow emoticon with glove hands that you might have seen [with sunglasses giving a thumbs up](https://knowyourmeme.com/memes/picardia-thumbs-up-emoji-man) (perhaps repainted into e.g. a flag of a flavor of anarchism) or looking down while being sad; does cost 2 dollars, and i have no idea what the copyright situation is but [apparently wikiversity has images of him](https://en.wikiversity.org/wiki/File:EmotiBase-point_forward_worry_000.png) which i'm not sure if they just slipped past or what|
 | [microsoft 3d movie maker](https://archive.org/details/3dmoviemaker) | by | mit license, open-source release [here](https://github.com/microsoft/Microsoft-3D-Movie-Maker)
 
 # non-meme freebies

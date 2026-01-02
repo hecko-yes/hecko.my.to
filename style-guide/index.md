@@ -7,7 +7,7 @@ excerpt: "how 2 write like me"
 {:toc}
 
 how 2 write like me
-thought up independently of but encouraged by the existence of [xanthe's style guide](https://satyrs.eu/styleguide/) as well as [chridd's list of neologisms](https://chridd.nfshost.com/made-up-words/)
+thought up independently of but encouraged by the existence of [xanthe's style guide](https://satyrs.eu/style) as well as [chridd's list of neologisms](https://chridd.nfshost.com/made-up-words/)
 if this interests you then so may [jan Misali's punctuation analysis](https://www.seximal.net/punctuation)
 
 # markup
@@ -39,7 +39,7 @@ this doesn't really happen anymore but i'll keep it on this page because why not
 when i intend to do scare quotes i often multiply them a bunch, e.g. `"""""dubious"""""`
 when discussing other languages (e.g. toki pona), i use backticks to quote that language and quotation marks for english, with angle quotes (`«»`) used for tertiary languages
 
-when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look a bit weird, e.g. `They said "Let's go.".`)
+when periods etc exist, i put the ending punctuation of a quoted sentence inside the quotation marks and the ending punctuation of the outer sentence outside the quotation marks; should be common sense but [apparently it isn't](https://writeshop.com/blog/how-to-use-quotation-marks/) (though i do admit doubled punctuation can look a bit weird, e.g. `They said "Let's go.".`)
 
 ## apostrophe
 
@@ -90,7 +90,7 @@ a trademark sign can mark that a given word/phrase has a,, special meaning i gue
 
 ## arrows
 
-on pc i have [wincompose](http://wincompose.info/), on android i have gboard and emoji
+on pc i have [wincompose](https://wincompose.info/), on android i have gboard and emoji
 most common is `↑` which i use to refer to the previous message (where others use `^`)
 i like sometimes replacing directions like `top right` with the corresponding arrows (`↗`)
 
@@ -165,7 +165,7 @@ some applied more consistently than others
 | angry | angy, (rarely) angery |
 | animal | aminal |
 | anyway | anyhoo |
-| boxes | [boxen](https://youtu.be/GXJjZjl6Y_4) (i already covered mispluralizations but this one's special to me) |
+| boxes | [boxen](https://www.youtube.com/watch?v=GXJjZjl6Y_4) (i already covered mispluralizations but this one's special to me) |
 | broken | borked |
 | bruh | brug |
 | christmas | crimbus |
@@ -173,7 +173,7 @@ some applied more consistently than others
 | color | coloure |
 | comfortable | comforble |
 | computer | compute, computational |
-| [conlang](https://en.wiktionary.org/wiki/conlang#English) | [clong](https://www.reddit.com/r/conlangscirclejerk/comments/tmg1eh/what_the_fuck_is_a_clong/), [conglang, conlangue](https://youtu.be/3aUx7ajQrys) |
+| [conlang](https://en.wiktionary.org/wiki/conlang#English) | [clong](https://www.reddit.com/r/conlangscirclejerk/comments/tmg1eh/what_the_fuck_is_a_clong/), [conglang, conlangue](https://www.youtube.com/watch?v=3aUx7ajQrys) |
 | damn (adjective/adverb) | damb |
 | damn (interjection) | dayum |
 | delete | dete |
@@ -305,7 +305,7 @@ some applied more consistently than others
 - `nom` (especially for things like chess pieces or data input)
 - `or well`
 - `methinks`
-- [`paging`](https://en.wikipedia.com/wiki/Pager) (= pinging)
+- [`paging`](https://en.wikipedia.org/wiki/Pager) (= pinging)
 - `$5 says`
 - `amend`
 - `genre`/`flavor`/`brand` (instead of `type`)
@@ -334,7 +334,7 @@ some applied more consistently than others
 - [:despair:](https://i.ibb.co/crtMXzb/despairmega.png)
 - [:loggers:](https://i.ibb.co/gj5xCT9/loggersbig.png)
 - [:orwell:](https://i.ibb.co/C26jX7M/orwellbig.png)
-- [:trollface:](https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png) (i don't have it as a hotkey yet so i just write `:tro:` as text, which i imagine as a very low-res trollface)
+- [:trollface:](https://upload.wikimedia.org/wikipedia/en/7/73/Trollface.png) (i don't have it as a hotkey yet so i just write `:tro:` as text, which i imagine as a very low-res trollface)
 - :sob: (😭)
 - :skull: (💀)
 - :pensive: (😔)

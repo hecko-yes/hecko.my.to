@@ -124,7 +124,7 @@ most models do rely on mass internet scrapes, but some people are already trying
 some examples:
 - the [common canvas](https://huggingface.co/common-canvas) series is trained on creative commons data and claims to be on the level of stable diffusion 2 (does use a text encoder trained on internet scrapes though)
 - [mitsua diffusion one](https://huggingface.co/Mitsua/mitsua-diffusion-one) is trained on public-domain data and it's,, trying; if nothing else it generated pretty decent fox fur in the shape of an input text image when i tried it (this one also uses a scrape-trained text encoder but their next work-in-progress iteration is entirely cleanroom, plus it has some data from explicitly consenting artists)
-- [adobe firefly](https://www.adobe.com/products/firefly.html) and [getty images' thing](https://www.gettyimages.com/ai/generation/about), both trained on their stock libraries (though idk maybe some courts declare that permission insufficient, and [whoops](https://www.entrepreneur.com/business-news/adobes-firefly-ai-image-generator-partly-trained-with-ai/472622) firefly was partially trained on output from models)
+- [adobe firefly](https://www.adobe.com/products/firefly.html) and [getty images' thing](https://www.gettyimages.com/ai), both trained on their stock libraries (though idk maybe some courts declare that permission insufficient, and [whoops](https://www.entrepreneur.com/business-news/adobes-firefly-ai-image-generator-partly-trained-with-ai/472622) firefly was partially trained on output from models)
 
 and there's work toward making models require less data, e.g. [MicroDiT](https://x.com/VSehwag_/status/1815729297606214013) which came out while i was writing this (july 20-31, 2024, for the first public version)
 
@@ -220,7 +220,7 @@ and that's without optimizations, and of course there are plenty of optimization
 so when you try to call out image generation for being wasteful it just doesn't hit them! and instead it hits e.g. 3d artists who also use a lot of gpu time to render their stuff (also gamers)
 
 in terms of training: mmmaybe
-i did the math and [a replication of stable diffusion 2](https://www.databricks.com/blog/diffusion) warmed the globe less than *one* car does in *one* year (21k gpu-hours × a100's max consumption of [400w](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/nvidia-a100-datasheet.pdf) = 8400 kwh, equivalent to 3.5 metric tons of co₂ or 0.833 cars driven for a year per [epa's calculator](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator))
+i did the math and [a replication of stable diffusion 2](https://www.databricks.com/blog/diffusion) warmed the globe less than *one* car does in *one* year (21k gpu-hours × a100's max consumption of [400w](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/a100/pdf/nvidia-a100-datasheet-nvidia-us-2188504-web.pdf) = 8400 kwh, equivalent to 3.5 metric tons of co₂ or 0.833 cars driven for a year per [epa's calculator](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator))
 to be fair that doesn't take into account inefficiencies in new areas (this one specifically was 8x cheaper than what it took for the real sd2), failed runs, other people's finetunes, the production of more gpu·s...
 and of course companies are gonna use as much as they can get their mitts on to make bigger models (which is the most in-common thing i can think of that generative models have to crypto)
 

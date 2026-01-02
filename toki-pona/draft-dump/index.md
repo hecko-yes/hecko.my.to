@@ -572,7 +572,7 @@ taso wile li wawa
 mi meli jaki a
 
 # poki pi ilo Saki
-[semi-private doc created 2025-03-13, last edited 2025-03-14](http://simp.ly/p/XdpB2M) (only shared in a dm before now)
+[semi-private doc created 2025-03-13, last edited 2025-03-14](https://app.simplenote.com/p/XdpB2M) (only shared in a dm before now)
 original: [XTRATUNA - JACKIE'S BOX](https://www.youtube.com/watch?v=Yp8o35zahgo)
 
 mi monsuta ilo Mimi · lon a
