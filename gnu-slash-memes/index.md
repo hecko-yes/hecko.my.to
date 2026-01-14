@@ -102,6 +102,7 @@ very lacking as of current; if you have any suggestions then contact is apprecia
 | [the dover boys at pimento university](https://en.wikipedia.org/wiki/File:The_Dover_Boys_at_Pimento_University_1080p.webm) | pd | a modern-feeling merrie melodies cartoon |
 | [mr bean](https://commons.wikimedia.org/wiki/Category:Videos_of_Mr._Bean) | by |
 | some cartoon clips | by | according to [this comment by RockosModernLifeFan on reddit](https://www.reddit.com/r/publicdomain/comments/1hsypsl/a_list_of_publicdomain_and_creative_commons_memes/mlxaukw/); i've yet to dig for the uploads in question |
+| [rudolph the red-nosed reindeer (1964)](https://archive.org/details/rudolph-the-red-nosed-reindeer-full-movie-1080-p-hd) | pd\* | this one's very sketchy, since the only reason it's public-domain (and only in the us) is because [the copyright notice](https://commons.wikimedia.org/wiki/File:Rudolph_the_Red-Nosed_Reindeer_defective_copyright_notice.jpg) has the year typo'd as 1164 (back when that mattered); i don't know about e.g. the music, but at least "[why weren't you at elf practice](https://knowyourmeme.com/memes/why-werent-you-at-elf-practice)" (13:58) should be fine? |
 
 # games
 
